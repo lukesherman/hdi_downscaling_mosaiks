@@ -1,0 +1,2586 @@
+Country,ISO_Code,Level,GDLCODE,Region,"2018"
+"Afghanistan","AFG","National","AFGt","Total",51.0
+"Afghanistan","AFG","Urb/rur","AFGtu","Urban",65.5
+"Afghanistan","AFG","Urb/rur","AFGtr","Rural",46.0
+"Afghanistan","AFG","Poverty","AFGp1","Poor",37.9
+"Afghanistan","AFG","Poverty","AFGp0","Nonpoor",65.3
+"Afghanistan","AFG","Wealth quartiles","AFGw41","Lowest 25%",42.0
+"Afghanistan","AFG","Wealth quartiles","AFGw42","Second 25%",43.6
+"Afghanistan","AFG","Wealth quartiles","AFGw43","Third 25%",49.7
+"Afghanistan","AFG","Wealth quartiles","AFGw44","Highest 25%",68.7
+"Afghanistan","AFG","Subnat","AFGr101","Central (Kabul Wardak Kapisa Logar Parwan Panjsher)",58.0
+"Afghanistan","AFG","Subnat","AFGr102","Central Highlands (Bamyan Daikundi)",41.8
+"Afghanistan","AFG","Subnat","AFGr103","East (Nangarhar Kunar Laghman Nooristan)",41.3
+"Afghanistan","AFG","Subnat","AFGr104","North (Samangan Sar-e-Pul Balkh Jawzjan Faryab)",56.5
+"Afghanistan","AFG","Subnat","AFGr105","North East (Baghlan Takhar Badakhshan Kunduz)",46.2
+"Afghanistan","AFG","Subnat","AFGr106","South (Uruzgan Helmand Zabul Nimroz Kandahar)",50.0
+"Afghanistan","AFG","Subnat","AFGr107","South East (Ghazni Paktya Paktika Khost)",48.2
+"Afghanistan","AFG","Subnat","AFGr108","West (Ghor Herat Badghis Farah)",47.9
+"Albania","ALB","National","ALBt","Total",86.1
+"Albania","ALB","Urb/rur","ALBtu","Urban",87.6
+"Albania","ALB","Urb/rur","ALBtr","Rural",83.7
+"Albania","ALB","Poverty","ALBp1","Poor",41.2
+"Albania","ALB","Poverty","ALBp0","Nonpoor",86.3
+"Albania","ALB","Wealth quartiles","ALBw41","Lowest 25%",79.7
+"Albania","ALB","Wealth quartiles","ALBw42","Second 25%",85.9
+"Albania","ALB","Wealth quartiles","ALBw43","Third 25%",87.9
+"Albania","ALB","Wealth quartiles","ALBw44","Highest 25%",90.9
+"Albania","ALB","Subnat","ALBr201"," Berat",85.0
+"Albania","ALB","Subnat","ALBr202"," Diber",85.5
+"Albania","ALB","Subnat","ALBr203"," Durres",89.7
+"Albania","ALB","Subnat","ALBr204"," Elbasan",85.2
+"Albania","ALB","Subnat","ALBr205"," Fier",80.8
+"Albania","ALB","Subnat","ALBr206"," Gjirokaster",87.5
+"Albania","ALB","Subnat","ALBr207"," Korce",87.0
+"Albania","ALB","Subnat","ALBr208"," Kukes",87.0
+"Albania","ALB","Subnat","ALBr209"," Lezhe",84.1
+"Albania","ALB","Subnat","ALBr210"," Shkoder",88.9
+"Albania","ALB","Subnat","ALBr211"," Tirana",86.4
+"Albania","ALB","Subnat","ALBr212"," Vlore",86.7
+"Algeria","DZA","National","DZAt","Total",85.4
+"Algeria","DZA","Urb/rur","DZAtu","Urban",87.5
+"Algeria","DZA","Urb/rur","DZAtr","Rural",81.7
+"Algeria","DZA","Poverty","DZAp1","Poor",39.9
+"Algeria","DZA","Poverty","DZAp0","Nonpoor",85.7
+"Algeria","DZA","Wealth quartiles","DZAw41","Lowest 25%",76.3
+"Algeria","DZA","Wealth quartiles","DZAw42","Second 25%",85.4
+"Algeria","DZA","Wealth quartiles","DZAw43","Third 25%",88.7
+"Algeria","DZA","Wealth quartiles","DZAw44","Highest 25%",91.4
+"Algeria","DZA","Subnat","DZAr104","Hauts Plateaux Centre (Djelfa, Laghouat, MSila)",85.7
+"Algeria","DZA","Subnat","DZAr105","Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)",84.5
+"Algeria","DZA","Subnat","DZAr106","Hauts Plateaux Ouest (Tiaret, Saida, Tissemsilt, Naama, El Bayadh)",85.2
+"Algeria","DZA","Subnat","DZAr101","Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Bejaia, Chlef, Ain Defla)",86.5
+"Algeria","DZA","Subnat","DZAr102","Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)",84.8
+"Algeria","DZA","Subnat","DZAr103","Nord Ouest (Oran, Tlemcen, Mostaganem, Ain Temouchent, Relizane, Sidi Bel Abbes, Mascara)",84.5
+"Algeria","DZA","Subnat","DZAr107","Sud (Bechar, Tindouf, Adrar, Ghardaia, Biskra, El Oued, Ouargla, Tamanrasset,Illizi)",85.8
+"Angola","AGO","National","AGOt","Total",40.9
+"Angola","AGO","Urb/rur","AGOtu","Urban",56.4
+"Angola","AGO","Urb/rur","AGOtr","Rural",16.4
+"Angola","AGO","Poverty","AGOp1","Poor",19.9
+"Angola","AGO","Poverty","AGOp0","Nonpoor",72.1
+"Angola","AGO","Wealth quartiles","AGOw41","Lowest 25%",9.53
+"Angola","AGO","Wealth quartiles","AGOw42","Second 25%",22.6
+"Angola","AGO","Wealth quartiles","AGOw43","Third 25%",52.6
+"Angola","AGO","Wealth quartiles","AGOw44","Highest 25%",78.9
+"Angola","AGO","Subnat","AGOr218"," Bengo",33.8
+"Angola","AGO","Subnat","AGOr209"," Benguela",35.3
+"Angola","AGO","Subnat","AGOr211"," Bie",20.8
+"Angola","AGO","Subnat","AGOr201"," Cabinda",53.9
+"Angola","AGO","Subnat","AGOr216"," Cunene",23.4
+"Angola","AGO","Subnat","AGOr210"," Huambo",30.8
+"Angola","AGO","Subnat","AGOr215"," Huila",28.1
+"Angola","AGO","Subnat","AGOr213"," Kuando Kubango",26.2
+"Angola","AGO","Subnat","AGOr205"," Kuanza Norte",30.4
+"Angola","AGO","Subnat","AGOr206"," Kuanza Sul",22.7
+"Angola","AGO","Subnat","AGOr204"," Luanda",67.2
+"Angola","AGO","Subnat","AGOr208"," Lunda Norte",28.1
+"Angola","AGO","Subnat","AGOr217"," Lunda Sul",32.6
+"Angola","AGO","Subnat","AGOr207"," Malange",34.0
+"Angola","AGO","Subnat","AGOr212"," Moxico",24.1
+"Angola","AGO","Subnat","AGOr214"," Namibe",38.6
+"Angola","AGO","Subnat","AGOr203"," Uige",23.2
+"Angola","AGO","Subnat","AGOr202"," Zaire",40.3
+"Argentina","ARG","National","ARGt","Total",88.6
+"Argentina","ARG","Urb/rur","ARGtu","Urban",88.6
+"Argentina","ARG","Poverty","ARGp1","Poor",40.0
+"Argentina","ARG","Poverty","ARGp0","Nonpoor",89.0
+"Argentina","ARG","Wealth quartiles","ARGw41","Lowest 25%",75.8
+"Argentina","ARG","Wealth quartiles","ARGw42","Second 25%",88.6
+"Argentina","ARG","Wealth quartiles","ARGw43","Third 25%",92.6
+"Argentina","ARG","Wealth quartiles","ARGw44","Highest 25%",96.7
+"Argentina","ARG","Subnat","ARGr103","Catamarca, La Rioja, San Juan",88.7
+"Argentina","ARG","Subnat","ARGr106","Chaco, Formosa",81.5
+"Argentina","ARG","Subnat","ARGr107","Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra del Fuego",92.8
+"Argentina","ARG","Subnat","ARGr101","City of Buenos Aires",92.9
+"Argentina","ARG","Subnat","ARGr104","Cordoba",90.0
+"Argentina","ARG","Subnat","ARGr105","Corrientes, Entre Rios, Misiones",87.5
+"Argentina","ARG","Subnat","ARGr108","Jujuy, Salta",84.2
+"Argentina","ARG","Subnat","ARGr109","La Pampa, San Luis, Mendoza",92.2
+"Argentina","ARG","Subnat","ARGr102","Rest of Buenos Aires",87.2
+"Argentina","ARG","Subnat","ARGr110","Santa Fe",90.1
+"Argentina","ARG","Subnat","ARGr111","Santiago del Estero, Tucuman",87.2
+"Armenia","ARM","National","ARMt","Total",86.2
+"Armenia","ARM","Urb/rur","ARMtu","Urban",89.6
+"Armenia","ARM","Urb/rur","ARMtr","Rural",80.7
+"Armenia","ARM","Poverty","ARMp1","Poor",44.3
+"Armenia","ARM","Poverty","ARMp0","Nonpoor",86.4
+"Armenia","ARM","Wealth quartiles","ARMw41","Lowest 25%",76.7
+"Armenia","ARM","Wealth quartiles","ARMw42","Second 25%",85.3
+"Armenia","ARM","Wealth quartiles","ARMw43","Third 25%",90.0
+"Armenia","ARM","Wealth quartiles","ARMw44","Highest 25%",92.8
+"Armenia","ARM","Subnat","ARMr101","Aragatsotn",83.0
+"Armenia","ARM","Subnat","ARMr102","Ararat",84.8
+"Armenia","ARM","Subnat","ARMr103","Armavir",81.1
+"Armenia","ARM","Subnat","ARMr104","Gegharkunik",79.9
+"Armenia","ARM","Subnat","ARMr106","Kotayk",89.0
+"Armenia","ARM","Subnat","ARMr105","Lori",81.8
+"Armenia","ARM","Subnat","ARMr107","Shirak",85.6
+"Armenia","ARM","Subnat","ARMr108","Syunik",85.9
+"Armenia","ARM","Subnat","ARMr110","Tavush",85.2
+"Armenia","ARM","Subnat","ARMr109","Vayots Dzor",85.8
+"Armenia","ARM","Subnat","ARMr111","Yerevan",90.7
+"Azerbaijan","AZE","National","AZEt","Total",
+"Azerbaijan","AZE","Urb/rur","AZEtu","Urban",
+"Azerbaijan","AZE","Urb/rur","AZEtr","Rural",
+"Azerbaijan","AZE","Poverty","AZEp1","Poor",
+"Azerbaijan","AZE","Poverty","AZEp0","Nonpoor",
+"Azerbaijan","AZE","Wealth quartiles","AZEw41","Lowest 25%",
+"Azerbaijan","AZE","Wealth quartiles","AZEw42","Second 25%",
+"Azerbaijan","AZE","Wealth quartiles","AZEw43","Third 25%",
+"Azerbaijan","AZE","Wealth quartiles","AZEw44","Highest 25%",
+"Azerbaijan","AZE","Subnat","AZEr102","Absheron",
+"Azerbaijan","AZE","Subnat","AZEr107","Aran",
+"Azerbaijan","AZE","Subnat","AZEr101","Baku",
+"Azerbaijan","AZE","Subnat","AZEr109","Dakhlik Shirvan",
+"Azerbaijan","AZE","Subnat","AZEr103","Ganja Gazakh",
+"Azerbaijan","AZE","Subnat","AZEr106","Guba Khachmaz",
+"Azerbaijan","AZE","Subnat","AZEr105","Lankaran",
+"Azerbaijan","AZE","Subnat","AZEr104","Shaki Zaqatala",
+"Azerbaijan","AZE","Subnat","AZEr108","Yukhari Karabakh",
+"Bangladesh","BGD","National","BGDt","Total",47.6
+"Bangladesh","BGD","Urb/rur","BGDtu","Urban",60.9
+"Bangladesh","BGD","Urb/rur","BGDtr","Rural",43.5
+"Bangladesh","BGD","Poverty","BGDp1","Poor",34.2
+"Bangladesh","BGD","Poverty","BGDp0","Nonpoor",67.1
+"Bangladesh","BGD","Wealth quartiles","BGDw41","Lowest 25%",28.0
+"Bangladesh","BGD","Wealth quartiles","BGDw42","Second 25%",38.2
+"Bangladesh","BGD","Wealth quartiles","BGDw43","Third 25%",52.8
+"Bangladesh","BGD","Wealth quartiles","BGDw44","Highest 25%",71.3
+"Bangladesh","BGD","Subnat","BGDr214"," Bagerhat, Khulna, Satkhira",45.0
+"Bangladesh","BGD","Subnat","BGDr204"," Bandarban, Cox s Bazar",35.5
+"Bangladesh","BGD","Subnat","BGDr202"," Barguna, Bhola, Patuakhali",37.1
+"Bangladesh","BGD","Subnat","BGDr201"," Barisal, Jhalokati, Pirojpur",43.4
+"Bangladesh","BGD","Subnat","BGDr219"," Bogra, Gaibandha, Jaypurhat",42.7
+"Bangladesh","BGD","Subnat","BGDr207"," Brahmanbaria, Chandpur, Comilla",52.4
+"Bangladesh","BGD","Subnat","BGDr203"," Chittagong",56.3
+"Bangladesh","BGD","Subnat","BGDr216"," Chuadanga, Jhenaidah, Kushtia, Meherpur",49.1
+"Bangladesh","BGD","Subnat","BGDr208"," Dhaka",67.7
+"Bangladesh","BGD","Subnat","BGDr220"," Dinajpur, Nilphamari, Panchagarh, Thakurgaon",43.1
+"Bangladesh","BGD","Subnat","BGDr212"," Faridpur, Manikganj, Rajbari",45.0
+"Bangladesh","BGD","Subnat","BGDr206"," Feni, Lakshmipur, Noakhali",47.4
+"Bangladesh","BGD","Subnat","BGDr209"," Gazipur, Narayanganj, Narsingdi",54.7
+"Bangladesh","BGD","Subnat","BGDr213"," Gopalganj, Madaripur, Munshiganj, Shariatpur",49.0
+"Bangladesh","BGD","Subnat","BGDr223"," Habiganj, Sunamganj",39.4
+"Bangladesh","BGD","Subnat","BGDr210"," Jamalpur, Sherpur, Tangail",43.7
+"Bangladesh","BGD","Subnat","BGDr215"," Jessore, Magura, Narail",48.5
+"Bangladesh","BGD","Subnat","BGDr205"," Khagrachhari, Rangamati (Chattagram)",36.6
+"Bangladesh","BGD","Subnat","BGDr211"," Kishoreganj, Mymensingh, Netrakona",40.0
+"Bangladesh","BGD","Subnat","BGDr221"," Kurigram, Lalmonirhat, Rangpur",38.3
+"Bangladesh","BGD","Subnat","BGDr222"," Maulvibazar, Sylhet",50.4
+"Bangladesh","BGD","Subnat","BGDr217"," Naogaon, Nawabganj, Rajshahi",45.4
+"Bangladesh","BGD","Subnat","BGDr218"," Natore, Pabna, Sirajganj",44.0
+"Barbados","BRB","National","BRBt","Total",91.4
+"Barbados","BRB","Urb/rur","BRBtu","Urban",91.5
+"Barbados","BRB","Urb/rur","BRBtr","Rural",91.2
+"Barbados","BRB","Poverty","BRBp1","Poor",36.9
+"Barbados","BRB","Poverty","BRBp0","Nonpoor",91.9
+"Barbados","BRB","Wealth quartiles","BRBw41","Lowest 25%",81.6
+"Barbados","BRB","Wealth quartiles","BRBw42","Second 25%",92.2
+"Barbados","BRB","Wealth quartiles","BRBw43","Third 25%",94.9
+"Barbados","BRB","Wealth quartiles","BRBw44","Highest 25%",96.9
+"Barbados","BRB","Subnat","BRBr102","Christ Church and St. Philip",92.9
+"Barbados","BRB","Subnat","BRBr101","St Michael",89.9
+"Barbados","BRB","Subnat","BRBr103","St. James, St. George, and St. Thomas",92.9
+"Barbados","BRB","Subnat","BRBr104","St. Lucy, St. Peter, St. Andrew, St. Joseph, and St. John",90.3
+"Belarus","BLR","National","BLRt","Total",82.7
+"Belarus","BLR","Urb/rur","BLRtu","Urban",86.3
+"Belarus","BLR","Urb/rur","BLRtr","Rural",72.9
+"Belarus","BLR","Poverty","BLRp1","Poor",41.1
+"Belarus","BLR","Poverty","BLRp0","Nonpoor",83.7
+"Belarus","BLR","Wealth quartiles","BLRw41","Lowest 25%",65.2
+"Belarus","BLR","Wealth quartiles","BLRw42","Second 25%",84.1
+"Belarus","BLR","Wealth quartiles","BLRw43","Third 25%",88.3
+"Belarus","BLR","Wealth quartiles","BLRw44","Highest 25%",93.1
+"Belarus","BLR","Subnat","BLRr101","Brest region",80.1
+"Belarus","BLR","Subnat","BLRr103","Gomel region",80.2
+"Belarus","BLR","Subnat","BLRr104","Grodno region",83.9
+"Belarus","BLR","Subnat","BLRr105","Minsk region",86.3
+"Belarus","BLR","Subnat","BLRr106","Mogilev region",78.5
+"Belarus","BLR","Subnat","BLRr102","Vitebsk region",81.7
+"Belize","BLZ","National","BLZt","Total",75.9
+"Belize","BLZ","Urb/rur","BLZtu","Urban",82.3
+"Belize","BLZ","Urb/rur","BLZtr","Rural",69.8
+"Belize","BLZ","Poverty","BLZp1","Poor",34.8
+"Belize","BLZ","Poverty","BLZp0","Nonpoor",81.4
+"Belize","BLZ","Wealth quartiles","BLZw41","Lowest 25%",49.5
+"Belize","BLZ","Wealth quartiles","BLZw42","Second 25%",77.2
+"Belize","BLZ","Wealth quartiles","BLZw43","Third 25%",85.9
+"Belize","BLZ","Wealth quartiles","BLZw44","Highest 25%",91.0
+"Belize","BLZ","Subnat","BLZr102","Belize",81.5
+"Belize","BLZ","Subnat","BLZr103","Cayo",56.5
+"Belize","BLZ","Subnat","BLZr101","Corozal, Orange Walk",73.9
+"Belize","BLZ","Subnat","BLZr104","Stann Creek, Toledo",77.4
+"Benin","BEN","National","BENt","Total",36.4
+"Benin","BEN","Urb/rur","BENtu","Urban",44.9
+"Benin","BEN","Urb/rur","BENtr","Rural",29.9
+"Benin","BEN","Poverty","BENp1","Poor",28.2
+"Benin","BEN","Poverty","BENp0","Nonpoor",64.2
+"Benin","BEN","Wealth quartiles","BENw41","Lowest 25%",18.3
+"Benin","BEN","Wealth quartiles","BENw42","Second 25%",28.2
+"Benin","BEN","Wealth quartiles","BENw43","Third 25%",38.6
+"Benin","BEN","Wealth quartiles","BENw44","Highest 25%",60.4
+"Benin","BEN","Subnat","BENr101","Atacora (incl Donga)",33.2
+"Benin","BEN","Subnat","BENr102","Atlantique (incl Littoral (Cotonou))",46.9
+"Benin","BEN","Subnat","BENr103","Borgou (incl Alibori)",32.4
+"Benin","BEN","Subnat","BENr104","Mono (incl Couffo)",29.2
+"Benin","BEN","Subnat","BENr105","Queme (incl Plateau)",37.6
+"Benin","BEN","Subnat","BENr106","Zou (incl Collines)",35.3
+"Bhutan","BTN","National","BTNt","Total",
+"Bhutan","BTN","Urb/rur","BTNtu","Urban",
+"Bhutan","BTN","Urb/rur","BTNtr","Rural",
+"Bhutan","BTN","Poverty","BTNp1","Poor",
+"Bhutan","BTN","Poverty","BTNp0","Nonpoor",
+"Bhutan","BTN","Wealth quartiles","BTNw41","Lowest 25%",
+"Bhutan","BTN","Wealth quartiles","BTNw42","Second 25%",
+"Bhutan","BTN","Wealth quartiles","BTNw43","Third 25%",
+"Bhutan","BTN","Wealth quartiles","BTNw44","Highest 25%",
+"Bhutan","BTN","Subnat","BTNr101","Bumthang",
+"Bhutan","BTN","Subnat","BTNr102","Chukha",
+"Bhutan","BTN","Subnat","BTNr103","Dagana",
+"Bhutan","BTN","Subnat","BTNr104","Gasa",
+"Bhutan","BTN","Subnat","BTNr105","Haa",
+"Bhutan","BTN","Subnat","BTNr106","Lhuntse",
+"Bhutan","BTN","Subnat","BTNr107","Mongar",
+"Bhutan","BTN","Subnat","BTNr108","Paro",
+"Bhutan","BTN","Subnat","BTNr109","Pemagatshel",
+"Bhutan","BTN","Subnat","BTNr110","Punakha",
+"Bhutan","BTN","Subnat","BTNr111","Samdrup jongkhar",
+"Bhutan","BTN","Subnat","BTNr112","Samtse",
+"Bhutan","BTN","Subnat","BTNr113","Sarpang",
+"Bhutan","BTN","Subnat","BTNr114","Thimphu",
+"Bhutan","BTN","Subnat","BTNr115","Trashigang",
+"Bhutan","BTN","Subnat","BTNr116","Trashiyangtse",
+"Bhutan","BTN","Subnat","BTNr117","Trongsa",
+"Bhutan","BTN","Subnat","BTNr118","Tsirang",
+"Bhutan","BTN","Subnat","BTNr119","Wangdi",
+"Bhutan","BTN","Subnat","BTNr120","Zhemgang",
+"Bolivia","BOL","National","BOLt","Total",
+"Bolivia","BOL","Urb/rur","BOLtu","Urban",
+"Bolivia","BOL","Urb/rur","BOLtr","Rural",
+"Bolivia","BOL","Poverty","BOLp1","Poor",
+"Bolivia","BOL","Poverty","BOLp0","Nonpoor",
+"Bolivia","BOL","Wealth quartiles","BOLw41","Lowest 25%",
+"Bolivia","BOL","Wealth quartiles","BOLw42","Second 25%",
+"Bolivia","BOL","Wealth quartiles","BOLw43","Third 25%",
+"Bolivia","BOL","Wealth quartiles","BOLw44","Highest 25%",
+"Bolivia","BOL","Subnat","BOLr108","Beni",
+"Bolivia","BOL","Subnat","BOLr101","Chuquisaca",
+"Bolivia","BOL","Subnat","BOLr103","Cochabamba",
+"Bolivia","BOL","Subnat","BOLr102","La Paz",
+"Bolivia","BOL","Subnat","BOLr104","Oruro",
+"Bolivia","BOL","Subnat","BOLr109","Pando",
+"Bolivia","BOL","Subnat","BOLr105","Potosi",
+"Bolivia","BOL","Subnat","BOLr107","Santa Cruz",
+"Bolivia","BOL","Subnat","BOLr106","Tarija",
+"Bosnia and Herzegovina","BIH","National","BIHt","Total",91.3
+"Bosnia and Herzegovina","BIH","Urb/rur","BIHtu","Urban",93.0
+"Bosnia and Herzegovina","BIH","Urb/rur","BIHtr","Rural",90.2
+"Bosnia and Herzegovina","BIH","Poverty","BIHp1","Poor",41.0
+"Bosnia and Herzegovina","BIH","Poverty","BIHp0","Nonpoor",91.6
+"Bosnia and Herzegovina","BIH","Wealth quartiles","BIHw41","Lowest 25%",82.0
+"Bosnia and Herzegovina","BIH","Wealth quartiles","BIHw42","Second 25%",91.9
+"Bosnia and Herzegovina","BIH","Wealth quartiles","BIHw43","Third 25%",94.6
+"Bosnia and Herzegovina","BIH","Wealth quartiles","BIHw44","Highest 25%",96.4
+"Bosnia and Herzegovina","BIH","Subnat","BIHr103","Central Bosnia",92.3
+"Bosnia and Herzegovina","BIH","Subnat","BIHr102","Northern Bosnia",88.3
+"Bosnia and Herzegovina","BIH","Subnat","BIHr105","Republica Srpska",89.9
+"Bosnia and Herzegovina","BIH","Subnat","BIHr101","Western Bosnia",95.3
+"Bosnia and Herzegovina","BIH","Subnat","BIHr104","Western herzegovina",93.9
+"Botswana","BWA","National","BWAt","Total",59.1
+"Botswana","BWA","Urb/rur","BWAtu","Urban",67.6
+"Botswana","BWA","Urb/rur","BWAtr","Rural",44.4
+"Botswana","BWA","Poverty","BWAp1","Poor",32.2
+"Botswana","BWA","Poverty","BWAp0","Nonpoor",72.9
+"Botswana","BWA","Wealth quartiles","BWAw41","Lowest 25%",27.2
+"Botswana","BWA","Wealth quartiles","BWAw42","Second 25%",51.9
+"Botswana","BWA","Wealth quartiles","BWAw43","Third 25%",67.2
+"Botswana","BWA","Wealth quartiles","BWAw44","Highest 25%",90.9
+"Botswana","BWA","Subnat","BWAr101","Central",55.3
+"Botswana","BWA","Subnat","BWAr110","Chobe",56.2
+"Botswana","BWA","Subnat","BWAr102","Ghanzi",52.9
+"Botswana","BWA","Subnat","BWAr103","Kgalagadi",54.3
+"Botswana","BWA","Subnat","BWAr104","Kgatleng",61.3
+"Botswana","BWA","Subnat","BWAr105","Kweneng",56.2
+"Botswana","BWA","Subnat","BWAr106","North-East",64.2
+"Botswana","BWA","Subnat","BWAr107","North-West, Ngamiland",49.6
+"Botswana","BWA","Subnat","BWAr108","South-East",73.5
+"Botswana","BWA","Subnat","BWAr109","Southern",56.1
+"Brazil","BRA","National","BRAt","Total",
+"Brazil","BRA","Urb/rur","BRAtu","Urban",
+"Brazil","BRA","Urb/rur","BRAtr","Rural",
+"Brazil","BRA","Poverty","BRAp1","Poor",
+"Brazil","BRA","Poverty","BRAp0","Nonpoor",
+"Brazil","BRA","Wealth quartiles","BRAw41","Lowest 25%",
+"Brazil","BRA","Wealth quartiles","BRAw42","Second 25%",
+"Brazil","BRA","Wealth quartiles","BRAw43","Third 25%",
+"Brazil","BRA","Wealth quartiles","BRAw44","Highest 25%",
+"Brazil","BRA","Subnat","BRAr102","Acre",
+"Brazil","BRA","Subnat","BRAr114","Alagoas",
+"Brazil","BRA","Subnat","BRAr106","Amapa",
+"Brazil","BRA","Subnat","BRAr103","Amazonas",
+"Brazil","BRA","Subnat","BRAr116","Bahia",
+"Brazil","BRA","Subnat","BRAr110","Ceara",
+"Brazil","BRA","Subnat","BRAr127","Distrito Federal",
+"Brazil","BRA","Subnat","BRAr118","Espirito Santo",
+"Brazil","BRA","Subnat","BRAr126","Goias",
+"Brazil","BRA","Subnat","BRAr108","Maranhao",
+"Brazil","BRA","Subnat","BRAr125","Mato Grosso",
+"Brazil","BRA","Subnat","BRAr124","Mato Grosso do Sul",
+"Brazil","BRA","Subnat","BRAr117","Minas Gerais",
+"Brazil","BRA","Subnat","BRAr105","Para",
+"Brazil","BRA","Subnat","BRAr112","Paraiba",
+"Brazil","BRA","Subnat","BRAr121","Parana",
+"Brazil","BRA","Subnat","BRAr113","Pernambuco",
+"Brazil","BRA","Subnat","BRAr109","Piaui",
+"Brazil","BRA","Subnat","BRAr119","Rio de Janeiro",
+"Brazil","BRA","Subnat","BRAr111","Rio Grande do Norte",
+"Brazil","BRA","Subnat","BRAr123","Rio Grande do Sul",
+"Brazil","BRA","Subnat","BRAr101","Rondonia",
+"Brazil","BRA","Subnat","BRAr104","Roraima",
+"Brazil","BRA","Subnat","BRAr122","Santa Catarina",
+"Brazil","BRA","Subnat","BRAr120","Sao Paulo",
+"Brazil","BRA","Subnat","BRAr115","Sergipe",
+"Brazil","BRA","Subnat","BRAr107","Tocantins",
+"Burkina Faso","BFA","National","BFAt","Total",
+"Burkina Faso","BFA","Urb/rur","BFAtu","Urban",
+"Burkina Faso","BFA","Urb/rur","BFAtr","Rural",
+"Burkina Faso","BFA","Poverty","BFAp1","Poor",
+"Burkina Faso","BFA","Poverty","BFAp0","Nonpoor",
+"Burkina Faso","BFA","Wealth quartiles","BFAw41","Lowest 25%",
+"Burkina Faso","BFA","Wealth quartiles","BFAw42","Second 25%",
+"Burkina Faso","BFA","Wealth quartiles","BFAw43","Third 25%",
+"Burkina Faso","BFA","Wealth quartiles","BFAw44","Highest 25%",
+"Burkina Faso","BFA","Subnat","BFAr101","Boucle de Mouhoun",
+"Burkina Faso","BFA","Subnat","BFAr102","Cascades",
+"Burkina Faso","BFA","Subnat","BFAr103","Centre (incl Ouagadougou)",
+"Burkina Faso","BFA","Subnat","BFAr104","Centre-Est",
+"Burkina Faso","BFA","Subnat","BFAr105","Centre-Nord",
+"Burkina Faso","BFA","Subnat","BFAr106","Centre-Ouest",
+"Burkina Faso","BFA","Subnat","BFAr107","Centre-Sud",
+"Burkina Faso","BFA","Subnat","BFAr108","Est",
+"Burkina Faso","BFA","Subnat","BFAr109","Hauts Bassins",
+"Burkina Faso","BFA","Subnat","BFAr110","Nord",
+"Burkina Faso","BFA","Subnat","BFAr111","Plateau Central",
+"Burkina Faso","BFA","Subnat","BFAr112","Sahel",
+"Burkina Faso","BFA","Subnat","BFAr113","Sud-Ouest",
+"Burundi","BDI","National","BDIt","Total",21.7
+"Burundi","BDI","Urb/rur","BDItu","Urban",46.0
+"Burundi","BDI","Urb/rur","BDItr","Rural",18.7
+"Burundi","BDI","Poverty","BDIp1","Poor",18.9
+"Burundi","BDI","Poverty","BDIp0","Nonpoor",67.8
+"Burundi","BDI","Wealth quartiles","BDIw41","Lowest 25%",9.51
+"Burundi","BDI","Wealth quartiles","BDIw42","Second 25%",16.0
+"Burundi","BDI","Wealth quartiles","BDIw43","Third 25%",21.3
+"Burundi","BDI","Wealth quartiles","BDIw44","Highest 25%",39.9
+"Burundi","BDI","Subnat","BDIr103","East (Cankuzo, Rutana, Ruyigi )",19.1
+"Burundi","BDI","Subnat","BDIr105","Middle (Gitega, Karuzi, Muramvya, Mwaro)",20.6
+"Burundi","BDI","Subnat","BDIr101","North (Kayanza, Kirundo, Muyinga, Ngozi)",17.0
+"Burundi","BDI","Subnat","BDIr102","South (Bururi, Makamba)",24.3
+"Burundi","BDI","Subnat","BDIr104","West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",29.0
+"Cambodia","KHM","National","KHMt","Total",52.3
+"Cambodia","KHM","Urb/rur","KHMtu","Urban",77.8
+"Cambodia","KHM","Urb/rur","KHMtr","Rural",48.0
+"Cambodia","KHM","Poverty","KHMp1","Poor",34.3
+"Cambodia","KHM","Poverty","KHMp0","Nonpoor",69.4
+"Cambodia","KHM","Wealth quartiles","KHMw41","Lowest 25%",29.4
+"Cambodia","KHM","Wealth quartiles","KHMw42","Second 25%",43.3
+"Cambodia","KHM","Wealth quartiles","KHMw43","Third 25%",58.4
+"Cambodia","KHM","Wealth quartiles","KHMw44","Highest 25%",78.2
+"Cambodia","KHM","Subnat","KHMr101","Banteay Mean Chey",58.2
+"Cambodia","KHM","Subnat","KHMr113","Bat Dambang-Krong Pailin",57.7
+"Cambodia","KHM","Subnat","KHMr102","Kampong Cham (incl Tboung Khmum)",47.9
+"Cambodia","KHM","Subnat","KHMr103","Kampong Chhnang",45.7
+"Cambodia","KHM","Subnat","KHMr104","Kampong Spueu",47.2
+"Cambodia","KHM","Subnat","KHMr105","Kampong Thum",45.6
+"Cambodia","KHM","Subnat","KHMr114","Kampot-Krong Kaeb-Krong Preah Sihanouk",48.4
+"Cambodia","KHM","Subnat","KHMr106","Kandal",57.4
+"Cambodia","KHM","Subnat","KHMr107","Kaoh Kong",58.8
+"Cambodia","KHM","Subnat","KHMr116","Mondol Kiri-Rotanak Kiri",47.6
+"Cambodia","KHM","Subnat","KHMr108","Phnom Penh",80.3
+"Cambodia","KHM","Subnat","KHMr110","Pousat",42.8
+"Cambodia","KHM","Subnat","KHMr115","Preah Vihear-Stueng Traeng-Kracheh",40.7
+"Cambodia","KHM","Subnat","KHMr109","Prey Veaeng",50.9
+"Cambodia","KHM","Subnat","KHMr117","Siem Reab-Otdar Mean Chey",47.8
+"Cambodia","KHM","Subnat","KHMr111","Svay Rieng",49.7
+"Cambodia","KHM","Subnat","KHMr112","Takaev",52.1
+"Cameroon","CMR","National","CMRt","Total",45.2
+"Cameroon","CMR","Urb/rur","CMRtu","Urban",59.1
+"Cameroon","CMR","Urb/rur","CMRtr","Rural",27.4
+"Cameroon","CMR","Poverty","CMRp1","Poor",27.0
+"Cameroon","CMR","Poverty","CMRp0","Nonpoor",68.4
+"Cameroon","CMR","Wealth quartiles","CMRw41","Lowest 25%",16.1
+"Cameroon","CMR","Wealth quartiles","CMRw42","Second 25%",34.9
+"Cameroon","CMR","Wealth quartiles","CMRw43","Third 25%",54.4
+"Cameroon","CMR","Wealth quartiles","CMRw44","Highest 25%",75.4
+"Cameroon","CMR","Subnat","CMRr101","Adamaoua",35.7
+"Cameroon","CMR","Subnat","CMRr102","Centre (incl Yaounde)",56.0
+"Cameroon","CMR","Subnat","CMRr103","Est",36.1
+"Cameroon","CMR","Subnat","CMRr104","Extreme Nord",26.4
+"Cameroon","CMR","Subnat","CMRr105","Littoral (incl Douala)",62.5
+"Cameroon","CMR","Subnat","CMRr106","Nord",28.3
+"Cameroon","CMR","Subnat","CMRr107","Nord Ouest",41.3
+"Cameroon","CMR","Subnat","CMRr108","Ouest",48.4
+"Cameroon","CMR","Subnat","CMRr109","Sud",48.4
+"Cameroon","CMR","Subnat","CMRr110","Sud Ouest",66.4
+"Cape Verde","CPV","National","CPVt","Total",76.4
+"Cape Verde","CPV","Urb/rur","CPVtu","Urban",81.4
+"Cape Verde","CPV","Urb/rur","CPVtr","Rural",66.5
+"Cape Verde","CPV","Poverty","CPVp1","Poor",39.9
+"Cape Verde","CPV","Poverty","CPVp0","Nonpoor",80.0
+"Cape Verde","CPV","Wealth quartiles","CPVw41","Lowest 25%",50.9
+"Cape Verde","CPV","Wealth quartiles","CPVw42","Second 25%",72.4
+"Cape Verde","CPV","Wealth quartiles","CPVw43","Third 25%",85.8
+"Cape Verde","CPV","Wealth quartiles","CPVw44","Highest 25%",96.3
+"Cape Verde","CPV","Subnat","CPVr105","Fogo",75.1
+"Cape Verde","CPV","Subnat","CPVr101","S.Antao",73.8
+"Cape Verde","CPV","Subnat","CPVr102","S.Vicente",82.0
+"Cape Verde","CPV","Subnat","CPVr104","Santiago- Praia",80.7
+"Cape Verde","CPV","Subnat","CPVr103","Santiago-Interior",69.0
+"Central African Republic CAR","CAF","National","CAFt","Total",18.7
+"Central African Republic CAR","CAF","Urb/rur","CAFtu","Urban",30.9
+"Central African Republic CAR","CAF","Urb/rur","CAFtr","Rural",12.9
+"Central African Republic CAR","CAF","Poverty","CAFp1","Poor",16.5
+"Central African Republic CAR","CAF","Poverty","CAFp0","Nonpoor",62.8
+"Central African Republic CAR","CAF","Wealth quartiles","CAFw41","Lowest 25%",7.61
+"Central African Republic CAR","CAF","Wealth quartiles","CAFw42","Second 25%",11.4
+"Central African Republic CAR","CAF","Wealth quartiles","CAFw43","Third 25%",18.4
+"Central African Republic CAR","CAF","Wealth quartiles","CAFw44","Highest 25%",37.4
+"Central African Republic CAR","CAF","Subnat","CAFr106","Bangui",41.1
+"Central African Republic CAR","CAF","Subnat","CAFr101","RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi, Ouaka)",18.3
+"Central African Republic CAR","CAF","Subnat","CAFr102","RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)",16.5
+"Central African Republic CAR","CAF","Subnat","CAFr103","RS III (Ouham Pende, Ouham)",13.6
+"Central African Republic CAR","CAF","Subnat","CAFr104","RS IV (Haute-Kotto, Baminigui Bangoran, Vakaga)",16.2
+"Central African Republic CAR","CAF","Subnat","CAFr105","RS V (Basse Kotto, Mbornou, Houte Mbormou)",11.2
+"Chad","TCD","National","TCDt","Total",23.8
+"Chad","TCD","Urb/rur","TCDtu","Urban",39.6
+"Chad","TCD","Urb/rur","TCDtr","Rural",19.8
+"Chad","TCD","Poverty","TCDp1","Poor",20.7
+"Chad","TCD","Poverty","TCDp0","Nonpoor",63.9
+"Chad","TCD","Wealth quartiles","TCDw41","Lowest 25%",11.8
+"Chad","TCD","Wealth quartiles","TCDw42","Second 25%",18.8
+"Chad","TCD","Wealth quartiles","TCDw43","Third 25%",24.2
+"Chad","TCD","Wealth quartiles","TCDw44","Highest 25%",40.2
+"Chad","TCD","Subnat","TCDr101","Zone 1 (N'Djamena)",48.4
+"Chad","TCD","Subnat","TCDr102","Zone 2 (Borkou, Ennedi, Tibesti, Kanem, Barh El Gazal, Lac)",25.1
+"Chad","TCD","Subnat","TCDr103","Zone 3 (Guera, Batha, Salamat)",20.6
+"Chad","TCD","Subnat","TCDr104","Zone 4 (Ouaddai, Assongha, Sila, Biltine - Wadi Fira)",19.2
+"Chad","TCD","Subnat","TCDr105","Zone 5 (Chari-Baguimi, Dababa, Baguirmi, Hadjer Lamis)",24.7
+"Chad","TCD","Subnat","TCDr106","Zone 6 (Mayo-Kebbi Est and Ouest)",23.5
+"Chad","TCD","Subnat","TCDr107","Zone 7 (Logone Occidental & Oriental, Monts de Lam, Tandjile Est & Ouest)",20.5
+"Chad","TCD","Subnat","TCDr108","Zone 8 (Mandoul, Moyen-Chari, Bahr Koh, Lac Iro)",21.1
+"Chili","CHL","National","CHLt","Total",
+"Chili","CHL","Urb/rur","CHLtu","Urban",
+"Chili","CHL","Urb/rur","CHLtr","Rural",
+"Chili","CHL","Poverty","CHLp1","Poor",
+"Chili","CHL","Poverty","CHLp0","Nonpoor",
+"Chili","CHL","Wealth quartiles","CHLw41","Lowest 25%",
+"Chili","CHL","Wealth quartiles","CHLw42","Second 25%",
+"Chili","CHL","Wealth quartiles","CHLw43","Third 25%",
+"Chili","CHL","Wealth quartiles","CHLw44","Highest 25%",
+"Chili","CHL","Subnat","CHLr202"," Centro V - VII",
+"Chili","CHL","Subnat","CHLr201"," Norte I - IV",
+"Chili","CHL","Subnat","CHLr203"," Sur VIII - XII",
+"Chili","CHL","Subnat","CHLr111","Aisen",
+"Chili","CHL","Subnat","CHLr102","Antofagasta",
+"Chili","CHL","Subnat","CHLr109","Arbucania",
+"Chili","CHL","Subnat","CHLr103","Atacama",
+"Chili","CHL","Subnat","CHLr108","Bio Bio",
+"Chili","CHL","Subnat","CHLr104","Coquimbo",
+"Chili","CHL","Subnat","CHLr110","Los Lagos (incl Los Rios)",
+"Chili","CHL","Subnat","CHLr112","Magallanes and La Antartica Chilena",
+"Chili","CHL","Subnat","CHLr107","Maule",
+"Chili","CHL","Subnat","CHLr106","OHiggins",
+"Chili","CHL","Subnat","CHLr113","Region Metropolitana",
+"Chili","CHL","Subnat","CHLr101","Tarapaca (incl Arica and Parinacota)",
+"Chili","CHL","Subnat","CHLr105","Valparaiso (former Aconcagua)",
+"China","CHN","National","CHNt","Total",75.0
+"China","CHN","Urb/rur","CHNtu","Urban",77.6
+"China","CHN","Urb/rur","CHNtr","Rural",70.4
+"China","CHN","Poverty","CHNp1","Poor",40.2
+"China","CHN","Poverty","CHNp0","Nonpoor",77.2
+"China","CHN","Wealth quartiles","CHNw41","Lowest 25%",55.4
+"China","CHN","Wealth quartiles","CHNw42","Second 25%",73.0
+"China","CHN","Wealth quartiles","CHNw43","Third 25%",80.9
+"China","CHN","Wealth quartiles","CHNw44","Highest 25%",89.9
+"China","CHN","Subnat","CHNr201"," Beijing, Tianjin, Hebei, Shandong",78.1
+"China","CHN","Subnat","CHNr206"," Chongqing, Sichuan, Guizhou, Yunnan, Tibet",72.2
+"China","CHN","Subnat","CHNr204"," Fujian,  Guangdong, Hainan",77.1
+"China","CHN","Subnat","CHNr208"," Gansu, Qinghai, Ningxia, Xinjiang",72.3
+"China","CHN","Subnat","CHNr207"," Henan, Shanxi, Shaanxi, Inner Mongolia",73.0
+"China","CHN","Subnat","CHNr205"," Hubei, Jiangxi, Hunan, Guangxi",73.2
+"China","CHN","Subnat","CHNr202"," Liaoning, Jilin, Heilongjiang",71.8
+"China","CHN","Subnat","CHNr203"," Shanghai, Jiangsu, Zhejiang, Anhui",78.2
+"China","CHN","Subnat","CHNr112","Anhui",71.4
+"China","CHN","Subnat","CHNr101","Beijing",83.0
+"China","CHN","Subnat","CHNr122","Chongqing",73.0
+"China","CHN","Subnat","CHNr113","Fujian",78.7
+"China","CHN","Subnat","CHNr128","Gansu",71.5
+"China","CHN","Subnat","CHNr119","Guangdong",76.4
+"China","CHN","Subnat","CHNr120","Guangxi Zhuang",73.3
+"China","CHN","Subnat","CHNr124","Guizhou",71.3
+"China","CHN","Subnat","CHNr121","Hainan",67.8
+"China","CHN","Subnat","CHNr103","Hebei",76.3
+"China","CHN","Subnat","CHNr108","Heilongjiang",68.6
+"China","CHN","Subnat","CHNr116","Henan",70.9
+"China","CHN","Subnat","CHNr117","Hubei",73.2
+"China","CHN","Subnat","CHNr118","Hunan",73.1
+"China","CHN","Subnat","CHNr105","Inner Mongolia",74.8
+"China","CHN","Subnat","CHNr110","Jiangsu",80.0
+"China","CHN","Subnat","CHNr114","Jiangxi",72.1
+"China","CHN","Subnat","CHNr107","Jilin",71.0
+"China","CHN","Subnat","CHNr106","Liaoning",72.7
+"China","CHN","Subnat","CHNr130","Ningxia",75.4
+"China","CHN","Subnat","CHNr129","Qinghai",74.8
+"China","CHN","Subnat","CHNr127","Shaanxi",75.8
+"China","CHN","Subnat","CHNr115","Shandong",77.1
+"China","CHN","Subnat","CHNr109","Shanghai",79.6
+"China","CHN","Subnat","CHNr104","Shanxi",70.8
+"China","CHN","Subnat","CHNr123","Sichuan",74.2
+"China","CHN","Subnat","CHNr102","Tianjin",76.8
+"China","CHN","Subnat","CHNr131","Xinjiang",
+"China","CHN","Subnat","CHNr125","Yunnan",71.0
+"China","CHN","Subnat","CHNr111","Zhejiang",77.7
+"Colombia","COL","National","COLt","Total",82.7
+"Colombia","COL","Urb/rur","COLtu","Urban",87.7
+"Colombia","COL","Urb/rur","COLtr","Rural",65.6
+"Colombia","COL","Poverty","COLp1","Poor",34.1
+"Colombia","COL","Poverty","COLp0","Nonpoor",85.8
+"Colombia","COL","Wealth quartiles","COLw41","Lowest 25%",63.2
+"Colombia","COL","Wealth quartiles","COLw42","Second 25%",81.5
+"Colombia","COL","Wealth quartiles","COLw43","Third 25%",90.8
+"Colombia","COL","Wealth quartiles","COLw44","Highest 25%",95.5
+"Colombia","COL","Subnat","COLr129","Amazonas",66.7
+"Colombia","COL","Subnat","COLr101","Antioquia (incl Medellin)",85.5
+"Colombia","COL","Subnat","COLr125","Arauca",80.3
+"Colombia","COL","Subnat","COLr102","Atlantico (incl Barranquilla)",85.2
+"Colombia","COL","Subnat","COLr103","Bogota D.C.",89.9
+"Colombia","COL","Subnat","COLr104","Bolivar (Sur and Norte)",76.6
+"Colombia","COL","Subnat","COLr105","Boyaca",80.6
+"Colombia","COL","Subnat","COLr106","Caldas",86.3
+"Colombia","COL","Subnat","COLr107","Caqueta",73.5
+"Colombia","COL","Subnat","COLr126","Casanare",78.4
+"Colombia","COL","Subnat","COLr108","Cauca",72.8
+"Colombia","COL","Subnat","COLr109","Cesar",74.5
+"Colombia","COL","Subnat","COLr112","Choco",60.1
+"Colombia","COL","Subnat","COLr110","Cordoba",70.6
+"Colombia","COL","Subnat","COLr111","Cundinamarca",84.8
+"Colombia","COL","Subnat","COLr130","Guainja",52.7
+"Colombia","COL","Subnat","COLr114","Guajira",65.3
+"Colombia","COL","Subnat","COLr131","Guaviare",77.9
+"Colombia","COL","Subnat","COLr113","Huila",82.0
+"Colombia","COL","Subnat","COLr115","Magdalena",73.6
+"Colombia","COL","Subnat","COLr116","Meta",83.2
+"Colombia","COL","Subnat","COLr117","Narino",73.1
+"Colombia","COL","Subnat","COLr118","Norte de Santander",83.0
+"Colombia","COL","Subnat","COLr127","Putumayo",74.2
+"Colombia","COL","Subnat","COLr119","Quindio",88.6
+"Colombia","COL","Subnat","COLr120","Risaralda",86.9
+"Colombia","COL","Subnat","COLr128","San Andres",85.0
+"Colombia","COL","Subnat","COLr121","Santander",85.9
+"Colombia","COL","Subnat","COLr122","Sucre",75.5
+"Colombia","COL","Subnat","COLr123","Tolima",78.0
+"Colombia","COL","Subnat","COLr124","Valle (incl Cali)",88.4
+"Colombia","COL","Subnat","COLr132","Vaupis",42.0
+"Colombia","COL","Subnat","COLr133","Vichada",80.5
+"Comoros","COM","National","COMt","Total",46.5
+"Comoros","COM","Urb/rur","COMtu","Urban",56.0
+"Comoros","COM","Urb/rur","COMtr","Rural",41.8
+"Comoros","COM","Poverty","COMp1","Poor",30.9
+"Comoros","COM","Poverty","COMp0","Nonpoor",65.9
+"Comoros","COM","Wealth quartiles","COMw41","Lowest 25%",23.1
+"Comoros","COM","Wealth quartiles","COMw42","Second 25%",40.0
+"Comoros","COM","Wealth quartiles","COMw43","Third 25%",52.7
+"Comoros","COM","Wealth quartiles","COMw44","Highest 25%",70.2
+"Comoros","COM","Subnat","COMr103","Anjouan (Ndzouani)",43.7
+"Comoros","COM","Subnat","COMr101","Grande Comore (Ngazidja)",49.8
+"Comoros","COM","Subnat","COMr102","Moheli",44.1
+"Congo Brazzaville","COG","National","COGt","Total",47.0
+"Congo Brazzaville","COG","Urb/rur","COGtu","Urban",58.5
+"Congo Brazzaville","COG","Urb/rur","COGtr","Rural",24.2
+"Congo Brazzaville","COG","Poverty","COGp1","Poor",26.6
+"Congo Brazzaville","COG","Poverty","COGp0","Nonpoor",68.2
+"Congo Brazzaville","COG","Wealth quartiles","COGw41","Lowest 25%",16.5
+"Congo Brazzaville","COG","Wealth quartiles","COGw42","Second 25%",37.9
+"Congo Brazzaville","COG","Wealth quartiles","COGw43","Third 25%",58.0
+"Congo Brazzaville","COG","Wealth quartiles","COGw44","Highest 25%",75.7
+"Congo Brazzaville","COG","Subnat","COGr204"," Bouenza",31.8
+"Congo Brazzaville","COG","Subnat","COGr211"," Brazzaville",61.0
+"Congo Brazzaville","COG","Subnat","COGr207"," Cuvette",34.5
+"Congo Brazzaville","COG","Subnat","COGr208"," Cuvette Ouest",20.9
+"Congo Brazzaville","COG","Subnat","COGr201"," Kouilou",24.0
+"Congo Brazzaville","COG","Subnat","COGr203"," Lekoumou",23.4
+"Congo Brazzaville","COG","Subnat","COGr210"," Likouala",23.2
+"Congo Brazzaville","COG","Subnat","COGr202"," Niari",35.0
+"Congo Brazzaville","COG","Subnat","COGr206"," Plateaux",25.2
+"Congo Brazzaville","COG","Subnat","COGr212"," Pointe Noire",56.5
+"Congo Brazzaville","COG","Subnat","COGr205"," Pool",19.9
+"Congo Brazzaville","COG","Subnat","COGr209"," Sangha",30.9
+"Congo Democratic Republic","COD","National","CODt","Total",27.7
+"Congo Democratic Republic","COD","Urb/rur","CODtu","Urban",44.1
+"Congo Democratic Republic","COD","Urb/rur","CODtr","Rural",16.3
+"Congo Democratic Republic","COD","Poverty","CODp1","Poor",19.9
+"Congo Democratic Republic","COD","Poverty","CODp0","Nonpoor",65.9
+"Congo Democratic Republic","COD","Wealth quartiles","CODw41","Lowest 25%",11.2
+"Congo Democratic Republic","COD","Wealth quartiles","CODw42","Second 25%",16.5
+"Congo Democratic Republic","COD","Wealth quartiles","CODw43","Third 25%",25.9
+"Congo Democratic Republic","COD","Wealth quartiles","CODw44","Highest 25%",57.4
+"Congo Democratic Republic","COD","Subnat","CODr103","Bandundu",15.4
+"Congo Democratic Republic","COD","Subnat","CODr102","Bas-Congo",30.3
+"Congo Democratic Republic","COD","Subnat","CODr104","Equateur",18.4
+"Congo Democratic Republic","COD","Subnat","CODr111","Kasai Occidental",13.5
+"Congo Democratic Republic","COD","Subnat","CODr110","Kasai Oriental",19.5
+"Congo Democratic Republic","COD","Subnat","CODr109","Katanga",28.3
+"Congo Democratic Republic","COD","Subnat","CODr101","Kinshasa",58.4
+"Congo Democratic Republic","COD","Subnat","CODr108","Maniema",14.3
+"Congo Democratic Republic","COD","Subnat","CODr106","Nord-Kivu",29.7
+"Congo Democratic Republic","COD","Subnat","CODr105","Orientale",25.2
+"Congo Democratic Republic","COD","Subnat","CODr107","Sud-Kivu",29.0
+"Costa Rica","CRI","National","CRIt","Total",90.5
+"Costa Rica","CRI","Urb/rur","CRItu","Urban",91.5
+"Costa Rica","CRI","Urb/rur","CRItr","Rural",88.0
+"Costa Rica","CRI","Poverty","CRIp1","Poor",41.7
+"Costa Rica","CRI","Poverty","CRIp0","Nonpoor",89.1
+"Costa Rica","CRI","Wealth quartiles","CRIw41","Lowest 25%",82.2
+"Costa Rica","CRI","Wealth quartiles","CRIw42","Second 25%",90.6
+"Costa Rica","CRI","Wealth quartiles","CRIw43","Third 25%",93.3
+"Costa Rica","CRI","Wealth quartiles","CRIw44","Highest 25%",95.8
+"Costa Rica","CRI","Subnat","CRIr102","Alajuela",90.9
+"Costa Rica","CRI","Subnat","CRIr103","Cartago",92.2
+"Costa Rica","CRI","Subnat","CRIr105","Guanacaste",88.3
+"Costa Rica","CRI","Subnat","CRIr104","Heredia",92.0
+"Costa Rica","CRI","Subnat","CRIr107","Limon",86.3
+"Costa Rica","CRI","Subnat","CRIr106","Puntarenas",88.1
+"Costa Rica","CRI","Subnat","CRIr101","San Jose",91.8
+"Cote d'Ivoire","CIV","National","CIVt","Total",43.0
+"Cote d'Ivoire","CIV","Urb/rur","CIVtu","Urban",57.8
+"Cote d'Ivoire","CIV","Urb/rur","CIVtr","Rural",30.7
+"Cote d'Ivoire","CIV","Poverty","CIVp1","Poor",29.1
+"Cote d'Ivoire","CIV","Poverty","CIVp0","Nonpoor",67.2
+"Cote d'Ivoire","CIV","Wealth quartiles","CIVw41","Lowest 25%",19.6
+"Cote d'Ivoire","CIV","Wealth quartiles","CIVw42","Second 25%",33.0
+"Cote d'Ivoire","CIV","Wealth quartiles","CIVw43","Third 25%",48.4
+"Cote d'Ivoire","CIV","Wealth quartiles","CIVw44","Highest 25%",71.0
+"Cote d'Ivoire","CIV","Subnat","CIVr101","Centre",36.6
+"Cote d'Ivoire","CIV","Subnat","CIVr102","Centre Est",43.9
+"Cote d'Ivoire","CIV","Subnat","CIVr103","Centre Nord",44.9
+"Cote d'Ivoire","CIV","Subnat","CIVr104","Centre Ouest",39.3
+"Cote d'Ivoire","CIV","Subnat","CIVr105","Nord",35.8
+"Cote d'Ivoire","CIV","Subnat","CIVr106","Nord Est",31.7
+"Cote d'Ivoire","CIV","Subnat","CIVr107","Nord Ouest",37.2
+"Cote d'Ivoire","CIV","Subnat","CIVr108","Ouest",31.3
+"Cote d'Ivoire","CIV","Subnat","CIVr110","Sud Ouest",32.5
+"Cote d'Ivoire","CIV","Subnat","CIVr109","Sud, Abidjan",55.6
+"Cuba","CUB","National","CUBt","Total",76.9
+"Cuba","CUB","Urb/rur","CUBtu","Urban",82.7
+"Cuba","CUB","Urb/rur","CUBtr","Rural",67.6
+"Cuba","CUB","Poverty","CUBp1","Poor",37.4
+"Cuba","CUB","Poverty","CUBp0","Nonpoor",81.2
+"Cuba","CUB","Wealth quartiles","CUBw41","Lowest 25%",91.3
+"Cuba","CUB","Wealth quartiles","CUBw42","Second 25%",85.9
+"Cuba","CUB","Wealth quartiles","CUBw43","Third 25%",76.0
+"Cuba","CUB","Wealth quartiles","CUBw44","Highest 25%",54.5
+"Cuba","CUB","Subnat","CUBr109","Camaguey",69.7
+"Cuba","CUB","Subnat","CUBr103","Centro",88.3
+"Cuba","CUB","Subnat","CUBr108","Ciego de Avila",76.6
+"Cuba","CUB","Subnat","CUBr106","Cienfuegos",78.8
+"Cuba","CUB","Subnat","CUBr102","Ciudad Habana",84.7
+"Cuba","CUB","Subnat","CUBr112","Granma",67.9
+"Cuba","CUB","Subnat","CUBr114","Guantanamo",73.7
+"Cuba","CUB","Subnat","CUBr111","Holguin",69.3
+"Cuba","CUB","Subnat","CUBr115","Isla",87.7
+"Cuba","CUB","Subnat","CUBr110","Las Tunas",68.2
+"Cuba","CUB","Subnat","CUBr101","Occidente",79.4
+"Cuba","CUB","Subnat","CUBr104","Oriente",82.6
+"Cuba","CUB","Subnat","CUBr107","S.Spiritus",74.6
+"Cuba","CUB","Subnat","CUBr113","Santiago de Cuba",72.1
+"Cuba","CUB","Subnat","CUBr105","Villa Clara",76.4
+"Djibouti","DJI","National","DJIt","Total",
+"Djibouti","DJI","Urb/rur","DJIu","Urban",
+"Djibouti","DJI","Urb/rur","DJIr","Rural",
+"Djibouti","DJI","Poverty","DJIp1","Poor",
+"Djibouti","DJI","Poverty","DJIp0","Nonpoor",
+"Djibouti","DJI","Wealth quartiles","DJIw41","Lowest 25%",
+"Djibouti","DJI","Wealth quartiles","DJIw42","Second 25%",
+"Djibouti","DJI","Wealth quartiles","DJIw43","Third 25%",
+"Djibouti","DJI","Wealth quartiles","DJIw44","Highest 25%",
+"Djibouti","DJI","Subnat","DJIr101","Djibouti",
+"Djibouti","DJI","Subnat","DJIr102","Other Districts",
+"Dominican Republic","DOM","National","DOMt","Total",76.8
+"Dominican Republic","DOM","Urb/rur","DOMtu","Urban",79.1
+"Dominican Republic","DOM","Urb/rur","DOMtr","Rural",70.2
+"Dominican Republic","DOM","Poverty","DOMp1","Poor",38.1
+"Dominican Republic","DOM","Poverty","DOMp0","Nonpoor",80.2
+"Dominican Republic","DOM","Wealth quartiles","DOMw41","Lowest 25%",55.7
+"Dominican Republic","DOM","Wealth quartiles","DOMw42","Second 25%",76.1
+"Dominican Republic","DOM","Wealth quartiles","DOMw43","Third 25%",84.0
+"Dominican Republic","DOM","Wealth quartiles","DOMw44","Highest 25%",91.3
+"Dominican Republic","DOM","Subnat","DOMr101","Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",79.8
+"Dominican Republic","DOM","Subnat","DOMr102","Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",74.2
+"Dominican Republic","DOM","Subnat","DOMr103","Region II (Espaillat, Puerto Plata, Santiago)",80.2
+"Dominican Republic","DOM","Subnat","DOMr104","Region III (Duarte, Maria Trinidad Sanchez, Salcedo, Samana)",75.7
+"Dominican Republic","DOM","Subnat","DOMr105","Region IV (Independencia, Bahoruco, Barahona, Pedernales)",66.4
+"Dominican Republic","DOM","Subnat","DOMr106","Region V (El Seibo, La Altagracia, La Romana, San Pedro de Macoris, Hato Mayor)",73.2
+"Dominican Republic","DOM","Subnat","DOMr107","Region VI (San Juan, Elias Pina)",69.0
+"Dominican Republic","DOM","Subnat","DOMr108","Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)",70.3
+"Dominican Republic","DOM","Subnat","DOMr109","Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)",77.6
+"Ecuador","ECU","National","ECUt","Total",74.8
+"Ecuador","ECU","Urb/rur","ECUtu","Urban",79.1
+"Ecuador","ECU","Urb/rur","ECUtr","Rural",67.3
+"Ecuador","ECU","Poverty","ECUp1","Poor",37.4
+"Ecuador","ECU","Poverty","ECUp0","Nonpoor",82.6
+"Ecuador","ECU","Wealth quartiles","ECUw41","Lowest 25%",43.1
+"Ecuador","ECU","Wealth quartiles","ECUw42","Second 25%",72.3
+"Ecuador","ECU","Wealth quartiles","ECUw43","Third 25%",89.4
+"Ecuador","ECU","Wealth quartiles","ECUw44","Highest 25%",100
+"Ecuador","ECU","Subnat","ECUr101","Coste",73.3
+"Ecuador","ECU","Subnat","ECUr103","Oriente",64.6
+"Ecuador","ECU","Subnat","ECUr102","Sierra",79.5
+"Egypt","EGY","National","EGYt","Total",84.8
+"Egypt","EGY","Urb/rur","EGYtu","Urban",86.9
+"Egypt","EGY","Urb/rur","EGYtr","Rural",83.4
+"Egypt","EGY","Poverty","EGYp1","Poor",41.2
+"Egypt","EGY","Poverty","EGYp0","Nonpoor",85.1
+"Egypt","EGY","Wealth quartiles","EGYw41","Lowest 25%",80.3
+"Egypt","EGY","Wealth quartiles","EGYw42","Second 25%",83.8
+"Egypt","EGY","Wealth quartiles","EGYw43","Third 25%",85.9
+"Egypt","EGY","Wealth quartiles","EGYw44","Highest 25%",89.3
+"Egypt","EGY","Subnat","EGYr102","Alexandria",87.5
+"Egypt","EGY","Subnat","EGYr118","Assuit",81.2
+"Egypt","EGY","Subnat","EGYr121","Aswan",83.6
+"Egypt","EGY","Subnat","EGYr112","Behera",85.4
+"Egypt","EGY","Subnat","EGYr115","Beni Suef",83.9
+"Egypt","EGY","Subnat","EGYr101","Cairo",87.1
+"Egypt","EGY","Subnat","EGYr106","Dakahlia",86.1
+"Egypt","EGY","Subnat","EGYr105","Damietta",87.5
+"Egypt","EGY","Subnat","EGYr116","Fayoum",82.9
+"Egypt","EGY","Subnat","EGYr122","Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)",85.0
+"Egypt","EGY","Subnat","EGYr110","Gharbia",85.4
+"Egypt","EGY","Subnat","EGYr114","Giza",85.5
+"Egypt","EGY","Subnat","EGYr113","Ismailia",87.0
+"Egypt","EGY","Subnat","EGYr109","Kafr El-Sheikh",86.9
+"Egypt","EGY","Subnat","EGYr108","Kalyubia",83.6
+"Egypt","EGY","Subnat","EGYr111","Menoufia",85.3
+"Egypt","EGY","Subnat","EGYr117","Menya",81.5
+"Egypt","EGY","Subnat","EGYr103","Port Said",89.6
+"Egypt","EGY","Subnat","EGYr120","Qena",83.0
+"Egypt","EGY","Subnat","EGYr107","Sharkia",84.1
+"Egypt","EGY","Subnat","EGYr119","Souhag",81.0
+"Egypt","EGY","Subnat","EGYr104","Suez",89.1
+"El Salvador","SLV","National","SLVt","Total",69.3
+"El Salvador","SLV","Urb/rur","SLVtu","Urban",76.8
+"El Salvador","SLV","Urb/rur","SLVtr","Rural",56.1
+"El Salvador","SLV","Poverty","SLVp1","Poor",35.8
+"El Salvador","SLV","Poverty","SLVp0","Nonpoor",76.7
+"El Salvador","SLV","Wealth quartiles","SLVw41","Lowest 25%",42.4
+"El Salvador","SLV","Wealth quartiles","SLVw42","Second 25%",65.7
+"El Salvador","SLV","Wealth quartiles","SLVw43","Third 25%",79.0
+"El Salvador","SLV","Wealth quartiles","SLVw44","Highest 25%",89.9
+"El Salvador","SLV","Subnat","SLVr102","Central I",74.9
+"El Salvador","SLV","Subnat","SLVr103","Central II",63.8
+"El Salvador","SLV","Subnat","SLVr101","Occidental",65.4
+"El Salvador","SLV","Subnat","SLVr104","Oriental",63.3
+"Equatorial Guinea","GNQ","National","GNQt","Total",
+"Equatorial Guinea","GNQ","Urb/rur","GNQtu","Urban",
+"Equatorial Guinea","GNQ","Urb/rur","GNQtr","Rural",
+"Equatorial Guinea","GNQ","Poverty","GNQp1","Poor",
+"Equatorial Guinea","GNQ","Poverty","GNQp0","Nonpoor",
+"Equatorial Guinea","GNQ","Wealth quartiles","GNQw41","Lowest 25%",
+"Equatorial Guinea","GNQ","Wealth quartiles","GNQw42","Second 25%",
+"Equatorial Guinea","GNQ","Wealth quartiles","GNQw43","Third 25%",
+"Equatorial Guinea","GNQ","Wealth quartiles","GNQw44","Highest 25%",
+"Equatorial Guinea","GNQ","Subnat","GNQr101","Annobon, Bioko",
+"Equatorial Guinea","GNQ","Subnat","GNQr102","Centro Sur",
+"Equatorial Guinea","GNQ","Subnat","GNQr103","Kie Ntem",
+"Equatorial Guinea","GNQ","Subnat","GNQr104","Litoral",
+"Equatorial Guinea","GNQ","Subnat","GNQr105","Wele Nzas",
+"Eritrea","ERI","National","ERIt","Total",
+"Eritrea","ERI","Urb/rur","ERItu","Urban",
+"Eritrea","ERI","Urb/rur","ERItr","Rural",
+"Eritrea","ERI","Poverty","ERIp1","Poor",
+"Eritrea","ERI","Poverty","ERIp0","Nonpoor",
+"Eritrea","ERI","Wealth quartiles","ERIw41","Lowest 25%",
+"Eritrea","ERI","Wealth quartiles","ERIw42","Second 25%",
+"Eritrea","ERI","Wealth quartiles","ERIw43","Third 25%",
+"Eritrea","ERI","Wealth quartiles","ERIw44","Highest 25%",
+"Eritrea","ERI","Subnat","ERIr104","Anseba",
+"Eritrea","ERI","Subnat","ERIr106","Debub (Southern)",
+"Eritrea","ERI","Subnat","ERIr101","Debubawi Keyih Bahri (Southern Red Sea)",
+"Eritrea","ERI","Subnat","ERIr105","Gash Barka",
+"Eritrea","ERI","Subnat","ERIr102","Maekel (Central including Asmara)",
+"Eritrea","ERI","Subnat","ERIr103","Semenawi Keyih Bahri (Northern Red Sea)",
+"Eswatini","SWZ","National","SWZt","Total",55.5
+"Eswatini","SWZ","Urb/rur","SWZtu","Urban",66.6
+"Eswatini","SWZ","Urb/rur","SWZtr","Rural",48.9
+"Eswatini","SWZ","Poverty","SWZp1","Poor",33.7
+"Eswatini","SWZ","Poverty","SWZp0","Nonpoor",70.6
+"Eswatini","SWZ","Wealth quartiles","SWZw41","Lowest 25%",30.1
+"Eswatini","SWZ","Wealth quartiles","SWZw42","Second 25%",48.7
+"Eswatini","SWZ","Wealth quartiles","SWZw43","Third 25%",62.7
+"Eswatini","SWZ","Wealth quartiles","SWZw44","Highest 25%",80.5
+"Eswatini","SWZ","Subnat","SWZr101","Hhohho",58.9
+"Eswatini","SWZ","Subnat","SWZr104","Lubombo",52.7
+"Eswatini","SWZ","Subnat","SWZr102","Manzini",58.1
+"Eswatini","SWZ","Subnat","SWZr103","Shiselweni",46.6
+"Ethiopia","ETH","National","ETHt","Total",20.4
+"Ethiopia","ETH","Urb/rur","ETHtu","Urban",51.8
+"Ethiopia","ETH","Urb/rur","ETHtr","Rural",12.3
+"Ethiopia","ETH","Poverty","ETHp1","Poor",14.1
+"Ethiopia","ETH","Poverty","ETHp0","Nonpoor",67.7
+"Ethiopia","ETH","Wealth quartiles","ETHw41","Lowest 25%",6.61
+"Ethiopia","ETH","Wealth quartiles","ETHw42","Second 25%",9.94
+"Ethiopia","ETH","Wealth quartiles","ETHw43","Third 25%",15.9
+"Ethiopia","ETH","Wealth quartiles","ETHw44","Highest 25%",49.0
+"Ethiopia","ETH","Subnat","ETHr110","Addis",68.0
+"Ethiopia","ETH","Subnat","ETHr102","Affar",21.5
+"Ethiopia","ETH","Subnat","ETHr103","Amhara",16.4
+"Ethiopia","ETH","Subnat","ETHr106","Ben-Gumz",17.4
+"Ethiopia","ETH","Subnat","ETHr111","Dire Dawa",43.8
+"Ethiopia","ETH","Subnat","ETHr108","Gambela",25.7
+"Ethiopia","ETH","Subnat","ETHr109","Harari",44.1
+"Ethiopia","ETH","Subnat","ETHr104","Oromiya",18.5
+"Ethiopia","ETH","Subnat","ETHr107","SNNP",16.6
+"Ethiopia","ETH","Subnat","ETHr105","Somali",17.0
+"Ethiopia","ETH","Subnat","ETHr101","Tigray",23.5
+"Fiji","FJI","National","FJIt","Total",
+"Fiji","FJI","Urb/rur","FJItu","Urban",
+"Fiji","FJI","Urb/rur","FJItr","Rural",
+"Fiji","FJI","Poverty","FJIp1","Poor",
+"Fiji","FJI","Poverty","FJIp0","Nonpoor",
+"Fiji","FJI","Wealth quartiles","FJIw41","Lowest 25%",
+"Fiji","FJI","Wealth quartiles","FJIw42","Second 25%",
+"Fiji","FJI","Wealth quartiles","FJIw43","Third 25%",
+"Fiji","FJI","Wealth quartiles","FJIw44","Highest 25%",
+"Fiji","FJI","Subnat","FJIr108","Ba",
+"Fiji","FJI","Subnat","FJIr106","Cakaudrove, Bua",
+"Fiji","FJI","Subnat","FJIr105","Kadavu, Lau, Lomaiviti, Rotuma",
+"Fiji","FJI","Subnat","FJIr107","Macuata",
+"Fiji","FJI","Subnat","FJIr109","Nadroga or Navosa",
+"Fiji","FJI","Subnat","FJIr101","Naitasiri",
+"Fiji","FJI","Subnat","FJIr110","Ra",
+"Fiji","FJI","Subnat","FJIr102","Rewa",
+"Fiji","FJI","Subnat","FJIr103","Serua, Namosi",
+"Fiji","FJI","Subnat","FJIr104","Tailevu",
+"Gabon","GAB","National","GABt","Total",64.2
+"Gabon","GAB","Urb/rur","GABtu","Urban",70.0
+"Gabon","GAB","Urb/rur","GABtr","Rural",34.5
+"Gabon","GAB","Poverty","GABp1","Poor",31.0
+"Gabon","GAB","Poverty","GABp0","Nonpoor",73.9
+"Gabon","GAB","Wealth quartiles","GABw41","Lowest 25%",35.0
+"Gabon","GAB","Wealth quartiles","GABw42","Second 25%",60.7
+"Gabon","GAB","Wealth quartiles","GABw43","Third 25%",71.7
+"Gabon","GAB","Wealth quartiles","GABw44","Highest 25%",89.2
+"Gabon","GAB","Subnat","GABr101","Estuaire",60.7
+"Gabon","GAB","Subnat","GABr102","Haut Ogooue",58.2
+"Gabon","GAB","Subnat","GABr110","Libreville-Port Gentil",73.6
+"Gabon","GAB","Subnat","GABr103","Moyen Ogooue",47.0
+"Gabon","GAB","Subnat","GABr104","Ngounie",44.8
+"Gabon","GAB","Subnat","GABr105","Nyanga",44.7
+"Gabon","GAB","Subnat","GABr106","Ogooue Ivindo",38.7
+"Gabon","GAB","Subnat","GABr107","Ogooue Lolo",45.5
+"Gabon","GAB","Subnat","GABr108","Ogooue Maritime",54.9
+"Gabon","GAB","Subnat","GABr109","Woleu Ntem",47.3
+"Gambia","GMB","National","GMBt","Total",62.1
+"Gambia","GMB","Urb/rur","GMBtu","Urban",68.7
+"Gambia","GMB","Urb/rur","GMBtr","Rural",42.8
+"Gambia","GMB","Poverty","GMBp1","Poor",37.8
+"Gambia","GMB","Poverty","GMBp0","Nonpoor",74.7
+"Gambia","GMB","Wealth quartiles","GMBw41","Lowest 25%",37.1
+"Gambia","GMB","Wealth quartiles","GMBw42","Second 25%",53.2
+"Gambia","GMB","Wealth quartiles","GMBw43","Third 25%",68.7
+"Gambia","GMB","Wealth quartiles","GMBw44","Highest 25%",89.5
+"Gambia","GMB","Subnat","GMBr101","Banjul",76.9
+"Gambia","GMB","Subnat","GMBr108","Basse",51.9
+"Gambia","GMB","Subnat","GMBr103","Brikama",64.5
+"Gambia","GMB","Subnat","GMBr107","Janjabureh",42.5
+"Gambia","GMB","Subnat","GMBr102","Kanifing",75.4
+"Gambia","GMB","Subnat","GMBr105","Kerewan",50.0
+"Gambia","GMB","Subnat","GMBr106","Kuntaur",38.4
+"Gambia","GMB","Subnat","GMBr104","Mansakonko",47.7
+"Georgia","GEO","National","GEOt","Total",83.3
+"Georgia","GEO","Urb/rur","GEOtu","Urban",88.4
+"Georgia","GEO","Urb/rur","GEOtr","Rural",75.8
+"Georgia","GEO","Poverty","GEOp1","Poor",42.6
+"Georgia","GEO","Poverty","GEOp0","Nonpoor",84.2
+"Georgia","GEO","Subnat","GEOr102","Ajaria",87.2
+"Georgia","GEO","Subnat","GEOr103","Guria",78.9
+"Georgia","GEO","Subnat","GEOr104","Imereti Racha-Lochkhumi Kvemo Svaneti",82.1
+"Georgia","GEO","Subnat","GEOr105","Kakheti",75.0
+"Georgia","GEO","Subnat","GEOr106","Kvemo Kartli",81.3
+"Georgia","GEO","Subnat","GEOr107","Mtskheta-Mtianeti",79.5
+"Georgia","GEO","Subnat","GEOr108","Samegrelo-Zemo Svateni",76.0
+"Georgia","GEO","Subnat","GEOr109","Samtskhe-Javakheti",79.1
+"Georgia","GEO","Subnat","GEOr110","Shida Kartli",77.2
+"Georgia","GEO","Subnat","GEOr111","Tbilisi",89.7
+"Ghana","GHA","National","GHAt","Total",51.7
+"Ghana","GHA","Urb/rur","GHAtu","Urban",58.5
+"Ghana","GHA","Urb/rur","GHAtr","Rural",44.7
+"Ghana","GHA","Poverty","GHAp1","Poor",37.6
+"Ghana","GHA","Poverty","GHAp0","Nonpoor",65.1
+"Ghana","GHA","Wealth quartiles","GHAw41","Lowest 25%",34.5
+"Ghana","GHA","Wealth quartiles","GHAw42","Second 25%",45.2
+"Ghana","GHA","Wealth quartiles","GHAw43","Third 25%",55.6
+"Ghana","GHA","Wealth quartiles","GHAw44","Highest 25%",71.7
+"Ghana","GHA","Subnat","GHAr106","Ashanti",54.9
+"Ghana","GHA","Subnat","GHAr107","Brong Ahafo",50.6
+"Ghana","GHA","Subnat","GHAr102","Central",49.3
+"Ghana","GHA","Subnat","GHAr105","Eastern",51.7
+"Ghana","GHA","Subnat","GHAr103","Greater Accra",61.9
+"Ghana","GHA","Subnat","GHAr108","Northern",45.8
+"Ghana","GHA","Subnat","GHAr110","Upper East",42.4
+"Ghana","GHA","Subnat","GHAr109","Upper West",42.1
+"Ghana","GHA","Subnat","GHAr104","Volta",44.5
+"Ghana","GHA","Subnat","GHAr101","Western",50.4
+"Guatemala","GTM","National","GTMt","Total",64.7
+"Guatemala","GTM","Urb/rur","GTMtu","Urban",76.9
+"Guatemala","GTM","Urb/rur","GTMtr","Rural",54.5
+"Guatemala","GTM","Poverty","GTMp1","Poor",33.3
+"Guatemala","GTM","Poverty","GTMp0","Nonpoor",76.6
+"Guatemala","GTM","Wealth quartiles","GTMw41","Lowest 25%",33.8
+"Guatemala","GTM","Wealth quartiles","GTMw42","Second 25%",59.6
+"Guatemala","GTM","Wealth quartiles","GTMw43","Third 25%",75.7
+"Guatemala","GTM","Wealth quartiles","GTMw44","Highest 25%",89.8
+"Guatemala","GTM","Subnat","GTMr105","Central",68.6
+"Guatemala","GTM","Subnat","GTMr101","Metropolitan",79.7
+"Guatemala","GTM","Subnat","GTMr102","North",44.6
+"Guatemala","GTM","Subnat","GTMr107","North-Occidental",55.7
+"Guatemala","GTM","Subnat","GTMr103","North-Oriental",64.1
+"Guatemala","GTM","Subnat","GTMr108","Peten",54.3
+"Guatemala","GTM","Subnat","GTMr106","South-Occidental",63.7
+"Guatemala","GTM","Subnat","GTMr104","South-Oriental",62.7
+"Guinea","GIN","National","GINt","Total",40.3
+"Guinea","GIN","Urb/rur","GINtu","Urban",62.7
+"Guinea","GIN","Urb/rur","GINtr","Rural",28.7
+"Guinea","GIN","Poverty","GINp1","Poor",27.9
+"Guinea","GIN","Poverty","GINp0","Nonpoor",69.3
+"Guinea","GIN","Wealth quartiles","GINw41","Lowest 25%",18.2
+"Guinea","GIN","Wealth quartiles","GINw42","Second 25%",28.3
+"Guinea","GIN","Wealth quartiles","GINw43","Third 25%",43.1
+"Guinea","GIN","Wealth quartiles","GINw44","Highest 25%",71.5
+"Guinea","GIN","Subnat","GINr101","Boke",38.1
+"Guinea","GIN","Subnat","GINr102","Conakry",70.7
+"Guinea","GIN","Subnat","GINr103","Faranah",31.4
+"Guinea","GIN","Subnat","GINr104","Kankan",39.1
+"Guinea","GIN","Subnat","GINr105","Kindia",38.8
+"Guinea","GIN","Subnat","GINr106","Labe",29.2
+"Guinea","GIN","Subnat","GINr107","Mamou",34.8
+"Guinea","GIN","Subnat","GINr108","N Zerekore",29.3
+"Guinea Bissau","GNB","National","GNBt","Total",38.4
+"Guinea Bissau","GNB","Urb/rur","GNBtu","Urban",51.4
+"Guinea Bissau","GNB","Urb/rur","GNBtr","Rural",29.8
+"Guinea Bissau","GNB","Poverty","GNBp1","Poor",30.3
+"Guinea Bissau","GNB","Poverty","GNBp0","Nonpoor",69.4
+"Guinea Bissau","GNB","Wealth quartiles","GNBw41","Lowest 25%",22.2
+"Guinea Bissau","GNB","Wealth quartiles","GNBw42","Second 25%",30.2
+"Guinea Bissau","GNB","Wealth quartiles","GNBw43","Third 25%",38.5
+"Guinea Bissau","GNB","Wealth quartiles","GNBw44","Highest 25%",62.6
+"Guinea Bissau","GNB","Subnat","GNBr106","Bafata",35.3
+"Guinea Bissau","GNB","Subnat","GNBr104","Biombo",31.5
+"Guinea Bissau","GNB","Subnat","GNBr109","Bissau",57.0
+"Guinea Bissau","GNB","Subnat","GNBr105","Bolama",24.2
+"Guinea Bissau","GNB","Subnat","GNBr108","Cacheu",31.7
+"Guinea Bissau","GNB","Subnat","GNBr107","Gabu",33.8
+"Guinea Bissau","GNB","Subnat","GNBr103","Oio",29.6
+"Guinea Bissau","GNB","Subnat","GNBr102","Quinara",30.6
+"Guinea Bissau","GNB","Subnat","GNBr101","Tombali",29.8
+"Guyana","GUY","National","GUYt","Total",78.3
+"Guyana","GUY","Urb/rur","GUYtu","Urban",84.7
+"Guyana","GUY","Urb/rur","GUYtr","Rural",75.8
+"Guyana","GUY","Poverty","GUYp1","Poor",36.3
+"Guyana","GUY","Poverty","GUYp0","Nonpoor",82.9
+"Guyana","GUY","Wealth quartiles","GUYw41","Lowest 25%",54.1
+"Guyana","GUY","Wealth quartiles","GUYw42","Second 25%",78.1
+"Guyana","GUY","Wealth quartiles","GUYw43","Third 25%",87.0
+"Guyana","GUY","Wealth quartiles","GUYw44","Highest 25%",93.9
+"Guyana","GUY","Subnat","GUYr101","Barima-Waini",53.1
+"Guyana","GUY","Subnat","GUYr107","Cuyuni-Mazaruni",61.7
+"Guyana","GUY","Subnat","GUYr104","Demerara-Mahaica",83.2
+"Guyana","GUY","Subnat","GUYr106","East Berbice-Corentyne",79.2
+"Guyana","GUY","Subnat","GUYr103","Essequibo Islands-West Demerara",79.0
+"Guyana","GUY","Subnat","GUYr105","Mahaica-Berbice",76.5
+"Guyana","GUY","Subnat","GUYr102","Pomeroon-Supenaam",69.5
+"Guyana","GUY","Subnat","GUYr108","Potaro-Siparuni",30.7
+"Guyana","GUY","Subnat","GUYr110","Upper Demerara-Berbice",79.5
+"Guyana","GUY","Subnat","GUYr109","Upper Takutu-Upper Essequibo",38.6
+"Haiti","HTI","National","HTIt","Total",38.7
+"Haiti","HTI","Urb/rur","HTItu","Urban",56.8
+"Haiti","HTI","Urb/rur","HTItr","Rural",26.5
+"Haiti","HTI","Poverty","HTIp1","Poor",24.4
+"Haiti","HTI","Poverty","HTIp0","Nonpoor",68.6
+"Haiti","HTI","Wealth quartiles","HTIw41","Lowest 25%",11.6
+"Haiti","HTI","Wealth quartiles","HTIw42","Second 25%",26.5
+"Haiti","HTI","Wealth quartiles","HTIw43","Third 25%",45.0
+"Haiti","HTI","Wealth quartiles","HTIw44","Highest 25%",71.6
+"Haiti","HTI","Subnat","HTIr105","Artibonite",30.9
+"Haiti","HTI","Subnat","HTIr110","Camps",30.7
+"Haiti","HTI","Subnat","HTIr106","Centre",27.7
+"Haiti","HTI","Subnat","HTIr108","Grande-Anse, Nippes",26.4
+"Haiti","HTI","Subnat","HTIr103","North",39.3
+"Haiti","HTI","Subnat","HTIr104","North-East",35.9
+"Haiti","HTI","Subnat","HTIr109","North-West",30.4
+"Haiti","HTI","Subnat","HTIr107","South",31.5
+"Haiti","HTI","Subnat","HTIr102","South-East",32.4
+"Haiti","HTI","Subnat","HTIr101","West (incl Metropolitain area)",49.7
+"Honduras","HND","National","HNDt","Total",64.1
+"Honduras","HND","Urb/rur","HNDtu","Urban",75.6
+"Honduras","HND","Urb/rur","HNDtr","Rural",51.7
+"Honduras","HND","Poverty","HNDp1","Poor",32.0
+"Honduras","HND","Poverty","HNDp0","Nonpoor",76.8
+"Honduras","HND","Wealth quartiles","HNDw41","Lowest 25%",32.1
+"Honduras","HND","Wealth quartiles","HNDw42","Second 25%",59.9
+"Honduras","HND","Wealth quartiles","HNDw43","Third 25%",75.4
+"Honduras","HND","Wealth quartiles","HNDw44","Highest 25%",89.0
+"Honduras","HND","Subnat","HNDr101","Atlantida",69.4
+"Honduras","HND","Subnat","HNDr106","Choluteca",51.3
+"Honduras","HND","Subnat","HNDr102","Colon",65.9
+"Honduras","HND","Subnat","HNDr103","Comayagua",65.4
+"Honduras","HND","Subnat","HNDr104","Copan",57.8
+"Honduras","HND","Subnat","HNDr105","Cortes",74.9
+"Honduras","HND","Subnat","HNDr107","El Paraiso",51.7
+"Honduras","HND","Subnat","HNDr108","Francisco Morazan",72.1
+"Honduras","HND","Subnat","HNDr109","Gracias a Dios",33.1
+"Honduras","HND","Subnat","HNDr110","Intibuca",47.2
+"Honduras","HND","Subnat","HNDr111","Islas de la Bahia",74.7
+"Honduras","HND","Subnat","HNDr112","La Paz",52.4
+"Honduras","HND","Subnat","HNDr113","Lempira",44.1
+"Honduras","HND","Subnat","HNDr114","Ocotepeque",60.8
+"Honduras","HND","Subnat","HNDr115","Olancho",56.8
+"Honduras","HND","Subnat","HNDr116","Santa Barbara",60.2
+"Honduras","HND","Subnat","HNDr117","Valle",55.7
+"Honduras","HND","Subnat","HNDr118","Yoro",63.9
+"India","IND","National","INDt","Total",55.1
+"India","IND","Urb/rur","INDtu","Urban",71.8
+"India","IND","Urb/rur","INDtr","Rural",46.2
+"India","IND","Poverty","INDp1","Poor",31.4
+"India","IND","Poverty","INDp0","Nonpoor",73.3
+"India","IND","Wealth quartiles","INDw41","Lowest 25%",24.6
+"India","IND","Wealth quartiles","INDw42","Second 25%",46.2
+"India","IND","Wealth quartiles","INDw43","Third 25%",65.6
+"India","IND","Wealth quartiles","INDw44","Highest 25%",84.0
+"India","IND","Subnat","INDr136","Andaman and Nicobar Islands",72.2
+"India","IND","Subnat","INDr101","Andhra Pradesh",60.1
+"India","IND","Subnat","INDr125","Arunachal Pradesh",58.5
+"India","IND","Subnat","INDr102","Assam",42.6
+"India","IND","Subnat","INDr103","Bihar",34.7
+"India","IND","Subnat","INDr131","Chandigarth",83.1
+"India","IND","Subnat","INDr129","Chhattisgarh",47.4
+"India","IND","Subnat","INDr132","Dadra and Nagar Haveli",55.8
+"India","IND","Subnat","INDr134","Daman and Diu",70.3
+"India","IND","Subnat","INDr104","Goa",79.7
+"India","IND","Subnat","INDr105","Gujarat",66.8
+"India","IND","Subnat","INDr106","Haryana",73.5
+"India","IND","Subnat","INDr107","Himachal Pradesh",73.7
+"India","IND","Subnat","INDr108","Jammu and Kashmir",66.2
+"India","IND","Subnat","INDr128","Jharkhand",40.2
+"India","IND","Subnat","INDr109","Karnataka",61.5
+"India","IND","Subnat","INDr110","Kerala",76.9
+"India","IND","Subnat","INDr135","Lakshadweep",76.9
+"India","IND","Subnat","INDr111","Madhya Pradesh",47.1
+"India","IND","Subnat","INDr112","Maharashtra",63.1
+"India","IND","Subnat","INDr113","Manipur",51.8
+"India","IND","Subnat","INDr114","Meghalaya",53.0
+"India","IND","Subnat","INDr115","Mizoram",71.5
+"India","IND","Subnat","INDr116","Nagaland",57.9
+"India","IND","Subnat","INDr124","New Delhi",77.9
+"India","IND","Subnat","INDr117","Orissa",42.3
+"India","IND","Subnat","INDr133","Puducherry",71.7
+"India","IND","Subnat","INDr118","Punjab",78.0
+"India","IND","Subnat","INDr119","Rajasthan",56.6
+"India","IND","Subnat","INDr120","Sikkim",71.6
+"India","IND","Subnat","INDr121","Tamil Nadu",64.2
+"India","IND","Subnat","INDr130","Telangana",62.6
+"India","IND","Subnat","INDr126","Tripura",47.4
+"India","IND","Subnat","INDr123","Uttar Pradesh",44.8
+"India","IND","Subnat","INDr127","Uttaranchal",63.2
+"India","IND","Subnat","INDr122","West Bengal",49.2
+"Indonesia","IDN","National","IDNt","Total",71.8
+"Indonesia","IDN","Urb/rur","IDNtu","Urban",78.2
+"Indonesia","IDN","Urb/rur","IDNtr","Rural",65.7
+"Indonesia","IDN","Poverty","IDNp1","Poor",37.3
+"Indonesia","IDN","Poverty","IDNp0","Nonpoor",76.6
+"Indonesia","IDN","Wealth quartiles","IDNw41","Lowest 25%",49.3
+"Indonesia","IDN","Wealth quartiles","IDNw42","Second 25%",69.5
+"Indonesia","IDN","Wealth quartiles","IDNw43","Third 25%",79.6
+"Indonesia","IDN","Wealth quartiles","IDNw44","Highest 25%",88.8
+"Indonesia","IDN","Subnat","IDNr116","Bali",79.7
+"Indonesia","IDN","Subnat","IDNr109","Bangka Belitung",76.7
+"Indonesia","IDN","Subnat","IDNr115","Banten",76.2
+"Indonesia","IDN","Subnat","IDNr107","Bengkulu",70.9
+"Indonesia","IDN","Subnat","IDNr112","Central Java",71.8
+"Indonesia","IDN","Subnat","IDNr121","Central Kalimantan",64.7
+"Indonesia","IDN","Subnat","IDNr125","Central Sulawesi",64.0
+"Indonesia","IDN","Subnat","IDNr101","DI Aceh",67.1
+"Indonesia","IDN","Subnat","IDNr113","DI Yogyakarta",74.4
+"Indonesia","IDN","Subnat","IDNr110","DKI Jakarta",82.2
+"Indonesia","IDN","Subnat","IDNr114","East Java",73.3
+"Indonesia","IDN","Subnat","IDNr123","East Kalimantan",75.7
+"Indonesia","IDN","Subnat","IDNr118","East Nusa Tenggara",51.6
+"Indonesia","IDN","Subnat","IDNr119","East Timor",
+"Indonesia","IDN","Subnat","IDNr128","Gorontalo",64.8
+"Indonesia","IDN","Subnat","IDNr130","Irian Jaya (Papua and Papua Barat)",57.2
+"Indonesia","IDN","Subnat","IDNr105","Jambi",72.0
+"Indonesia","IDN","Subnat","IDNr108","Lampung",70.5
+"Indonesia","IDN","Subnat","IDNr129","Maluku",62.5
+"Indonesia","IDN","Subnat","IDNr124","North Sulawesi",71.4
+"Indonesia","IDN","Subnat","IDNr102","North Sumatra",69.2
+"Indonesia","IDN","Subnat","IDNr104","Riau (incl. Riau islands)",72.7
+"Indonesia","IDN","Subnat","IDNr122","South Kalimantan",68.6
+"Indonesia","IDN","Subnat","IDNr126","South Sulawesi (incl Sulawesi Barat)",68.9
+"Indonesia","IDN","Subnat","IDNr106","South Sumatra",70.1
+"Indonesia","IDN","Subnat","IDNr127","Southeast Sulawesi",67.0
+"Indonesia","IDN","Subnat","IDNr111","West Java",74.1
+"Indonesia","IDN","Subnat","IDNr120","West Kalimantan",65.1
+"Indonesia","IDN","Subnat","IDNr117","West Nusa Tenggara",65.9
+"Indonesia","IDN","Subnat","IDNr103","West Sumatra",70.2
+"Iran","IRN","National","IRNt","Total",
+"Iran","IRN","Urb/rur","IRNtu","Urban",
+"Iran","IRN","Urb/rur","IRNtr","Rural",
+"Iran","IRN","Poverty","IRNp1","Poor",
+"Iran","IRN","Poverty","IRNp0","Nonpoor",
+"Iran","IRN","Wealth quartiles","IRNw41","Lowest 25%",
+"Iran","IRN","Wealth quartiles","IRNw42","Second 25%",
+"Iran","IRN","Wealth quartiles","IRNw43","Third 25%",
+"Iran","IRN","Wealth quartiles","IRNw44","Highest 25%",
+"Iran","IRN","Subnat","IRNr125","Ardebil",
+"Iran","IRN","Subnat","IRNr119","Bushehr",
+"Iran","IRN","Subnat","IRNr115","Chaharmahal and Bakhtiyari",
+"Iran","IRN","Subnat","IRNr104","EastAzarbayejan",
+"Iran","IRN","Subnat","IRNr111","Esfahan",
+"Iran","IRN","Subnat","IRNr108","Fars",
+"Iran","IRN","Subnat","IRNr102","Gilan",
+"Iran","IRN","Subnat","IRNr128","Golestan",
+"Iran","IRN","Subnat","IRNr114","Hamedan",
+"Iran","IRN","Subnat","IRNr123","Hormozgan",
+"Iran","IRN","Subnat","IRNr117","Ilam",
+"Iran","IRN","Subnat","IRNr109","Kerman",
+"Iran","IRN","Subnat","IRNr106","Kermanshah",
+"Iran","IRN","Subnat","IRNr110","Khorasan-e-Razavi",
+"Iran","IRN","Subnat","IRNr107","Khuzestan",
+"Iran","IRN","Subnat","IRNr118","Kohgiluyeh and Boyerahmad",
+"Iran","IRN","Subnat","IRNr113","Kordestan",
+"Iran","IRN","Subnat","IRNr116","Lorestan",
+"Iran","IRN","Subnat","IRNr101","Markazi",
+"Iran","IRN","Subnat","IRNr103","Mazandaran",
+"Iran","IRN","Subnat","IRNr129","North Khorasan",
+"Iran","IRN","Subnat","IRNr127","Qazvin",
+"Iran","IRN","Subnat","IRNr126","Qom",
+"Iran","IRN","Subnat","IRNr121","Semnan",
+"Iran","IRN","Subnat","IRNr112","Sistanand Baluchestan",
+"Iran","IRN","Subnat","IRNr130","South Khorasan",
+"Iran","IRN","Subnat","IRNr124","Tehran and Alborz",
+"Iran","IRN","Subnat","IRNr105","WestAzarbayejan",
+"Iran","IRN","Subnat","IRNr122","Yazd",
+"Iran","IRN","Subnat","IRNr120","Zanjan",
+"Iraq","IRQ","National","IRQt","Total",86.4
+"Iraq","IRQ","Urb/rur","IRQtu","Urban",87.8
+"Iraq","IRQ","Urb/rur","IRQtr","Rural",82.9
+"Iraq","IRQ","Poverty","IRQp1","Poor",43.1
+"Iraq","IRQ","Poverty","IRQp0","Nonpoor",86.7
+"Iraq","IRQ","Wealth quartiles","IRQw41","Lowest 25%",75.5
+"Iraq","IRQ","Wealth quartiles","IRQw42","Second 25%",85.5
+"Iraq","IRQ","Wealth quartiles","IRQw43","Third 25%",90.6
+"Iraq","IRQ","Wealth quartiles","IRQw44","Highest 25%",94.1
+"Iraq","IRQ","Subnat","IRQr107","Anbar",83.3
+"Iraq","IRQ","Subnat","IRQr109","Babylon",81.1
+"Iraq","IRQ","Subnat","IRQr108","Baghdad",89.0
+"Iraq","IRQ","Subnat","IRQr118","Basra",82.2
+"Iraq","IRQ","Subnat","IRQr106","Diala",87.5
+"Iraq","IRQ","Subnat","IRQr101","Dohouk",91.5
+"Iraq","IRQ","Subnat","IRQr105","Erbil",91.3
+"Iraq","IRQ","Subnat","IRQr110","Kerbela",82.6
+"Iraq","IRQ","Subnat","IRQr117","Maysan",80.1
+"Iraq","IRQ","Subnat","IRQr115","Muthanna",86.3
+"Iraq","IRQ","Subnat","IRQr113","Najaf",77.0
+"Iraq","IRQ","Subnat","IRQr102","Nenava",87.5
+"Iraq","IRQ","Subnat","IRQr114","Qadisiya",85.8
+"Iraq","IRQ","Subnat","IRQr112","Salaheldeen",89.1
+"Iraq","IRQ","Subnat","IRQr103","Suleimaniya",89.2
+"Iraq","IRQ","Subnat","IRQr104","Ta-amem-Karkuk",89.6
+"Iraq","IRQ","Subnat","IRQr116","Thi-Qar",86.7
+"Iraq","IRQ","Subnat","IRQr111","Wasit",78.6
+"Jamaica","JAM","National","JAMt","Total",75.2
+"Jamaica","JAM","Urb/rur","JAMtu","Urban",81.4
+"Jamaica","JAM","Urb/rur","JAMtr","Rural",67.4
+"Jamaica","JAM","Poverty","JAMp1","Poor",38.4
+"Jamaica","JAM","Poverty","JAMp0","Nonpoor",79.2
+"Jamaica","JAM","Wealth quartiles","JAMw41","Lowest 25%",53.0
+"Jamaica","JAM","Wealth quartiles","JAMw42","Second 25%",72.5
+"Jamaica","JAM","Wealth quartiles","JAMw43","Third 25%",83.5
+"Jamaica","JAM","Wealth quartiles","JAMw44","Highest 25%",91.8
+"Jamaica","JAM","Subnat","JAMr101","Kingston, St Andrew",83.3
+"Jamaica","JAM","Subnat","JAMr106","Manchester, Clarendon",72.8
+"Jamaica","JAM","Subnat","JAMr103","St Ann, St Catherine",76.0
+"Jamaica","JAM","Subnat","JAMr105","St James, Hanover, Westmoreland",73.2
+"Jamaica","JAM","Subnat","JAMr102","St Thomas, Portland, St Mary",69.6
+"Jamaica","JAM","Subnat","JAMr104","Trelawny, St Elizabeth",64.3
+"Jordan","JOR","National","JORt","Total",92.5
+"Jordan","JOR","Urb/rur","JORtu","Urban",92.7
+"Jordan","JOR","Urb/rur","JORtr","Rural",90.6
+"Jordan","JOR","Poverty","JORp1","Poor",37.9
+"Jordan","JOR","Poverty","JORp0","Nonpoor",92.6
+"Jordan","JOR","Wealth quartiles","JORw41","Lowest 25%",85.7
+"Jordan","JOR","Wealth quartiles","JORw42","Second 25%",91.8
+"Jordan","JOR","Wealth quartiles","JORw43","Third 25%",94.6
+"Jordan","JOR","Wealth quartiles","JORw44","Highest 25%",97.7
+"Jordan","JOR","Subnat","JORr108","Aljoun",90.5
+"Jordan","JOR","Subnat","JORr101","Amman",94.5
+"Jordan","JOR","Subnat","JORr112","Aqaba",93.3
+"Jordan","JOR","Subnat","JORr102","Balqa",91.1
+"Jordan","JOR","Subnat","JORr105","Irbid",90.7
+"Jordan","JOR","Subnat","JORr107","Jarash",90.8
+"Jordan","JOR","Subnat","JORr109","Karak",93.4
+"Jordan","JOR","Subnat","JORr111","Ma'an",92.2
+"Jordan","JOR","Subnat","JORr104","Madaba",92.1
+"Jordan","JOR","Subnat","JORr106","Mafraq",86.7
+"Jordan","JOR","Subnat","JORr110","Tafiela",92.9
+"Jordan","JOR","Subnat","JORr103","Zarqa",91.6
+"Kazakhstan","KAZ","National","KAZt","Total",83.0
+"Kazakhstan","KAZ","Urb/rur","KAZtu","Urban",86.8
+"Kazakhstan","KAZ","Urb/rur","KAZtr","Rural",77.1
+"Kazakhstan","KAZ","Poverty","KAZp1","Poor",42.8
+"Kazakhstan","KAZ","Poverty","KAZp0","Nonpoor",83.2
+"Kazakhstan","KAZ","Wealth quartiles","KAZw41","Lowest 25%",70.9
+"Kazakhstan","KAZ","Wealth quartiles","KAZw42","Second 25%",81.6
+"Kazakhstan","KAZ","Wealth quartiles","KAZw43","Third 25%",88.4
+"Kazakhstan","KAZ","Wealth quartiles","KAZw44","Highest 25%",90.9
+"Kazakhstan","KAZ","Subnat","KAZr101","Almaty city",89.3
+"Kazakhstan","KAZ","Subnat","KAZr104","Central region (Karagandinskaya)",85.1
+"Kazakhstan","KAZ","Subnat","KAZr106","East region (East-Kazakhstanskaya)",81.8
+"Kazakhstan","KAZ","Subnat","KAZr105","North region (Akmolinskaya (incl Astana city), Kostnaiskaya, Pavlodarskaya, North-Kazakhstanskaya)",82.9
+"Kazakhstan","KAZ","Subnat","KAZr102","South region (Almatinskaya, Zhambylskaya, Kyzylordinskaya, South-Kazakhstanskaya)",81.5
+"Kazakhstan","KAZ","Subnat","KAZr103","West region (Aktyubinskaya, Atyrauskaya, Mangistauskaya, West-Kazakhstanskaya)",81.5
+"Kenya","KEN","National","KENt","Total",39.2
+"Kenya","KEN","Urb/rur","KENtu","Urban",54.4
+"Kenya","KEN","Urb/rur","KENtr","Rural",28.2
+"Kenya","KEN","Poverty","KENp1","Poor",25.9
+"Kenya","KEN","Poverty","KENp0","Nonpoor",67.8
+"Kenya","KEN","Wealth quartiles","KENw41","Lowest 25%",14.9
+"Kenya","KEN","Wealth quartiles","KENw42","Second 25%",27.1
+"Kenya","KEN","Wealth quartiles","KENw43","Third 25%",45.1
+"Kenya","KEN","Wealth quartiles","KENw44","Highest 25%",69.8
+"Kenya","KEN","Subnat","KENr102","Central",47.3
+"Kenya","KEN","Subnat","KENr103","Coast",42.5
+"Kenya","KEN","Subnat","KENr104","Eastern",34.8
+"Kenya","KEN","Subnat","KENr101","Nairobi",63.5
+"Kenya","KEN","Subnat","KENr108","North Eastern",22.0
+"Kenya","KEN","Subnat","KENr105","Nyanza",31.1
+"Kenya","KEN","Subnat","KENr106","Rift Valley",34.8
+"Kenya","KEN","Subnat","KENr107","Western",26.4
+"Kiribati","KIR","National","KIRt","Total",44.8
+"Kiribati","KIR","Urb/rur","KIRtu","Urban",54.6
+"Kiribati","KIR","Urb/rur","KIRtr","Rural",35.9
+"Kiribati","KIR","Poverty","KIRp1","Poor",31.7
+"Kiribati","KIR","Poverty","KIRp0","Nonpoor",63.9
+"Kiribati","KIR","Wealth quartiles","KIRw41","Lowest 25%",24.9
+"Kiribati","KIR","Wealth quartiles","KIRw42","Second 25%",40.1
+"Kiribati","KIR","Wealth quartiles","KIRw43","Third 25%",48.0
+"Kiribati","KIR","Wealth quartiles","KIRw44","Highest 25%",66.2
+"Kiribati","KIR","Subnat","KIRr103","Central Gibert",34.9
+"Kiribati","KIR","Subnat","KIRr105","Line and Phoenix Group",40.6
+"Kiribati","KIR","Subnat","KIRr102","Northern Gilbert",35.5
+"Kiribati","KIR","Subnat","KIRr104","Southern Gilbert",34.8
+"Kiribati","KIR","Subnat","KIRr101","Souyth Tarawa",54.6
+"Kosovo","XKO","National","KSVt","Total",90.3
+"Kosovo","XKO","Urb/rur","KSVtu","Urban",92.5
+"Kosovo","XKO","Urb/rur","KSVtr","Rural",88.6
+"Kosovo","XKO","Poverty","KSVp1","Poor",42.4
+"Kosovo","XKO","Poverty","KSVp0","Nonpoor",87.2
+"Kosovo","XKO","Wealth quartiles","KSVw41","Lowest 25%",82.7
+"Kosovo","XKO","Wealth quartiles","KSVw42","Second 25%",90.3
+"Kosovo","XKO","Wealth quartiles","KSVw43","Third 25%",92.9
+"Kosovo","XKO","Wealth quartiles","KSVw44","Highest 25%",95.4
+"Kosovo","XKO","Subnat","KSVr107","Ferizaj",90.0
+"Kosovo","XKO","Subnat","KSVr101","Gjakova",91.4
+"Kosovo","XKO","Subnat","KSVr102","Gjilan",87.2
+"Kosovo","XKO","Subnat","KSVr103","Mitrovica",90.2
+"Kosovo","XKO","Subnat","KSVr104","Peja",90.8
+"Kosovo","XKO","Subnat","KSVr106","Pristina",91.2
+"Kosovo","XKO","Subnat","KSVr105","Prizren",90.5
+"Kuwait","KWT","National","KWTt","Total",94.6
+"Kuwait","KWT","Urb/rur","KWTtu","Urban",94.6
+"Kuwait","KWT","Subnat","KWTr102","Ahmadi",94.2
+"Kuwait","KWT","Subnat","KWTr101","Al Asimah, Hawalli, Al-Farwaniyah, Mubarak al-Sabah",94.8
+"Kuwait","KWT","Subnat","KWTr103","Al-Jahra",93.6
+"Kyrgyzstan","KGZ","National","KGZt","Total",81.3
+"Kyrgyzstan","KGZ","Urb/rur","KGZtu","Urban",86.2
+"Kyrgyzstan","KGZ","Urb/rur","KGZtr","Rural",77.3
+"Kyrgyzstan","KGZ","Poverty","KGZp1","Poor",42.5
+"Kyrgyzstan","KGZ","Poverty","KGZp0","Nonpoor",81.6
+"Kyrgyzstan","KGZ","Wealth quartiles","KGZw41","Lowest 25%",71.7
+"Kyrgyzstan","KGZ","Wealth quartiles","KGZw42","Second 25%",79.4
+"Kyrgyzstan","KGZ","Wealth quartiles","KGZw43","Third 25%",84.1
+"Kyrgyzstan","KGZ","Wealth quartiles","KGZw44","Highest 25%",89.9
+"Kyrgyzstan","KGZ","Subnat","KGZr108","Batken",80.2
+"Kyrgyzstan","KGZ","Subnat","KGZr101","Bishkek",87.7
+"Kyrgyzstan","KGZ","Subnat","KGZr103","Chuy",83.2
+"Kyrgyzstan","KGZ","Subnat","KGZr102","Issyk-Kul",82.5
+"Kyrgyzstan","KGZ","Subnat","KGZr105","Jalal-Abad",76.8
+"Kyrgyzstan","KGZ","Subnat","KGZr107","Naryn",75.8
+"Kyrgyzstan","KGZ","Subnat","KGZr106","Osh",76.2
+"Kyrgyzstan","KGZ","Subnat","KGZr104","Talas",79.1
+"Lao","LAO","National","LAOt","Total",71.6
+"Lao","LAO","Urb/rur","LAOtu","Urban",86.6
+"Lao","LAO","Urb/rur","LAOtr","Rural",64.5
+"Lao","LAO","Poverty","LAOp1","Poor",34.7
+"Lao","LAO","Poverty","LAOp0","Nonpoor",80.8
+"Lao","LAO","Wealth quartiles","LAOw41","Lowest 25%",40.3
+"Lao","LAO","Wealth quartiles","LAOw42","Second 25%",68.3
+"Lao","LAO","Wealth quartiles","LAOw43","Third 25%",84.3
+"Lao","LAO","Wealth quartiles","LAOw44","Highest 25%",93.6
+"Lao","LAO","Subnat","LAOr117","Attapeu",66.3
+"Lao","LAO","Subnat","LAOr105","Bokeo",72.1
+"Lao","LAO","Subnat","LAOr111","Borikhamxay",82.4
+"Lao","LAO","Subnat","LAOr116","Champasack",74.4
+"Lao","LAO","Subnat","LAOr107","Huaphanh",58.1
+"Lao","LAO","Subnat","LAOr112","Khammuane",71.0
+"Lao","LAO","Subnat","LAOr103","Luangnamtha",68.2
+"Lao","LAO","Subnat","LAOr106","Luangprabang",62.9
+"Lao","LAO","Subnat","LAOr104","Oudomxay",62.0
+"Lao","LAO","Subnat","LAOr102","Phongsaly",55.3
+"Lao","LAO","Subnat","LAOr114","Saravane",56.8
+"Lao","LAO","Subnat","LAOr113","Savannakhet",67.6
+"Lao","LAO","Subnat","LAOr108","Sayabury",77.4
+"Lao","LAO","Subnat","LAOr115","Sekong",61.4
+"Lao","LAO","Subnat","LAOr101","Vientiane Municipality",90.1
+"Lao","LAO","Subnat","LAOr110","Vientiane Province",76.6
+"Lao","LAO","Subnat","LAOr109","Xiengkhuang",73.0
+"Lebanon","LBN","National","LBNt","Total",68.6
+"Lebanon","LBN","Urb/rur","LBNtu","Urban",68.6
+"Lebanon","LBN","Urb/rur","LBNtr","Rural",68.9
+"Lebanon","LBN","Poverty","LBNp1","Poor",58.3
+"Lebanon","LBN","Poverty","LBNp0","Nonpoor",71.5
+"Lebanon","LBN","Subnat","LBNr101","Beirut",67.9
+"Lebanon","LBN","Subnat","LBNr104","Beqaa",76.6
+"Lebanon","LBN","Subnat","LBNr102","Mount Lebanon",72.7
+"Lebanon","LBN","Subnat","LBNr103","Northern",53.9
+"Lebanon","LBN","Subnat","LBNr105","Southern, Nabtieh",72.7
+"Lesotho","LSO","National","LSOt","Total",48.5
+"Lesotho","LSO","Urb/rur","LSOtu","Urban",61.7
+"Lesotho","LSO","Urb/rur","LSOtr","Rural",38.6
+"Lesotho","LSO","Poverty","LSOp1","Poor",33.2
+"Lesotho","LSO","Poverty","LSOp0","Nonpoor",69.2
+"Lesotho","LSO","Wealth quartiles","LSOw41","Lowest 25%",23.8
+"Lesotho","LSO","Wealth quartiles","LSOw42","Second 25%",39.9
+"Lesotho","LSO","Wealth quartiles","LSOw43","Third 25%",54.1
+"Lesotho","LSO","Wealth quartiles","LSOw44","Highest 25%",76.1
+"Lesotho","LSO","Subnat","LSOr103","Berea",51.9
+"Lesotho","LSO","Subnat","LSOr101","Butha-Buthe",42.7
+"Lesotho","LSO","Subnat","LSOr102","Leribe",50.0
+"Lesotho","LSO","Subnat","LSOr105","Mafeteng",46.7
+"Lesotho","LSO","Subnat","LSOr104","Maseru",57.2
+"Lesotho","LSO","Subnat","LSOr106","Mohale s Hoek",41.0
+"Lesotho","LSO","Subnat","LSOr109","Mokhotlong",32.7
+"Lesotho","LSO","Subnat","LSOr108","Qasha s Nek",41.1
+"Lesotho","LSO","Subnat","LSOr107","Quthing",40.7
+"Lesotho","LSO","Subnat","LSOr110","Thaba-Tseka",30.0
+"Liberia","LBR","National","LBRt","Total",28.8
+"Liberia","LBR","Urb/rur","LBRtu","Urban",37.9
+"Liberia","LBR","Urb/rur","LBRtr","Rural",16.9
+"Liberia","LBR","Poverty","LBRp1","Poor",22.9
+"Liberia","LBR","Poverty","LBRp0","Nonpoor",65.6
+"Liberia","LBR","Wealth quartiles","LBRw41","Lowest 25%",10.1
+"Liberia","LBR","Wealth quartiles","LBRw42","Second 25%",20.2
+"Liberia","LBR","Wealth quartiles","LBRw43","Third 25%",31.5
+"Liberia","LBR","Wealth quartiles","LBRw44","Highest 25%",53.3
+"Liberia","LBR","Subnat","LBRr201"," Monrovia",44.7
+"Liberia","LBR","Subnat","LBRr206"," North Central",20.4
+"Liberia","LBR","Subnat","LBRr202"," North Western",19.4
+"Liberia","LBR","Subnat","LBRr203"," South Central",24.4
+"Liberia","LBR","Subnat","LBRr204"," South Eastern A",17.1
+"Liberia","LBR","Subnat","LBRr205"," South Eastern B",20.4
+"Liberia","LBR","Subnat","LBRr101","Bomi",20.7
+"Liberia","LBR","Subnat","LBRr102","Bong",17.7
+"Liberia","LBR","Subnat","LBRr103","Gbarpolu",17.1
+"Liberia","LBR","Subnat","LBRr104","Grand Bassa",19.0
+"Liberia","LBR","Subnat","LBRr105","Grand Cape Mount",19.7
+"Liberia","LBR","Subnat","LBRr106","Grand Gedeh",21.1
+"Liberia","LBR","Subnat","LBRr107","Grand Kru",16.3
+"Liberia","LBR","Subnat","LBRr108","Lofa",19.6
+"Liberia","LBR","Subnat","LBRr109","Margibi",29.3
+"Liberia","LBR","Subnat","LBRr110","Maryland",24.1
+"Liberia","LBR","Subnat","LBRr111","Montserrado",42.8
+"Liberia","LBR","Subnat","LBRr112","Nimba",23.9
+"Liberia","LBR","Subnat","LBRr113","River Cess",13.7
+"Liberia","LBR","Subnat","LBRr114","River Gee",19.6
+"Liberia","LBR","Subnat","LBRr115","Sinoe",16.0
+"Libya","LBY","National","LBYt","Total",91.5
+"Libya","LBY","Urb/rur","LBYtu","Urban",91.4
+"Libya","LBY","Urb/rur","LBYtr","Rural",91.3
+"Libya","LBY","Subnat","LBYr101","Cyrenaica",89.1
+"Libya","LBY","Subnat","LBYr103","Fezzan",87.9
+"Libya","LBY","Subnat","LBYr102","Tripolitania",93.4
+"Madagascar","MDG","National","MDGt","Total",30.8
+"Madagascar","MDG","Urb/rur","MDGtu","Urban",43.2
+"Madagascar","MDG","Urb/rur","MDGtr","Rural",26.7
+"Madagascar","MDG","Poverty","MDGp1","Poor",25.6
+"Madagascar","MDG","Poverty","MDGp0","Nonpoor",63.8
+"Madagascar","MDG","Wealth quartiles","MDGw41","Lowest 25%",14.8
+"Madagascar","MDG","Wealth quartiles","MDGw42","Second 25%",22.1
+"Madagascar","MDG","Wealth quartiles","MDGw43","Third 25%",32.9
+"Madagascar","MDG","Wealth quartiles","MDGw44","Highest 25%",53.4
+"Madagascar","MDG","Subnat","MDGr201"," Antananarivo",37.7
+"Madagascar","MDG","Subnat","MDGr206"," Antsiranana",36.2
+"Madagascar","MDG","Subnat","MDGr202"," Fianarantsoa",23.3
+"Madagascar","MDG","Subnat","MDGr204"," Mahajanga",30.6
+"Madagascar","MDG","Subnat","MDGr203"," Toamasina",32.6
+"Madagascar","MDG","Subnat","MDGr205"," Toliary",22.3
+"Madagascar","MDG","Subnat","MDGr112","Alaotra Mangoro",30.1
+"Madagascar","MDG","Subnat","MDGr101","Analamanga",45.4
+"Madagascar","MDG","Subnat","MDGr111","Analanjirofo",33.9
+"Madagascar","MDG","Subnat","MDGr106","Anamoroni Mania",24.0
+"Madagascar","MDG","Subnat","MDGr118","Androy",20.3
+"Madagascar","MDG","Subnat","MDGr119","Anosy",22.5
+"Madagascar","MDG","Subnat","MDGr117","Atsimo Andrefana",22.8
+"Madagascar","MDG","Subnat","MDGr109","Atsimo Atsinanana",20.1
+"Madagascar","MDG","Subnat","MDGr110","Atsinanana",33.6
+"Madagascar","MDG","Subnat","MDGr115","Betsiboka",28.2
+"Madagascar","MDG","Subnat","MDGr113","Boeny",30.8
+"Madagascar","MDG","Subnat","MDGr104","Bongolava",29.7
+"Madagascar","MDG","Subnat","MDGr121","Diana",37.8
+"Madagascar","MDG","Subnat","MDGr105","Haute Matsiatra",25.1
+"Madagascar","MDG","Subnat","MDGr108","Ihorombe",24.6
+"Madagascar","MDG","Subnat","MDGr103","Itasy",28.4
+"Madagascar","MDG","Subnat","MDGr116","Melaky",23.6
+"Madagascar","MDG","Subnat","MDGr120","Menabe",23.2
+"Madagascar","MDG","Subnat","MDGr122","Sava",34.6
+"Madagascar","MDG","Subnat","MDGr114","Sofia",32.3
+"Madagascar","MDG","Subnat","MDGr102","Vakinankaratra",30.1
+"Madagascar","MDG","Subnat","MDGr107","Vatovavy Fitovinany",22.8
+"Malawi","MWI","National","MWIt","Total",26.2
+"Malawi","MWI","Urb/rur","MWItu","Urban",49.0
+"Malawi","MWI","Urb/rur","MWItr","Rural",22.0
+"Malawi","MWI","Poverty","MWIp1","Poor",21.6
+"Malawi","MWI","Poverty","MWIp0","Nonpoor",69.8
+"Malawi","MWI","Wealth quartiles","MWIw41","Lowest 25%",12.1
+"Malawi","MWI","Wealth quartiles","MWIw42","Second 25%",18.9
+"Malawi","MWI","Wealth quartiles","MWIw43","Third 25%",24.8
+"Malawi","MWI","Wealth quartiles","MWIw44","Highest 25%",48.9
+"Malawi","MWI","Subnat","MWIr101","Blantyre",38.5
+"Malawi","MWI","Subnat","MWIr102","Kasungu",23.3
+"Malawi","MWI","Subnat","MWIr109","Lilongwe",31.4
+"Malawi","MWI","Subnat","MWIr103","Machinga",20.4
+"Malawi","MWI","Subnat","MWIr104","Mangochi",23.4
+"Malawi","MWI","Subnat","MWIr110","Mulanje",24.5
+"Malawi","MWI","Subnat","MWIr105","Mzimba",30.6
+"Malawi","MWI","Subnat","MWIr112","Other central (Nkhota Kota, Mchinji, Dowa, Ntchisi, Dedza, Ntcheu)",21.9
+"Malawi","MWI","Subnat","MWIr111","Other northern (Chitipa, Karonga, Rumphi, Nkhata Bay)",29.4
+"Malawi","MWI","Subnat","MWIr113","Other southern (Balaka, Mwanza, Phalombe, Chiradzulu, Chikwawa, Nsanje, neno)",23.2
+"Malawi","MWI","Subnat","MWIr106","Salima",22.5
+"Malawi","MWI","Subnat","MWIr107","Thyolo",22.2
+"Malawi","MWI","Subnat","MWIr108","Zomba",26.1
+"Malaysia","MYS","National","MYSt","Total",88.5
+"Malaysia","MYS","Urb/rur","MYStu","Urban",92.0
+"Malaysia","MYS","Urb/rur","MYStr","Rural",85.4
+"Malaysia","MYS","Poverty","MYSp1","Poor",
+"Malaysia","MYS","Poverty","MYSp0","Nonpoor",
+"Malaysia","MYS","Wealth quartiles","MYSw41","Lowest 25%",71.7
+"Malaysia","MYS","Wealth quartiles","MYSw42","Second 25%",90.0
+"Malaysia","MYS","Wealth quartiles","MYSw43","Third 25%",94.0
+"Malaysia","MYS","Wealth quartiles","MYSw44","Highest 25%",99.0
+"Malaysia","MYS","Subnat","MYSr203"," Central (Perak, Selangor, Wilayah Persekutuan)",91.5
+"Malaysia","MYS","Subnat","MYSr202"," East (Kelantan, Terengganu, Pahang)",88.7
+"Malaysia","MYS","Subnat","MYSr205"," East Malaysia (Saba, Sarawak)",78.3
+"Malaysia","MYS","Subnat","MYSr201"," North (Perlis, Kedah, Penang)",91.7
+"Malaysia","MYS","Subnat","MYSr204"," South (Negeri Sembilan, Melaka, Johor)",90.3
+"Malaysia","MYS","Subnat","MYSr101","Johor",
+"Malaysia","MYS","Subnat","MYSr102","Kedah",
+"Malaysia","MYS","Subnat","MYSr103","Kelantan",
+"Malaysia","MYS","Subnat","MYSr114","Kuala Lumpur Federal Territory",
+"Malaysia","MYS","Subnat","MYSr115","Labuan Federal Territory",
+"Malaysia","MYS","Subnat","MYSr104","Melaka",
+"Malaysia","MYS","Subnat","MYSr105","Negeri Sembilan",
+"Malaysia","MYS","Subnat","MYSr106","Pahang",
+"Malaysia","MYS","Subnat","MYSr108","Perak",
+"Malaysia","MYS","Subnat","MYSr109","Perlis",
+"Malaysia","MYS","Subnat","MYSr107","Pulau Pinang",
+"Malaysia","MYS","Subnat","MYSr112","Sabah",
+"Malaysia","MYS","Subnat","MYSr113","Sarawak",
+"Malaysia","MYS","Subnat","MYSr110","Selangor",
+"Malaysia","MYS","Subnat","MYSr111","Terengganu",
+"Maldives","MDV","National","MDVt","Total",85.8
+"Maldives","MDV","Urb/rur","MDVtu","Urban",90.3
+"Maldives","MDV","Urb/rur","MDVtr","Rural",83.0
+"Maldives","MDV","Poverty","MDVp1","Poor",43.3
+"Maldives","MDV","Poverty","MDVp0","Nonpoor",86.0
+"Maldives","MDV","Wealth quartiles","MDVw41","Lowest 25%",77.9
+"Maldives","MDV","Wealth quartiles","MDVw42","Second 25%",84.8
+"Maldives","MDV","Wealth quartiles","MDVw43","Third 25%",88.5
+"Maldives","MDV","Wealth quartiles","MDVw44","Highest 25%",92.1
+"Maldives","MDV","Subnat","MDVr104","Central",82.4
+"Maldives","MDV","Subnat","MDVr101","Male",90.3
+"Maldives","MDV","Subnat","MDVr102","North",82.6
+"Maldives","MDV","Subnat","MDVr103","North Central",82.6
+"Maldives","MDV","Subnat","MDVr106","South",84.0
+"Maldives","MDV","Subnat","MDVr105","South Central",83.1
+"Mali","MLI","National","MLIt","Total",40.6
+"Mali","MLI","Urb/rur","MLItu","Urban",61.0
+"Mali","MLI","Urb/rur","MLItr","Rural",34.8
+"Mali","MLI","Poverty","MLIp1","Poor",29.3
+"Mali","MLI","Poverty","MLIp0","Nonpoor",65.6
+"Mali","MLI","Wealth quartiles","MLIw41","Lowest 25%",23.1
+"Mali","MLI","Wealth quartiles","MLIw42","Second 25%",30.2
+"Mali","MLI","Wealth quartiles","MLIw43","Third 25%",43.2
+"Mali","MLI","Wealth quartiles","MLIw44","Highest 25%",66.0
+"Mali","MLI","Subnat","MLIr108","Bamako",65.4
+"Mali","MLI","Subnat","MLIr107","Gao and Kidal",27.1
+"Mali","MLI","Subnat","MLIr101","Kayes",36.6
+"Mali","MLI","Subnat","MLIr102","Koulikoro",39.5
+"Mali","MLI","Subnat","MLIr105","Mopti",31.6
+"Mali","MLI","Subnat","MLIr104","Segou",37.6
+"Mali","MLI","Subnat","MLIr103","Sikasso",40.1
+"Mali","MLI","Subnat","MLIr106","Tombouctou",28.3
+"Mauritania","MRT","National","MRTt","Total",33.8
+"Mauritania","MRT","Urb/rur","MRTtu","Urban",47.8
+"Mauritania","MRT","Urb/rur","MRTtr","Rural",23.2
+"Mauritania","MRT","Poverty","MRTp1","Poor",23.7
+"Mauritania","MRT","Poverty","MRTp0","Nonpoor",64.8
+"Mauritania","MRT","Wealth quartiles","MRTw41","Lowest 25%",12.4
+"Mauritania","MRT","Wealth quartiles","MRTw42","Second 25%",21.7
+"Mauritania","MRT","Wealth quartiles","MRTw43","Third 25%",39.6
+"Mauritania","MRT","Wealth quartiles","MRTw44","Highest 25%",61.7
+"Mauritania","MRT","Subnat","MRTr107","Adrar",34.8
+"Mauritania","MRT","Subnat","MRTr103","Assaba",26.4
+"Mauritania","MRT","Subnat","MRTr105","Brakna",30.3
+"Mauritania","MRT","Subnat","MRTr104","Gorgol",23.9
+"Mauritania","MRT","Subnat","MRTr110","Guidimagha",23.0
+"Mauritania","MRT","Subnat","MRTr101","Hodh Charghi",20.9
+"Mauritania","MRT","Subnat","MRTr102","Hodh Gharbi",18.2
+"Mauritania","MRT","Subnat","MRTr112","Inchiri",
+"Mauritania","MRT","Subnat","MRTr108","Nouadhibou",59.7
+"Mauritania","MRT","Subnat","MRTr109","Tagant",29.0
+"Mauritania","MRT","Subnat","MRTr111","Tiris-Zemmour",53.5
+"Mauritania","MRT","Subnat","MRTr106","Trarza incl Nouakchott",44.8
+"Mauritius","MUS","National","MUSt","Total",88.9
+"Mauritius","MUS","Urb/rur","MUStu","Urban",90.6
+"Mauritius","MUS","Urb/rur","MUStr","Rural",87.8
+"Mauritius","MUS","Poverty","MUSp1","Poor",42.8
+"Mauritius","MUS","Poverty","MUSp0","Nonpoor",89.5
+"Mauritius","MUS","Wealth quartiles","MUSw41","Lowest 25%",73.9
+"Mauritius","MUS","Wealth quartiles","MUSw42","Second 25%",87.2
+"Mauritius","MUS","Wealth quartiles","MUSw43","Third 25%",94.4
+"Mauritius","MUS","Wealth quartiles","MUSw44","Highest 25%",100
+"Mauritius","MUS","Subnat","MUSr101","North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",88.2
+"Mauritius","MUS","Subnat","MUSr103","Rodrigues",77.5
+"Mauritius","MUS","Subnat","MUSr102","South (Grand Port, Savanne, Plaines Wilhems, Black River)",90.3
+"Mexico","MEX","National","MEXt","Total",84.2
+"Mexico","MEX","Urb/rur","MEXtu","Urban",86.8
+"Mexico","MEX","Urb/rur","MEXtr","Rural",74.8
+"Mexico","MEX","Poverty","MEXp1","Poor",37.9
+"Mexico","MEX","Poverty","MEXp0","Nonpoor",85.3
+"Mexico","MEX","Wealth quartiles","MEXw41","Lowest 25%",69.5
+"Mexico","MEX","Wealth quartiles","MEXw42","Second 25%",83.5
+"Mexico","MEX","Wealth quartiles","MEXw43","Third 25%",89.6
+"Mexico","MEX","Wealth quartiles","MEXw44","Highest 25%",94.2
+"Mexico","MEX","Subnat","MEXr204"," CDMX-Edo Mexico Ciudad de Mexico (Estado de Mexico)",85.5
+"Mexico","MEX","Subnat","MEXr203"," Centro (Guerrero, Morelos, Puebla, Tlaxcala, Hidalgo, Michoacan y Colima)",83.0
+"Mexico","MEX","Subnat","MEXr202"," Noreste (Aguascalientes, Coahuila, Guanajuato, Nuevo Leon, Queretaro, San Luis Potosi, Tamaulipas,",85.1
+"Mexico","MEX","Subnat","MEXr201"," Noroeste (Baja California, Baja California Sur, Chihuahua, Durango, Jalisco, Nayarit, Sinaloa y Son",87.7
+"Mexico","MEX","Subnat","MEXr205"," Sur (Campeche, Chiapas, Oaxaca, Quintana Roo, Tabasco, Veracruz y Yucatan)",79.1
+"Mexico","MEX","Subnat","MEXr101","Aguascalientes",85.5
+"Mexico","MEX","Subnat","MEXr102","Baja California",84.0
+"Mexico","MEX","Subnat","MEXr103","Baja California Sur",82.6
+"Mexico","MEX","Subnat","MEXr104","Campeche",74.1
+"Mexico","MEX","Subnat","MEXr107","Chiapas",61.7
+"Mexico","MEX","Subnat","MEXr108","Chihuahua",84.5
+"Mexico","MEX","Subnat","MEXr105","Coahuila",85.2
+"Mexico","MEX","Subnat","MEXr106","Colima",82.1
+"Mexico","MEX","Subnat","MEXr109","Distrito Federal",86.7
+"Mexico","MEX","Subnat","MEXr110","Durango",80.2
+"Mexico","MEX","Subnat","MEXr111","Guanajuato",80.2
+"Mexico","MEX","Subnat","MEXr112","Guerrero",65.0
+"Mexico","MEX","Subnat","MEXr113","Hidalgo",73.5
+"Mexico","MEX","Subnat","MEXr114","Jalisco",86.2
+"Mexico","MEX","Subnat","MEXr115","Mexico",79.3
+"Mexico","MEX","Subnat","MEXr116","Michoacan de Ocampo",77.1
+"Mexico","MEX","Subnat","MEXr117","Morelos",77.4
+"Mexico","MEX","Subnat","MEXr118","Nayarit",79.3
+"Mexico","MEX","Subnat","MEXr119","Nuevo Leon",87.0
+"Mexico","MEX","Subnat","MEXr120","Oaxaca",61.7
+"Mexico","MEX","Subnat","MEXr121","Puebla",71.5
+"Mexico","MEX","Subnat","MEXr122","Queretaro",81.2
+"Mexico","MEX","Subnat","MEXr123","Quintana Roo",78.4
+"Mexico","MEX","Subnat","MEXr124","San Luis Potosi",74.9
+"Mexico","MEX","Subnat","MEXr125","Sinaloa",81.4
+"Mexico","MEX","Subnat","MEXr126","Sonora",82.9
+"Mexico","MEX","Subnat","MEXr127","Tabasco",73.0
+"Mexico","MEX","Subnat","MEXr128","Tamaulipas",81.2
+"Mexico","MEX","Subnat","MEXr129","Tlaxcala",75.1
+"Mexico","MEX","Subnat","MEXr130","Veracruz",70.5
+"Mexico","MEX","Subnat","MEXr131","Yucatan",77.7
+"Mexico","MEX","Subnat","MEXr132","Zacatecas",81.3
+"Moldova","MDA","National","MDAt","Total",70.7
+"Moldova","MDA","Urb/rur","MDAtu","Urban",81.8
+"Moldova","MDA","Urb/rur","MDAtr","Rural",63.8
+"Moldova","MDA","Poverty","MDAp1","Poor",38.0
+"Moldova","MDA","Poverty","MDAp0","Nonpoor",75.2
+"Moldova","MDA","Wealth quartiles","MDAw41","Lowest 25%",49.3
+"Moldova","MDA","Wealth quartiles","MDAw42","Second 25%",67.2
+"Moldova","MDA","Wealth quartiles","MDAw43","Third 25%",77.0
+"Moldova","MDA","Wealth quartiles","MDAw44","Highest 25%",89.3
+"Moldova","MDA","Subnat","MDAr102","Center",66.4
+"Moldova","MDA","Subnat","MDAr104","Chisinau",85.6
+"Moldova","MDA","Subnat","MDAr101","North",66.2
+"Moldova","MDA","Subnat","MDAr103","South",70.1
+"Mongolia","MNG","National","MNGt","Total",67.4
+"Mongolia","MNG","Urb/rur","MNGtu","Urban",74.6
+"Mongolia","MNG","Urb/rur","MNGtr","Rural",52.7
+"Mongolia","MNG","Poverty","MNGp1","Poor",40.1
+"Mongolia","MNG","Poverty","MNGp0","Nonpoor",72.8
+"Mongolia","MNG","Wealth quartiles","MNGw41","Lowest 25%",47.0
+"Mongolia","MNG","Wealth quartiles","MNGw42","Second 25%",60.5
+"Mongolia","MNG","Wealth quartiles","MNGw43","Third 25%",72.1
+"Mongolia","MNG","Wealth quartiles","MNGw44","Highest 25%",89.9
+"Mongolia","MNG","Subnat","MNGr103","Central (Dornogovi, Dundgovi, Umnugovi, Selenge, Tuv, Darkhan-Uul, Govisumber)",65.8
+"Mongolia","MNG","Subnat","MNGr104","Eastern (Dornod, Sukhbaatar, Khentii)",60.1
+"Mongolia","MNG","Subnat","MNGr102","Khangai (Arkhangai, Bayankhongor, Bulgan, Uvurkhangai, Khuvsgul, Orkhon)",58.3
+"Mongolia","MNG","Subnat","MNGr105","Ulaanbaatar",76.3
+"Mongolia","MNG","Subnat","MNGr101","Western (Bayan-Ulgii, Govi-Altai, Zavkhan, Uvs, Khovd)",52.4
+"Monte Negro","MNE","National","MNEt","Total",92.2
+"Monte Negro","MNE","Urb/rur","MNEtu","Urban",93.1
+"Monte Negro","MNE","Urb/rur","MNEtr","Rural",90.2
+"Monte Negro","MNE","Poverty","MNEp1","Poor",
+"Monte Negro","MNE","Poverty","MNEp0","Nonpoor",
+"Monte Negro","MNE","Wealth quartiles","MNEw41","Lowest 25%",85.8
+"Monte Negro","MNE","Wealth quartiles","MNEw42","Second 25%",92.4
+"Monte Negro","MNE","Wealth quartiles","MNEw43","Third 25%",94.3
+"Monte Negro","MNE","Wealth quartiles","MNEw44","Highest 25%",96.2
+"Monte Negro","MNE","Subnat","MNEr102","Centre",92.9
+"Monte Negro","MNE","Subnat","MNEr101","North",93.1
+"Monte Negro","MNE","Subnat","MNEr103","South",89.7
+"Morocco","MAR","National","MARt","Total",86.0
+"Morocco","MAR","Urb/rur","MARtu","Urban",90.8
+"Morocco","MAR","Urb/rur","MARtr","Rural",79.4
+"Morocco","MAR","Poverty","MARp1","Poor",42.7
+"Morocco","MAR","Poverty","MARp0","Nonpoor",87.1
+"Morocco","MAR","Wealth quartiles","MARw41","Lowest 25%",65.4
+"Morocco","MAR","Wealth quartiles","MARw42","Second 25%",85.3
+"Morocco","MAR","Wealth quartiles","MARw43","Third 25%",93.5
+"Morocco","MAR","Wealth quartiles","MARw44","Highest 25%",100
+"Morocco","MAR","Subnat","MARr103","Centre",87.9
+"Morocco","MAR","Subnat","MARr102","Centre north",84.4
+"Morocco","MAR","Subnat","MARr105","Centre south",84.5
+"Morocco","MAR","Subnat","MARr104","Eastern",82.4
+"Morocco","MAR","Subnat","MARr101","North west",87.3
+"Morocco","MAR","Subnat","MARr107","South",86.0
+"Morocco","MAR","Subnat","MARr106","Tensift",85.3
+"Mozambique","MOZ","National","MOZt","Total",23.3
+"Mozambique","MOZ","Urb/rur","MOZtu","Urban",36.8
+"Mozambique","MOZ","Urb/rur","MOZtr","Rural",17.5
+"Mozambique","MOZ","Poverty","MOZp1","Poor",18.4
+"Mozambique","MOZ","Poverty","MOZp0","Nonpoor",68.5
+"Mozambique","MOZ","Wealth quartiles","MOZw41","Lowest 25%",15.0
+"Mozambique","MOZ","Wealth quartiles","MOZw42","Second 25%",16.0
+"Mozambique","MOZ","Wealth quartiles","MOZw43","Third 25%",17.9
+"Mozambique","MOZ","Wealth quartiles","MOZw44","Highest 25%",44.4
+"Mozambique","MOZ","Subnat","MOZr102","Cabo delgado",15.8
+"Mozambique","MOZ","Subnat","MOZr109","Gaza",21.8
+"Mozambique","MOZ","Subnat","MOZr108","Inhambane",17.9
+"Mozambique","MOZ","Subnat","MOZr106","Manica",28.6
+"Mozambique","MOZ","Subnat","MOZr111","Maputo Cidade",55.7
+"Mozambique","MOZ","Subnat","MOZr110","Maputo Provincia",37.9
+"Mozambique","MOZ","Subnat","MOZr103","Nampula",19.4
+"Mozambique","MOZ","Subnat","MOZr101","Niassa",17.9
+"Mozambique","MOZ","Subnat","MOZr107","Sofala",29.6
+"Mozambique","MOZ","Subnat","MOZr105","Tete",17.0
+"Mozambique","MOZ","Subnat","MOZr104","Zambezia",20.5
+"Myanmar","MMR","National","MMRt","Total",48.4
+"Myanmar","MMR","Urb/rur","MMRtu","Urban",67.1
+"Myanmar","MMR","Urb/rur","MMRtr","Rural",41.6
+"Myanmar","MMR","Poverty","MMRp1","Poor",32.7
+"Myanmar","MMR","Poverty","MMRp0","Nonpoor",68.1
+"Myanmar","MMR","Wealth quartiles","MMRw41","Lowest 25%",26.4
+"Myanmar","MMR","Wealth quartiles","MMRw42","Second 25%",39.7
+"Myanmar","MMR","Wealth quartiles","MMRw43","Third 25%",52.9
+"Myanmar","MMR","Wealth quartiles","MMRw44","Highest 25%",74.4
+"Myanmar","MMR","Subnat","MMRr114","Ayeyarwaddy",37.2
+"Myanmar","MMR","Subnat","MMRr107","Bago",44.8
+"Myanmar","MMR","Subnat","MMRr104","Chin",48.4
+"Myanmar","MMR","Subnat","MMRr101","Kachin",57.7
+"Myanmar","MMR","Subnat","MMRr102","Kayah",52.5
+"Myanmar","MMR","Subnat","MMRr103","Kayin",49.2
+"Myanmar","MMR","Subnat","MMRr108","Magway",45.5
+"Myanmar","MMR","Subnat","MMRr109","Mandalay, NayPyitaw",51.3
+"Myanmar","MMR","Subnat","MMRr110","Mon",53.8
+"Myanmar","MMR","Subnat","MMRr111","Rakhine",36.9
+"Myanmar","MMR","Subnat","MMRr105","Sagaing",44.2
+"Myanmar","MMR","Subnat","MMRr113","Shan",50.6
+"Myanmar","MMR","Subnat","MMRr106","Taninthayi",48.6
+"Myanmar","MMR","Subnat","MMRr112","Yangon",63.1
+"Namibia","NAM","National","NAMt","Total",51.8
+"Namibia","NAM","Urb/rur","NAMtu","Urban",68.0
+"Namibia","NAM","Urb/rur","NAMtr","Rural",34.3
+"Namibia","NAM","Poverty","NAMp1","Poor",25.8
+"Namibia","NAM","Poverty","NAMp0","Nonpoor",81.4
+"Namibia","NAM","Wealth quartiles","NAMw41","Lowest 25%",17.6
+"Namibia","NAM","Wealth quartiles","NAMw42","Second 25%",32.6
+"Namibia","NAM","Wealth quartiles","NAMw43","Third 25%",65.1
+"Namibia","NAM","Wealth quartiles","NAMw44","Highest 25%",92.0
+"Namibia","NAM","Subnat","NAMr203"," Central",
+"Namibia","NAM","Subnat","NAMr202"," Northeast",
+"Namibia","NAM","Subnat","NAMr201"," Northwest",
+"Namibia","NAM","Subnat","NAMr204"," South",
+"Namibia","NAM","Subnat","NAMr101","Caprivi",32.7
+"Namibia","NAM","Subnat","NAMr102","Erongo",71.0
+"Namibia","NAM","Subnat","NAMr103","Hardap",64.9
+"Namibia","NAM","Subnat","NAMr104","Karas",63.4
+"Namibia","NAM","Subnat","NAMr108","Kavango",31.6
+"Namibia","NAM","Subnat","NAMr105","Khomas",72.4
+"Namibia","NAM","Subnat","NAMr106","Kunene",43.0
+"Namibia","NAM","Subnat","NAMr107","Ohangwena",30.6
+"Namibia","NAM","Subnat","NAMr109","Omaheke",47.6
+"Namibia","NAM","Subnat","NAMr110","Omusati",35.0
+"Namibia","NAM","Subnat","NAMr111","Oshana",49.0
+"Namibia","NAM","Subnat","NAMr112","Oshikoto",42.2
+"Namibia","NAM","Subnat","NAMr113","Otjozondjupa",61.3
+"Nepal","NPL","National","NPLt","Total",51.8
+"Nepal","NPL","Urb/rur","NPLtu","Urban",56.4
+"Nepal","NPL","Urb/rur","NPLtr","Rural",44.5
+"Nepal","NPL","Poverty","NPLp1","Poor",36.0
+"Nepal","NPL","Poverty","NPLp0","Nonpoor",67.0
+"Nepal","NPL","Wealth quartiles","NPLw41","Lowest 25%",36.5
+"Nepal","NPL","Wealth quartiles","NPLw42","Second 25%",43.1
+"Nepal","NPL","Wealth quartiles","NPLw43","Third 25%",54.0
+"Nepal","NPL","Wealth quartiles","NPLw44","Highest 25%",73.7
+"Nepal","NPL","Subnat","NPLr102","Central",53.4
+"Nepal","NPL","Subnat","NPLr101","Eastern",50.6
+"Nepal","NPL","Subnat","NPLr105","Far-western",45.9
+"Nepal","NPL","Subnat","NPLr104","Mid-western",44.9
+"Nepal","NPL","Subnat","NPLr103","Western",57.0
+"Nicaragua","NIC","National","NICt","Total",53.5
+"Nicaragua","NIC","Urb/rur","NICtu","Urban",65.7
+"Nicaragua","NIC","Urb/rur","NICtr","Rural",35.6
+"Nicaragua","NIC","Poverty","NICp1","Poor",28.5
+"Nicaragua","NIC","Poverty","NICp0","Nonpoor",76.6
+"Nicaragua","NIC","Wealth quartiles","NICw41","Lowest 25%",16.7
+"Nicaragua","NIC","Wealth quartiles","NICw42","Second 25%",44.0
+"Nicaragua","NIC","Wealth quartiles","NICw43","Third 25%",65.3
+"Nicaragua","NIC","Wealth quartiles","NICw44","Highest 25%",88.0
+"Nicaragua","NIC","Subnat","NICr103","Atlantico (Rio San Juan, Atlantico Norte (Raan), Atlantico Sur (Raas))",32.8
+"Nicaragua","NIC","Subnat","NICr102","Central-Norte (Boaco, Chontales, Jinotega, Matagalpa, Esteli, Madriz, Nueva Segovia)",46.6
+"Nicaragua","NIC","Subnat","NICr101","Pacifico (Chinandega, Leon, Managua, Masaya, Granada, Carazo, Rivas)",61.3
+"Niger","NER","National","NERt","Total",19.9
+"Niger","NER","Urb/rur","NERtu","Urban",49.0
+"Niger","NER","Urb/rur","NERtr","Rural",14.3
+"Niger","NER","Poverty","NERp1","Poor",14.9
+"Niger","NER","Poverty","NERp0","Nonpoor",67.7
+"Niger","NER","Wealth quartiles","NERw41","Lowest 25%",6.17
+"Niger","NER","Wealth quartiles","NERw42","Second 25%",12.1
+"Niger","NER","Wealth quartiles","NERw43","Third 25%",17.3
+"Niger","NER","Wealth quartiles","NERw44","Highest 25%",44.2
+"Niger","NER","Subnat","NERr101","Agadez",31.2
+"Niger","NER","Subnat","NERr102","Diffa",24.5
+"Niger","NER","Subnat","NERr103","Dosso",16.6
+"Niger","NER","Subnat","NERr104","Maradi",18.7
+"Niger","NER","Subnat","NERr106","Tahoua",16.6
+"Niger","NER","Subnat","NERr105","Tillabery (incl Niamey)",31.1
+"Niger","NER","Subnat","NERr107","Zinder",14.8
+"Nigeria","NGA","National","NGAt","Total",44.3
+"Nigeria","NGA","Urb/rur","NGAtu","Urban",54.6
+"Nigeria","NGA","Urb/rur","NGAtr","Rural",35.2
+"Nigeria","NGA","Poverty","NGAp1","Poor",30.3
+"Nigeria","NGA","Poverty","NGAp0","Nonpoor",66.3
+"Nigeria","NGA","Wealth quartiles","NGAw41","Lowest 25%",20.2
+"Nigeria","NGA","Wealth quartiles","NGAw42","Second 25%",35.8
+"Nigeria","NGA","Wealth quartiles","NGAw43","Third 25%",51.4
+"Nigeria","NGA","Wealth quartiles","NGAw44","Highest 25%",69.7
+"Nigeria","NGA","Subnat","NGAr122","Abia",58.8
+"Nigeria","NGA","Subnat","NGAr137","Abuja FCT",59.3
+"Nigeria","NGA","Subnat","NGAr108","Adamawa",37.5
+"Nigeria","NGA","Subnat","NGAr101","Akwa Ibom",51.0
+"Nigeria","NGA","Subnat","NGAr102","Anambra",58.7
+"Nigeria","NGA","Subnat","NGAr103","Bauchi",31.0
+"Nigeria","NGA","Subnat","NGAr131","Bayelsa",42.7
+"Nigeria","NGA","Subnat","NGAr105","Benue",41.5
+"Nigeria","NGA","Subnat","NGAr106","Borno",40.7
+"Nigeria","NGA","Subnat","NGAr107","Cross River",41.9
+"Nigeria","NGA","Subnat","NGAr123","Delta",53.7
+"Nigeria","NGA","Subnat","NGAr132","Ebonyi",36.3
+"Nigeria","NGA","Subnat","NGAr104","Edo",51.2
+"Nigeria","NGA","Subnat","NGAr133","Ekiti",44.5
+"Nigeria","NGA","Subnat","NGAr124","Enugu",48.9
+"Nigeria","NGA","Subnat","NGAr134","Gombe",34.5
+"Nigeria","NGA","Subnat","NGAr109","Imo",57.7
+"Nigeria","NGA","Subnat","NGAr125","Jigawa",28.2
+"Nigeria","NGA","Subnat","NGAr110","Kaduna",45.3
+"Nigeria","NGA","Subnat","NGAr111","Kano",38.7
+"Nigeria","NGA","Subnat","NGAr112","Katsina",35.3
+"Nigeria","NGA","Subnat","NGAr126","Kebbi",30.6
+"Nigeria","NGA","Subnat","NGAr127","Kogi",42.8
+"Nigeria","NGA","Subnat","NGAr113","Kwara",46.0
+"Nigeria","NGA","Subnat","NGAr114","Lagos",60.1
+"Nigeria","NGA","Subnat","NGAr135","Nassarawa",48.5
+"Nigeria","NGA","Subnat","NGAr115","Niger",42.2
+"Nigeria","NGA","Subnat","NGAr116","Ogun",54.6
+"Nigeria","NGA","Subnat","NGAr117","Ondo",45.8
+"Nigeria","NGA","Subnat","NGAr128","Osun",43.9
+"Nigeria","NGA","Subnat","NGAr118","Oyo",49.7
+"Nigeria","NGA","Subnat","NGAr119","Plateau",39.9
+"Nigeria","NGA","Subnat","NGAr120","Rivers",55.6
+"Nigeria","NGA","Subnat","NGAr121","Sokoto",28.5
+"Nigeria","NGA","Subnat","NGAr129","Taraba",32.0
+"Nigeria","NGA","Subnat","NGAr130","Yobe",24.4
+"Nigeria","NGA","Subnat","NGAr136","Zamfora",30.8
+"North Macedonia","MKD","National","MKDt","Total",91.8
+"North Macedonia","MKD","Urb/rur","MKDtu","Urban",92.9
+"North Macedonia","MKD","Urb/rur","MKDtr","Rural",89.8
+"North Macedonia","MKD","Poverty","MKDp1","Poor",39.8
+"North Macedonia","MKD","Poverty","MKDp0","Nonpoor",90.5
+"North Macedonia","MKD","Wealth quartiles","MKDw41","Lowest 25%",84.4
+"North Macedonia","MKD","Wealth quartiles","MKDw42","Second 25%",92.7
+"North Macedonia","MKD","Wealth quartiles","MKDw43","Third 25%",94.2
+"North Macedonia","MKD","Wealth quartiles","MKDw44","Highest 25%",96.0
+"North Macedonia","MKD","Subnat","MKDr108","East",88.3
+"North Macedonia","MKD","Subnat","MKDr104","North East",88.2
+"North Macedonia","MKD","Subnat","MKDr102","Pelagoniski",92.1
+"North Macedonia","MKD","Subnat","MKDr107","Poloski",93.6
+"North Macedonia","MKD","Subnat","MKDr101","Skopski",93.3
+"North Macedonia","MKD","Subnat","MKDr106","South East",89.6
+"North Macedonia","MKD","Subnat","MKDr105","South West",93.2
+"North Macedonia","MKD","Subnat","MKDr103","Vardarski",91.5
+"Pakistan","PAK","National","PAKt","Total",64.0
+"Pakistan","PAK","Urb/rur","PAKtu","Urban",76.5
+"Pakistan","PAK","Urb/rur","PAKtr","Rural",55.9
+"Pakistan","PAK","Poverty","PAKp1","Poor",33.8
+"Pakistan","PAK","Poverty","PAKp0","Nonpoor",74.1
+"Pakistan","PAK","Wealth quartiles","PAKw41","Lowest 25%",37.4
+"Pakistan","PAK","Wealth quartiles","PAKw42","Second 25%",60.7
+"Pakistan","PAK","Wealth quartiles","PAKw43","Third 25%",74.0
+"Pakistan","PAK","Wealth quartiles","PAKw44","Highest 25%",83.8
+"Pakistan","PAK","Subnat","PAKr107","AJK",67.5
+"Pakistan","PAK","Subnat","PAKr104","Balochistan",60.6
+"Pakistan","PAK","Subnat","PAKr108","FATA",42.3
+"Pakistan","PAK","Subnat","PAKr106","Gilgit Baltistan",72.3
+"Pakistan","PAK","Subnat","PAKr105","Islamabad (ICT)",78.8
+"Pakistan","PAK","Subnat","PAKr103","Khyber Pakhtunkhwa (NWFrontier)",58.6
+"Pakistan","PAK","Subnat","PAKr101","Punjab",65.7
+"Pakistan","PAK","Subnat","PAKr102","Sindh",59.6
+"Palestine","PSE","National","PSEt","Total",85.4
+"Palestine","PSE","Urb/rur","PSEtu","Urban",84.8
+"Palestine","PSE","Urb/rur","PSEtr","Rural",88.0
+"Palestine","PSE","Poverty","PSEp1","Poor",42.9
+"Palestine","PSE","Poverty","PSEp0","Nonpoor",85.6
+"Palestine","PSE","Wealth quartiles","PSEw41","Lowest 25%",72.6
+"Palestine","PSE","Wealth quartiles","PSEw42","Second 25%",82.4
+"Palestine","PSE","Wealth quartiles","PSEw43","Third 25%",90.4
+"Palestine","PSE","Wealth quartiles","PSEw44","Highest 25%",96.0
+"Palestine","PSE","Subnat","PSEr104","Bethlehem, Hebron",88.9
+"Palestine","PSE","Subnat","PSEr106","Deir El-Balah, Khan Yunis, Rafah",76.7
+"Palestine","PSE","Subnat","PSEr101","Jenin, Tubas, Tulkarm, Nablus, Qalqiliya",89.8
+"Palestine","PSE","Subnat","PSEr103","Jerusalem",93.0
+"Palestine","PSE","Subnat","PSEr105","North Gaza, Gaza",76.9
+"Palestine","PSE","Subnat","PSEr102","Salfit, Ramallah, Al-Bireh, Jericho, Al Aghwar",92.7
+"Panama","PAN","National","PANt","Total",76.1
+"Panama","PAN","Urb/rur","PANtu","Urban",83.8
+"Panama","PAN","Urb/rur","PANtr","Rural",58.9
+"Panama","PAN","Poverty","PANp1","Poor",29.6
+"Panama","PAN","Poverty","PANp0","Nonpoor",82.8
+"Panama","PAN","Wealth quartiles","PANw41","Lowest 25%",46.5
+"Panama","PAN","Wealth quartiles","PANw42","Second 25%",74.7
+"Panama","PAN","Wealth quartiles","PANw43","Third 25%",87.6
+"Panama","PAN","Wealth quartiles","PANw44","Highest 25%",95.8
+"Panama","PAN","Subnat","PANr203"," Area Central",74.1
+"Panama","PAN","Subnat","PANr201"," Area Metropolitana",88.3
+"Panama","PAN","Subnat","PANr204"," Area Occidental",72.1
+"Panama","PAN","Subnat","PANr202"," Area Oriental",80.9
+"Panama","PAN","Subnat","PANr101","Bocas del Toro",63.0
+"Panama","PAN","Subnat","PANr104","Chiriqui",77.5
+"Panama","PAN","Subnat","PANr102","Cocle",70.2
+"Panama","PAN","Subnat","PANr103","Colon",78.5
+"Panama","PAN","Subnat","PANr105","Darien",56.1
+"Panama","PAN","Subnat","PANr111","Embera Wounaan",30.4
+"Panama","PAN","Subnat","PANr106","Herrera",77.3
+"Panama","PAN","Subnat","PANr110","Kuna Yala",29.3
+"Panama","PAN","Subnat","PANr107","Los Santos",77.6
+"Panama","PAN","Subnat","PANr112","Ngobe Bugle",20.2
+"Panama","PAN","Subnat","PANr108","Panama",83.0
+"Panama","PAN","Subnat","PANr109","Veraguas",60.5
+"Papua New Guinea","PNG","National","PNGt","Total",28.2
+"Papua New Guinea","PNG","Urb/rur","PNGtu","Urban",57.3
+"Papua New Guinea","PNG","Urb/rur","PNGtr","Rural",25.1
+"Papua New Guinea","PNG","Poverty","PNGp1","Poor",21.1
+"Papua New Guinea","PNG","Poverty","PNGp0","Nonpoor",75.3
+"Papua New Guinea","PNG","Wealth quartiles","PNGw41","Lowest 25%",11.9
+"Papua New Guinea","PNG","Wealth quartiles","PNGw42","Second 25%",19.1
+"Papua New Guinea","PNG","Wealth quartiles","PNGw43","Third 25%",25.0
+"Papua New Guinea","PNG","Wealth quartiles","PNGw44","Highest 25%",56.6
+"Papua New Guinea","PNG","Subnat","PNGr120","Autonomous Region of Bougainville",28.2
+"Papua New Guinea","PNG","Subnat","PNGr103","Central",32.0
+"Papua New Guinea","PNG","Subnat","PNGr110","Chimbu, Simbu",31.8
+"Papua New Guinea","PNG","Subnat","PNGr118","East New Britain",32.1
+"Papua New Guinea","PNG","Subnat","PNGr114","East Sepik",26.8
+"Papua New Guinea","PNG","Subnat","PNGr111","Eastern Highlands",23.2
+"Papua New Guinea","PNG","Subnat","PNGr108","Enga",23.0
+"Papua New Guinea","PNG","Subnat","PNGr102","Gulf",23.6
+"Papua New Guinea","PNG","Subnat","PNGr121","Hela",16.0
+"Papua New Guinea","PNG","Subnat","PNGr122","Jiwaka",23.6
+"Papua New Guinea","PNG","Subnat","PNGr113","Madang",26.2
+"Papua New Guinea","PNG","Subnat","PNGr116","Manus",33.0
+"Papua New Guinea","PNG","Subnat","PNGr105","Milne Bay",26.3
+"Papua New Guinea","PNG","Subnat","PNGr112","Morobe",38.5
+"Papua New Guinea","PNG","Subnat","PNGr104","National Capital District",77.9
+"Papua New Guinea","PNG","Subnat","PNGr117","New Ireland",27.7
+"Papua New Guinea","PNG","Subnat","PNGr106","Northern, Oro",27.9
+"Papua New Guinea","PNG","Subnat","PNGr107","Southern Highlands",20.6
+"Papua New Guinea","PNG","Subnat","PNGr119","West New Britain",33.9
+"Papua New Guinea","PNG","Subnat","PNGr115","West Sepik, Sandaun",22.5
+"Papua New Guinea","PNG","Subnat","PNGr101","Western",24.9
+"Papua New Guinea","PNG","Subnat","PNGr109","Western Highlands",31.1
+"Paraguay","PRY","National","PRYt","Total",78.6
+"Paraguay","PRY","Urb/rur","PRYtu","Urban",85.6
+"Paraguay","PRY","Urb/rur","PRYtr","Rural",69.6
+"Paraguay","PRY","Poverty","PRYp1","Poor",33.5
+"Paraguay","PRY","Poverty","PRYp0","Nonpoor",84.3
+"Paraguay","PRY","Wealth quartiles","PRYw41","Lowest 25%",48.7
+"Paraguay","PRY","Wealth quartiles","PRYw42","Second 25%",77.3
+"Paraguay","PRY","Wealth quartiles","PRYw43","Third 25%",90.1
+"Paraguay","PRY","Wealth quartiles","PRYw44","Highest 25%",100
+"Paraguay","PRY","Subnat","PRYr105","Central (Asuncion, Central)",87.1
+"Paraguay","PRY","Subnat","PRYr102","North-East (Caaguazu, Alto Parana, Canideyu)",74.3
+"Paraguay","PRY","Subnat","PRYr101","North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)",70.5
+"Paraguay","PRY","Subnat","PRYr104","South-East (Guaira, Misiones, Paraguari, Neembucu)",77.8
+"Paraguay","PRY","Subnat","PRYr103","South-West (Caazapa, Itapua)",74.8
+"Peru","PER","National","PERt","Total",64.2
+"Peru","PER","Urb/rur","PERtu","Urban",75.0
+"Peru","PER","Urb/rur","PERtr","Rural",40.9
+"Peru","PER","Poverty","PERp1","Poor",32.1
+"Peru","PER","Poverty","PERp0","Nonpoor",76.4
+"Peru","PER","Wealth quartiles","PERw41","Lowest 25%",33.3
+"Peru","PER","Wealth quartiles","PERw42","Second 25%",57.9
+"Peru","PER","Wealth quartiles","PERw43","Third 25%",75.6
+"Peru","PER","Wealth quartiles","PERw44","Highest 25%",90.0
+"Peru","PER","Subnat","PERr106","Central (Huancavelica, Huanuco, Junin, Pasco)",53.6
+"Peru","PER","Subnat","PERr103","East (Madre de Dios, Cusco, Puno, Apurimac)",49.9
+"Peru","PER","Subnat","PERr101","North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",59.1
+"Peru","PER","Subnat","PERr102","North East (Amazonas, Loreto, San Martin, Ucayali)",53.4
+"Peru","PER","Subnat","PERr104","South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",65.6
+"Peru","PER","Subnat","PERr105","West (Ancash, Lima, Callao)",77.3
+"Philippines","PHL","National","PHLt","Total",68.7
+"Philippines","PHL","Urb/rur","PHLtu","Urban",74.0
+"Philippines","PHL","Urb/rur","PHLtr","Rural",64.1
+"Philippines","PHL","Poverty","PHLp1","Poor",36.8
+"Philippines","PHL","Poverty","PHLp0","Nonpoor",76.4
+"Philippines","PHL","Wealth quartiles","PHLw41","Lowest 25%",43.0
+"Philippines","PHL","Wealth quartiles","PHLw42","Second 25%",63.6
+"Philippines","PHL","Wealth quartiles","PHLw43","Third 25%",77.5
+"Philippines","PHL","Wealth quartiles","PHLw44","Highest 25%",90.5
+"Philippines","PHL","Subnat","PHLr117","ARMM",44.3
+"Philippines","PHL","Subnat","PHLr102","Cordillera Admin Region",69.9
+"Philippines","PHL","Subnat","PHLr103","I-Ilocos",71.6
+"Philippines","PHL","Subnat","PHLr104","II-Cagayan Valley",65.4
+"Philippines","PHL","Subnat","PHLr105","III-Central Luzon",75.2
+"Philippines","PHL","Subnat","PHLr106","IVA-CALABARZON",76.3
+"Philippines","PHL","Subnat","PHLr107","IVB-MIMAROPA",61.4
+"Philippines","PHL","Subnat","PHLr112","IX-Zamboanga Peninsula",59.9
+"Philippines","PHL","Subnat","PHLr101","National Capital Region",80.9
+"Philippines","PHL","Subnat","PHLr108","V-Bicol",60.7
+"Philippines","PHL","Subnat","PHLr109","VI-Western Visayas",62.5
+"Philippines","PHL","Subnat","PHLr110","VII-Central Visayas",66.4
+"Philippines","PHL","Subnat","PHLr111","VIII-Eastern Visayas",63.3
+"Philippines","PHL","Subnat","PHLr113","X-Northern Mindanao",63.7
+"Philippines","PHL","Subnat","PHLr114","XI-Davao",60.0
+"Philippines","PHL","Subnat","PHLr115","XII-SOCCSKSARGEN",58.9
+"Philippines","PHL","Subnat","PHLr116","XIII-Caraga",65.9
+"Rwanda","RWA","National","RWAt","Total",24.3
+"Rwanda","RWA","Urb/rur","RWAtu","Urban",45.8
+"Rwanda","RWA","Urb/rur","RWAtr","Rural",19.8
+"Rwanda","RWA","Poverty","RWAp1","Poor",19.9
+"Rwanda","RWA","Poverty","RWAp0","Nonpoor",64.5
+"Rwanda","RWA","Wealth quartiles","RWAw41","Lowest 25%",9.44
+"Rwanda","RWA","Wealth quartiles","RWAw42","Second 25%",17.1
+"Rwanda","RWA","Wealth quartiles","RWAw43","Third 25%",23.4
+"Rwanda","RWA","Wealth quartiles","RWAw44","Highest 25%",47.0
+"Rwanda","RWA","Subnat","RWAr101","City of Kigali",45.2
+"Rwanda","RWA","Subnat","RWAr105","East",23.1
+"Rwanda","RWA","Subnat","RWAr104","North",21.5
+"Rwanda","RWA","Subnat","RWAr102","South",19.5
+"Rwanda","RWA","Subnat","RWAr103","West",21.7
+"Saint Lucia","LCA","National","LCAt","Total",83.7
+"Saint Lucia","LCA","Urb/rur","LCAtu","Urban",82.5
+"Saint Lucia","LCA","Urb/rur","LCAtr","Rural",84.0
+"Saint Lucia","LCA","Poverty","LCAp1","Poor",37.2
+"Saint Lucia","LCA","Poverty","LCAp0","Nonpoor",86.6
+"Saint Lucia","LCA","Wealth quartiles","LCAw41","Lowest 25%",62.5
+"Saint Lucia","LCA","Wealth quartiles","LCAw42","Second 25%",84.8
+"Saint Lucia","LCA","Wealth quartiles","LCAw43","Third 25%",91.9
+"Saint Lucia","LCA","Wealth quartiles","LCAw44","Highest 25%",95.7
+"Saint Lucia","LCA","Subnat","LCAr102","St Lucia rural",84.0
+"Saint Lucia","LCA","Subnat","LCAr101","St Lucia total",82.5
+"Sao Tome & Principe","STP","National","STPt","Total",55.9
+"Sao Tome & Principe","STP","Urb/rur","STPtu","Urban",58.6
+"Sao Tome & Principe","STP","Urb/rur","STPtr","Rural",50.7
+"Sao Tome & Principe","STP","Poverty","STPp1","Poor",35.9
+"Sao Tome & Principe","STP","Poverty","STPp0","Nonpoor",69.7
+"Sao Tome & Principe","STP","Wealth quartiles","STPw41","Lowest 25%",32.3
+"Sao Tome & Principe","STP","Wealth quartiles","STPw42","Second 25%",48.4
+"Sao Tome & Principe","STP","Wealth quartiles","STPw43","Third 25%",62.1
+"Sao Tome & Principe","STP","Wealth quartiles","STPw44","Highest 25%",80.8
+"Sao Tome & Principe","STP","Subnat","STPr101","Regiao Centro",59.3
+"Sao Tome & Principe","STP","Subnat","STPr104","Regiao do Principe",57.4
+"Sao Tome & Principe","STP","Subnat","STPr103","Regiao Norte",50.2
+"Sao Tome & Principe","STP","Subnat","STPr102","Regiao Sul",48.3
+"Saudi Arabia","SAU","National","SAUt","Total",86.4
+"Saudi Arabia","SAU","Urb/rur","SAUtu","Urban",85.9
+"Saudi Arabia","SAU","Urb/rur","SAUtr","Rural",91.8
+"Saudi Arabia","SAU","Poverty","SAUp1","Poor",61.0
+"Saudi Arabia","SAU","Poverty","SAUp0","Nonpoor",88.2
+"Saudi Arabia","SAU","Wealth quartiles","SAUw41","Lowest 25%",58.1
+"Saudi Arabia","SAU","Wealth quartiles","SAUw42","Second 25%",89.1
+"Saudi Arabia","SAU","Wealth quartiles","SAUw43","Third 25%",100
+"Saudi Arabia","SAU","Wealth quartiles","SAUw44","Highest 25%",100
+"Saudi Arabia","SAU","Subnat","SAUr101","Center (Riadh, Qassim)",89.6
+"Saudi Arabia","SAU","Subnat","SAUr104","Eastern province",88.7
+"Saudi Arabia","SAU","Subnat","SAUr105","North (Northern Borders, Al Jawf, Hail)",95.2
+"Saudi Arabia","SAU","Subnat","SAUr103","South (Bahah, Jizan, Asir, Najran)",87.5
+"Saudi Arabia","SAU","Subnat","SAUr102","West (Makka, Madinah, Tabuk)",82.0
+"Senegal","SEN","National","SENt","Total",61.1
+"Senegal","SEN","Urb/rur","SENtu","Urban",74.3
+"Senegal","SEN","Urb/rur","SENtr","Rural",47.7
+"Senegal","SEN","Poverty","SENp1","Poor",32.6
+"Senegal","SEN","Poverty","SENp0","Nonpoor",75.8
+"Senegal","SEN","Wealth quartiles","SENw41","Lowest 25%",30.3
+"Senegal","SEN","Wealth quartiles","SENw42","Second 25%",55.7
+"Senegal","SEN","Wealth quartiles","SENw43","Third 25%",71.4
+"Senegal","SEN","Wealth quartiles","SENw44","Highest 25%",87.1
+"Senegal","SEN","Subnat","SENr101","Dakar",78.2
+"Senegal","SEN","Subnat","SENr103","Diourbel",56.1
+"Senegal","SEN","Subnat","SENr109","Fatick",50.9
+"Senegal","SEN","Subnat","SENr106","Kaolack",45.2
+"Senegal","SEN","Subnat","SENr110","Kolda",36.0
+"Senegal","SEN","Subnat","SENr108","Louga",55.5
+"Senegal","SEN","Subnat","SENr104","Saint Louis",45.2
+"Senegal","SEN","Subnat","SENr105","Tambacounda",36.5
+"Senegal","SEN","Subnat","SENr107","Thies",69.1
+"Senegal","SEN","Subnat","SENr102","Ziguinchor",51.0
+"Serbia","SRB","National","SRBt","Total",91.3
+"Serbia","SRB","Urb/rur","SRBtu","Urban",92.2
+"Serbia","SRB","Urb/rur","SRBtr","Rural",89.7
+"Serbia","SRB","Poverty","SRBp1","Poor",34.8
+"Serbia","SRB","Poverty","SRBp0","Nonpoor",91.5
+"Serbia","SRB","Wealth quartiles","SRBw41","Lowest 25%",84.2
+"Serbia","SRB","Wealth quartiles","SRBw42","Second 25%",92.1
+"Serbia","SRB","Wealth quartiles","SRBw43","Third 25%",93.7
+"Serbia","SRB","Wealth quartiles","SRBw44","Highest 25%",95.2
+"Serbia","SRB","Subnat","SRBr101","Belgrade",91.9
+"Serbia","SRB","Subnat","SRBr104","South and East Serbia",90.3
+"Serbia","SRB","Subnat","SRBr103","Sumadija and West Serbia",91.5
+"Serbia","SRB","Subnat","SRBr102","Vojvodina",91.2
+"Sierra Leone","SLE","National","SLEt","Total",32.5
+"Sierra Leone","SLE","Urb/rur","SLEtu","Urban",48.0
+"Sierra Leone","SLE","Urb/rur","SLEtr","Rural",20.6
+"Sierra Leone","SLE","Poverty","SLEp1","Poor",24.4
+"Sierra Leone","SLE","Poverty","SLEp0","Nonpoor",66.1
+"Sierra Leone","SLE","Wealth quartiles","SLEw41","Lowest 25%",11.8
+"Sierra Leone","SLE","Wealth quartiles","SLEw42","Second 25%",23.5
+"Sierra Leone","SLE","Wealth quartiles","SLEw43","Third 25%",34.8
+"Sierra Leone","SLE","Wealth quartiles","SLEw44","Highest 25%",60.1
+"Sierra Leone","SLE","Subnat","SLEr109","Bo",30.2
+"Sierra Leone","SLE","Subnat","SLEr101","Bombali",29.8
+"Sierra Leone","SLE","Subnat","SLEr110","Bonthe",23.6
+"Sierra Leone","SLE","Subnat","SLEr106","Kailahun",22.6
+"Sierra Leone","SLE","Subnat","SLEr102","Kambia",26.9
+"Sierra Leone","SLE","Subnat","SLEr107","Kenema",30.5
+"Sierra Leone","SLE","Subnat","SLEr103","Koinadugu",23.6
+"Sierra Leone","SLE","Subnat","SLEr108","Kono",25.7
+"Sierra Leone","SLE","Subnat","SLEr111","Moyamba",20.8
+"Sierra Leone","SLE","Subnat","SLEr104","Port Loko",27.8
+"Sierra Leone","SLE","Subnat","SLEr112","Pujehun",21.7
+"Sierra Leone","SLE","Subnat","SLEr105","Tonkolili",20.1
+"Sierra Leone","SLE","Subnat","SLEr113","Western Rural",42.0
+"Sierra Leone","SLE","Subnat","SLEr114","Western Urban",57.6
+"Somalia","SOM","National","SOMt","Total",35.5
+"Somalia","SOM","Urb/rur","SOMtu","Urban",47.9
+"Somalia","SOM","Urb/rur","SOMtr","Rural",20.6
+"Somalia","SOM","Poverty","SOMp1","Poor",24.1
+"Somalia","SOM","Poverty","SOMp0","Nonpoor",65.7
+"Somalia","SOM","Wealth quartiles","SOMw41","Lowest 25%",10.9
+"Somalia","SOM","Wealth quartiles","SOMw42","Second 25%",25.2
+"Somalia","SOM","Wealth quartiles","SOMw43","Third 25%",40.9
+"Somalia","SOM","Wealth quartiles","SOMw44","Highest 25%",65.1
+"Somalia","SOM","Subnat","SOMr102","Awdal",30.1
+"Somalia","SOM","Subnat","SOMr109","Bakool",
+"Somalia","SOM","Subnat","SOMr116","Banadir",
+"Somalia","SOM","Subnat","SOMr108","Bari",39.6
+"Somalia","SOM","Subnat","SOMr110","Bay",
+"Somalia","SOM","Subnat","SOMr117","Galguduud",
+"Somalia","SOM","Subnat","SOMr111","Gedo",
+"Somalia","SOM","Subnat","SOMr113","Hiran",
+"Somalia","SOM","Subnat","SOMr118","Lower Juba",
+"Somalia","SOM","Subnat","SOMr115","Lower Shabelle",
+"Somalia","SOM","Subnat","SOMr112","Middle Juba",
+"Somalia","SOM","Subnat","SOMr114","Middle Shabelle",
+"Somalia","SOM","Subnat","SOMr106","Mudug",37.5
+"Somalia","SOM","Subnat","SOMr107","Nugal",35.8
+"Somalia","SOM","Subnat","SOMr103","Sanaag",21.3
+"Somalia","SOM","Subnat","SOMr104","Sool",27.0
+"Somalia","SOM","Subnat","SOMr105","Togdhere",25.9
+"Somalia","SOM","Subnat","SOMr101","W Galbeed",41.5
+"South Africa","ZAF","National","ZAFt","Total",71.5
+"South Africa","ZAF","Urb/rur","ZAFtu","Urban",77.7
+"South Africa","ZAF","Urb/rur","ZAFtr","Rural",58.4
+"South Africa","ZAF","Poverty","ZAFp1","Poor",36.0
+"South Africa","ZAF","Poverty","ZAFp0","Nonpoor",79.4
+"South Africa","ZAF","Wealth quartiles","ZAFw41","Lowest 25%",43.6
+"South Africa","ZAF","Wealth quartiles","ZAFw42","Second 25%",65.6
+"South Africa","ZAF","Wealth quartiles","ZAFw43","Third 25%",82.3
+"South Africa","ZAF","Wealth quartiles","ZAFw44","Highest 25%",94.6
+"South Africa","ZAF","Subnat","ZAFr102","Eastern Cape",63.4
+"South Africa","ZAF","Subnat","ZAFr104","Free State",78.8
+"South Africa","ZAF","Subnat","ZAFr107","Gauteng",74.9
+"South Africa","ZAF","Subnat","ZAFr105","KwaZulu Natal",69.5
+"South Africa","ZAF","Subnat","ZAFr108","Mpumalanga",65.3
+"South Africa","ZAF","Subnat","ZAFr106","North West",65.8
+"South Africa","ZAF","Subnat","ZAFr103","Northern Cape",74.9
+"South Africa","ZAF","Subnat","ZAFr109","Northern Province",63.9
+"South Africa","ZAF","Subnat","ZAFr101","Western Cape",86.3
+"South Sudan","SSD","National","SSDt","Total",
+"South Sudan","SSD","Urb/rur","SSDtu","Urban",
+"South Sudan","SSD","Urb/rur","SSDtr","Rural",
+"South Sudan","SSD","Poverty","SSDp1","Poor",
+"South Sudan","SSD","Poverty","SSDp0","Nonpoor",
+"South Sudan","SSD","Wealth quartiles","SSDw41","Lowest 25%",
+"South Sudan","SSD","Wealth quartiles","SSDw42","Second 25%",
+"South Sudan","SSD","Wealth quartiles","SSDw43","Third 25%",
+"South Sudan","SSD","Wealth quartiles","SSDw44","Highest 25%",
+"South Sudan","SSD","Subnat","SSDr109","Central Equatoria",
+"South Sudan","SSD","Subnat","SSDr110","Eastern Equatoria",
+"South Sudan","SSD","Subnat","SSDr102","Jonglei",
+"South Sudan","SSD","Subnat","SSDr107","Lakes",
+"South Sudan","SSD","Subnat","SSDr105","Northern Bahr El Ghazal",
+"South Sudan","SSD","Subnat","SSDr103","Unity",
+"South Sudan","SSD","Subnat","SSDr101","Upper Nile",
+"South Sudan","SSD","Subnat","SSDr104","Warrap",
+"South Sudan","SSD","Subnat","SSDr106","Western Bahr El Ghazal",
+"South Sudan","SSD","Subnat","SSDr108","Western Equatoria",
+"Sudan","SDN","National","SDNt","Total",35.9
+"Sudan","SDN","Urb/rur","SDNtu","Urban",54.1
+"Sudan","SDN","Urb/rur","SDNtr","Rural",28.1
+"Sudan","SDN","Poverty","SDNp1","Poor",21.4
+"Sudan","SDN","Poverty","SDNp0","Nonpoor",69.9
+"Sudan","SDN","Wealth quartiles","SDNw41","Lowest 25%",12.3
+"Sudan","SDN","Wealth quartiles","SDNw42","Second 25%",18.8
+"Sudan","SDN","Wealth quartiles","SDNw43","Third 25%",40.2
+"Sudan","SDN","Wealth quartiles","SDNw44","Highest 25%",72.2
+"Sudan","SDN","Subnat","SDNr105","Al Gedarif",25.3
+"Sudan","SDN","Subnat","SDNr107","Al Gezira",49.7
+"Sudan","SDN","Subnat","SDNr110","Blue Nile",34.1
+"Sudan","SDN","Subnat","SDNr104","Kassala",30.1
+"Sudan","SDN","Subnat","SDNr106","Khartoum",61.5
+"Sudan","SDN","Subnat","SDNr102","Nahr El Nil",53.2
+"Sudan","SDN","Subnat","SDNr113","North Darfur",17.7
+"Sudan","SDN","Subnat","SDNr111","North Kordofan",23.5
+"Sudan","SDN","Subnat","SDNr101","Northern",63.8
+"Sudan","SDN","Subnat","SDNr103","Red Sea",32.4
+"Sudan","SDN","Subnat","SDNr109","Sinnar",35.8
+"Sudan","SDN","Subnat","SDNr115","South Darfur",19.9
+"Sudan","SDN","Subnat","SDNr112","South Kordofan",21.1
+"Sudan","SDN","Subnat","SDNr114","West Darfur",19.2
+"Sudan","SDN","Subnat","SDNr108","White Nile",33.5
+"Suriname","SUR","National","SURt","Total",84.3
+"Suriname","SUR","Urb/rur","SURtu","Urban",88.2
+"Suriname","SUR","Urb/rur","SURtr","Rural",72.8
+"Suriname","SUR","Poverty","SURp1","Poor",38.1
+"Suriname","SUR","Poverty","SURp0","Nonpoor",86.7
+"Suriname","SUR","Wealth quartiles","SURw41","Lowest 25%",65.2
+"Suriname","SUR","Wealth quartiles","SURw42","Second 25%",86.4
+"Suriname","SUR","Wealth quartiles","SURw43","Third 25%",91.2
+"Suriname","SUR","Wealth quartiles","SURw44","Highest 25%",94.4
+"Suriname","SUR","Subnat","SURr105","Brokopondo and Sipaliwini",55.4
+"Suriname","SUR","Subnat","SURr104","Commewijne and Marowijne",80.2
+"Suriname","SUR","Subnat","SURr103","Nickerie, Coronie and Saramacca",86.3
+"Suriname","SUR","Subnat","SURr101","Paramaribo",88.9
+"Suriname","SUR","Subnat","SURr102","Wanica and Para",86.5
+"Syria","SYR","National","SYRt","Total",
+"Syria","SYR","Urb/rur","SYRtu","Urban",
+"Syria","SYR","Urb/rur","SYRtr","Rural",
+"Syria","SYR","Poverty","SYRp1","Poor",
+"Syria","SYR","Poverty","SYRp0","Nonpoor",
+"Syria","SYR","Wealth quartiles","SYRw41","Lowest 25%",
+"Syria","SYR","Wealth quartiles","SYRw42","Second 25%",
+"Syria","SYR","Wealth quartiles","SYRw43","Third 25%",
+"Syria","SYR","Wealth quartiles","SYRw44","Highest 25%",
+"Syria","SYR","Subnat","SYRr111","Al Hasaka",
+"Syria","SYR","Subnat","SYRr106","Al Latakia",
+"Syria","SYR","Subnat","SYRr114","Al Qunitara - Quneitra",
+"Syria","SYR","Subnat","SYRr109","Al Raka-Raqqa",
+"Syria","SYR","Subnat","SYRr112","Al Swida - Sweida",
+"Syria","SYR","Subnat","SYRr101","Damascus",
+"Syria","SYR","Subnat","SYRr113","Daraa",
+"Syria","SYR","Subnat","SYRr110","Der El Zour - Deir Ezzor",
+"Syria","SYR","Subnat","SYRr107","Edlab Idleb",
+"Syria","SYR","Subnat","SYRr108","Halab - Aleppo",
+"Syria","SYR","Subnat","SYRr104","Hamaa",
+"Syria","SYR","Subnat","SYRr103","Homs",
+"Syria","SYR","Subnat","SYRr102","Rural Damascus",
+"Syria","SYR","Subnat","SYRr105","Tartous",
+"Tajikistan","TJK","National","TJKt","Total",71.5
+"Tajikistan","TJK","Urb/rur","TJKtu","Urban",82.9
+"Tajikistan","TJK","Urb/rur","TJKtr","Rural",66.5
+"Tajikistan","TJK","Poverty","TJKp1","Poor",43.1
+"Tajikistan","TJK","Poverty","TJKp0","Nonpoor",74.3
+"Tajikistan","TJK","Wealth quartiles","TJKw41","Lowest 25%",56.4
+"Tajikistan","TJK","Wealth quartiles","TJKw42","Second 25%",68.9
+"Tajikistan","TJK","Wealth quartiles","TJKw43","Third 25%",75.9
+"Tajikistan","TJK","Wealth quartiles","TJKw44","Highest 25%",84.9
+"Tajikistan","TJK","Subnat","TJKr104","DRS",71.8
+"Tajikistan","TJK","Subnat","TJKr101","Duchanbe",86.3
+"Tajikistan","TJK","Subnat","TJKr105","GBAO",68.8
+"Tajikistan","TJK","Subnat","TJKr102","Khatlon",67.7
+"Tajikistan","TJK","Subnat","TJKr103","Sughd (formerly Leninabad)",70.2
+"Tanzania","TZA","National","TZAt","Total",30.1
+"Tanzania","TZA","Urb/rur","TZAtu","Urban",48.7
+"Tanzania","TZA","Urb/rur","TZAtr","Rural",21.0
+"Tanzania","TZA","Poverty","TZAp1","Poor",21.5
+"Tanzania","TZA","Poverty","TZAp0","Nonpoor",68.8
+"Tanzania","TZA","Wealth quartiles","TZAw41","Lowest 25%",12.5
+"Tanzania","TZA","Wealth quartiles","TZAw42","Second 25%",16.6
+"Tanzania","TZA","Wealth quartiles","TZAw43","Third 25%",30.5
+"Tanzania","TZA","Wealth quartiles","TZAw44","Highest 25%",61.0
+"Tanzania","TZA","Subnat","TZAr202"," Arusha, Manyara",29.3
+"Tanzania","TZA","Subnat","TZAr207"," Dar Es Salam",56.2
+"Tanzania","TZA","Subnat","TZAr201"," Dodoma",19.1
+"Tanzania","TZA","Subnat","TZAr211"," Iringa, Njombe",30.8
+"Tanzania","TZA","Subnat","TZAr218"," Kagera",22.4
+"Tanzania","TZA","Subnat","TZAr216"," Kigoma",22.5
+"Tanzania","TZA","Subnat","TZAr203"," Kilimanjaro",42.7
+"Tanzania","TZA","Subnat","TZAr208"," Lindi",22.8
+"Tanzania","TZA","Subnat","TZAr220"," Mara",26.5
+"Tanzania","TZA","Subnat","TZAr212"," Mbeya",26.9
+"Tanzania","TZA","Subnat","TZAr205"," Morogoro",26.9
+"Tanzania","TZA","Subnat","TZAr209"," Mtwara",23.3
+"Tanzania","TZA","Subnat","TZAr219"," Mwanza, Geita",26.2
+"Tanzania","TZA","Subnat","TZAr224"," Pemba North",38.3
+"Tanzania","TZA","Subnat","TZAr225"," Pemba South",41.4
+"Tanzania","TZA","Subnat","TZAr206"," Pwani",27.8
+"Tanzania","TZA","Subnat","TZAr215"," Rukwa, Katavi",20.0
+"Tanzania","TZA","Subnat","TZAr210"," Ruvuma",27.3
+"Tanzania","TZA","Subnat","TZAr217"," Shinyanga, Simiyu",26.1
+"Tanzania","TZA","Subnat","TZAr213"," Singida",23.4
+"Tanzania","TZA","Subnat","TZAr214"," Tabora",24.6
+"Tanzania","TZA","Subnat","TZAr204"," Tanga",35.0
+"Tanzania","TZA","Subnat","TZAr221"," Zanzibar North",36.6
+"Tanzania","TZA","Subnat","TZAr222"," Zanzibar South",43.3
+"Tanzania","TZA","Subnat","TZAr223"," Zanzibar West",67.9
+"Thailand","THA","National","THAt","Total",86.5
+"Thailand","THA","Urb/rur","THAtu","Urban",87.6
+"Thailand","THA","Urb/rur","THAtr","Rural",85.6
+"Thailand","THA","Poverty","THAp1","Poor",43.3
+"Thailand","THA","Poverty","THAp0","Nonpoor",86.9
+"Thailand","THA","Wealth quartiles","THAw41","Lowest 25%",76.4
+"Thailand","THA","Wealth quartiles","THAw42","Second 25%",85.1
+"Thailand","THA","Wealth quartiles","THAw43","Third 25%",90.1
+"Thailand","THA","Wealth quartiles","THAw44","Highest 25%",94.7
+"Thailand","THA","Subnat","THAr101","Bangkok",87.2
+"Thailand","THA","Subnat","THAr102","Central",86.8
+"Thailand","THA","Subnat","THAr103","North",86.6
+"Thailand","THA","Subnat","THAr104","Northeast",86.2
+"Thailand","THA","Subnat","THAr105","South",86.0
+"Timor Leste","TLS","National","TLSt","Total",48.7
+"Timor Leste","TLS","Urb/rur","TLStu","Urban",73.0
+"Timor Leste","TLS","Urb/rur","TLStr","Rural",41.1
+"Timor Leste","TLS","Poverty","TLSp1","Poor",29.7
+"Timor Leste","TLS","Poverty","TLSp0","Nonpoor",71.7
+"Timor Leste","TLS","Wealth quartiles","TLSw41","Lowest 25%",21.2
+"Timor Leste","TLS","Wealth quartiles","TLSw42","Second 25%",37.2
+"Timor Leste","TLS","Wealth quartiles","TLSw43","Third 25%",56.6
+"Timor Leste","TLS","Wealth quartiles","TLSw44","Highest 25%",79.9
+"Timor Leste","TLS","Subnat","TLSr101","Aileu",45.3
+"Timor Leste","TLS","Subnat","TLSr102","Ainaro",35.5
+"Timor Leste","TLS","Subnat","TLSr103","Baucau",46.8
+"Timor Leste","TLS","Subnat","TLSr104","Bobonaro",49.9
+"Timor Leste","TLS","Subnat","TLSr105","Cova Lima",44.2
+"Timor Leste","TLS","Subnat","TLSr106","Dili",73.6
+"Timor Leste","TLS","Subnat","TLSr107","Ermera",37.0
+"Timor Leste","TLS","Subnat","TLSr109","Lautem",50.3
+"Timor Leste","TLS","Subnat","TLSr108","Liquica",46.0
+"Timor Leste","TLS","Subnat","TLSr111","Manatuto",44.9
+"Timor Leste","TLS","Subnat","TLSr110","Manufahi",49.1
+"Timor Leste","TLS","Subnat","TLSr112","Oecussi",33.0
+"Timor Leste","TLS","Subnat","TLSr113","Viqueque",42.3
+"Togo","TGO","National","TGOt","Total",43.0
+"Togo","TGO","Urb/rur","TGOtu","Urban",54.1
+"Togo","TGO","Urb/rur","TGOtr","Rural",34.3
+"Togo","TGO","Poverty","TGOp1","Poor",33.6
+"Togo","TGO","Poverty","TGOp0","Nonpoor",63.9
+"Togo","TGO","Wealth quartiles","TGOw41","Lowest 25%",26.0
+"Togo","TGO","Wealth quartiles","TGOw42","Second 25%",35.1
+"Togo","TGO","Wealth quartiles","TGOw43","Third 25%",46.3
+"Togo","TGO","Wealth quartiles","TGOw44","Highest 25%",64.7
+"Togo","TGO","Subnat","TGOr104","Centrale",40.2
+"Togo","TGO","Subnat","TGOr105","Kara",39.4
+"Togo","TGO","Subnat","TGOr101","Lome",56.4
+"Togo","TGO","Subnat","TGOr102","Maritime",38.6
+"Togo","TGO","Subnat","TGOr103","Plateaux",36.3
+"Togo","TGO","Subnat","TGOr106","Savanes",36.0
+"Tonga","TON","National","TONt","Total",79.8
+"Tonga","TON","Urb/rur","TONtu","Urban",85.2
+"Tonga","TON","Urb/rur","TONtr","Rural",78.2
+"Tonga","TON","Poverty","TONp1","Poor",44.7
+"Tonga","TON","Poverty","TONp0","Nonpoor",81.2
+"Tonga","TON","Wealth quartiles","TONw41","Lowest 25%",65.0
+"Tonga","TON","Wealth quartiles","TONw42","Second 25%",78.2
+"Tonga","TON","Wealth quartiles","TONw43","Third 25%",84.9
+"Tonga","TON","Wealth quartiles","TONw44","Highest 25%",91.1
+"Tonga","TON","Subnat","TONr104","Eua",76.4
+"Tonga","TON","Subnat","TONr103","Ha-apai",65.1
+"Tonga","TON","Subnat","TONr105","Ongo Niua",64.4
+"Tonga","TON","Subnat","TONr101","Tongatapu",82.9
+"Tonga","TON","Subnat","TONr102","Vava-u",76.0
+"Trinidad & Tobago","TTO","National","TTOt","Total",86.9
+"Trinidad & Tobago","TTO","Urb/rur","TTOu","Urban",88.2
+"Trinidad & Tobago","TTO","Urb/rur","TTOr","Rural",85.1
+"Trinidad & Tobago","TTO","Poverty","TTOp1","Poor",35.7
+"Trinidad & Tobago","TTO","Poverty","TTOp0","Nonpoor",88.2
+"Trinidad & Tobago","TTO","Wealth quartiles","TTOw41","Lowest 25%",73.8
+"Trinidad & Tobago","TTO","Wealth quartiles","TTOw42","Second 25%",87.3
+"Trinidad & Tobago","TTO","Wealth quartiles","TTOw43","Third 25%",91.6
+"Trinidad & Tobago","TTO","Wealth quartiles","TTOw44","Highest 25%",95.0
+"Trinidad & Tobago","TTO","Subnat","TTOr103","Central",88.9
+"Trinidad & Tobago","TTO","Subnat","TTOr102","East",81.1
+"Trinidad & Tobago","TTO","Subnat","TTOr101","North West",86.5
+"Trinidad & Tobago","TTO","Subnat","TTOr104","South West",85.9
+"Trinidad & Tobago","TTO","Subnat","TTOr105","Tobago",87.9
+"Tunisia","TUN","National","TUNt","Total",84.7
+"Tunisia","TUN","Urb/rur","TUNtu","Urban",87.5
+"Tunisia","TUN","Urb/rur","TUNtr","Rural",78.1
+"Tunisia","TUN","Poverty","TUNp1","Poor",39.9
+"Tunisia","TUN","Poverty","TUNp0","Nonpoor",85.2
+"Tunisia","TUN","Wealth quartiles","TUNw41","Lowest 25%",92.8
+"Tunisia","TUN","Wealth quartiles","TUNw42","Second 25%",88.0
+"Tunisia","TUN","Wealth quartiles","TUNw43","Third 25%",83.0
+"Tunisia","TUN","Wealth quartiles","TUNw44","Highest 25%",75.0
+"Tunisia","TUN","Subnat","TUNr105","Centre Est (Sousse, Monastir, Mahdia, Sfax)",85.4
+"Tunisia","TUN","Subnat","TUNr104","Centre Ouest (Kairouan, Kasserine, Sidi Bouzid)",79.2
+"Tunisia","TUN","Subnat","TUNr101","Grand Tunis (Tunis, Ariana, Ben Arous, Manouba)",88.8
+"Tunisia","TUN","Subnat","TUNr102","Nord Est (Nabeul, Zaghouan, Bizerte)",83.6
+"Tunisia","TUN","Subnat","TUNr103","Nord Ouest (Beja, Jendouba, Kef, Siliana)",82.7
+"Tunisia","TUN","Subnat","TUNr107","Sud Est (Gabes, Medinine, Tataouine)",83.8
+"Tunisia","TUN","Subnat","TUNr106","Sud Ouest (Gafsa, Tozeur, Kebili)",82.6
+"Turkey","TUR","National","TURt","Total",87.7
+"Turkey","TUR","Urb/rur","TURtu","Urban",90.7
+"Turkey","TUR","Urb/rur","TURtr","Rural",76.2
+"Turkey","TUR","Poverty","TURp1","Poor",40.5
+"Turkey","TUR","Poverty","TURp0","Nonpoor",88.0
+"Turkey","TUR","Wealth quartiles","TURw41","Lowest 25%",75.7
+"Turkey","TUR","Wealth quartiles","TURw42","Second 25%",88.8
+"Turkey","TUR","Wealth quartiles","TURw43","Third 25%",91.8
+"Turkey","TUR","Wealth quartiles","TURw44","Highest 25%",94.5
+"Turkey","TUR","Subnat","TURr103","Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Manisa, Mugla, Usak)",86.9
+"Turkey","TUR","Subnat","TURr107","Central Anatolia (Kayseri, Kirsehir, Nevsehir, Nigde, Sivas, Yozgat, Aksaray, Kirikkale)",86.7
+"Turkey","TUR","Subnat","TURr111","Central East Anatolia (Bingol, Bitlis, Elazig, Hakkari, Malatya, Mus, Tunceli, Van)",85.1
+"Turkey","TUR","Subnat","TURr109","East Black Sea (Artvin, Giresun, Gumushane, Ordu, Rize, Trabzon)",82.6
+"Turkey","TUR","Subnat","TURr104","East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskisehir, Kocaeli, Sakarya, Yalova)",88.5
+"Turkey","TUR","Subnat","TURr101","Istanbul",91.9
+"Turkey","TUR","Subnat","TURr106","Mediterranean (Adana, Antalya, Burdur, Hatay, Isparta, Icel, K Maras, Osmaniye)",86.6
+"Turkey","TUR","Subnat","TURr110","North East Anatolia (Agri, Erzincan, Erzurum, Kars, Bayburt, Ardahan, Igdir)",79.9
+"Turkey","TUR","Subnat","TURr112","South East Anatolia (Adiyaman, Diyarbakir, Gaziantep, Mardin, Siirt, Sanliurfa, Batman, Sirnak, Kili",83.9
+"Turkey","TUR","Subnat","TURr105","West Anatolia (Ankara, Konya, Karaman)",90.2
+"Turkey","TUR","Subnat","TURr108","West Black Sea (Amasya, Cankiri, Corum, Kastamonu, Samsun, Sinop, Tokat, Zonguldak, Bartin, Karabuk)",86.8
+"Turkey","TUR","Subnat","TURr102","West Marmara (Balikesir, Canakkale, Edirne, Kirklareli, Tekirdag)",86.1
+"Turkmenistan","TKM","National","TKMt","Total",83.7
+"Turkmenistan","TKM","Urb/rur","TKMtu","Urban",89.4
+"Turkmenistan","TKM","Urb/rur","TKMtr","Rural",78.4
+"Turkmenistan","TKM","Poverty","TKMp1","Poor",
+"Turkmenistan","TKM","Poverty","TKMp0","Nonpoor",
+"Turkmenistan","TKM","Wealth quartiles","TKMw41","Lowest 25%",76.4
+"Turkmenistan","TKM","Wealth quartiles","TKMw42","Second 25%",79.2
+"Turkmenistan","TKM","Wealth quartiles","TKMw43","Third 25%",85.3
+"Turkmenistan","TKM","Wealth quartiles","TKMw44","Highest 25%",93.8
+"Turkmenistan","TKM","Subnat","TKMr102","Akhal",82.4
+"Turkmenistan","TKM","Subnat","TKMr101","Ashgabat City",93.8
+"Turkmenistan","TKM","Subnat","TKMr103","Balkan",87.1
+"Turkmenistan","TKM","Subnat","TKMr104","Dashoguz",79.4
+"Turkmenistan","TKM","Subnat","TKMr105","Lebap",83.3
+"Turkmenistan","TKM","Subnat","TKMr106","Mary",80.2
+"Uganda","UGA","National","UGAt","Total",28.8
+"Uganda","UGA","Urb/rur","UGAtu","Urban",44.2
+"Uganda","UGA","Urb/rur","UGAtr","Rural",23.5
+"Uganda","UGA","Poverty","UGAp1","Poor",22.9
+"Uganda","UGA","Poverty","UGAp0","Nonpoor",65.6
+"Uganda","UGA","Wealth quartiles","UGAw41","Lowest 25%",12.6
+"Uganda","UGA","Wealth quartiles","UGAw42","Second 25%",19.0
+"Uganda","UGA","Wealth quartiles","UGAw43","Third 25%",29.3
+"Uganda","UGA","Wealth quartiles","UGAw44","Highest 25%",54.4
+"Uganda","UGA","Subnat","UGAr201"," Central (Central 1, Central 2, Kampala)",
+"Uganda","UGA","Subnat","UGAr202"," Eastern (Eastern, East Central)",
+"Uganda","UGA","Subnat","UGAr203"," Northern (North, Karamoja, West Nile)",
+"Uganda","UGA","Subnat","UGAr204"," Western (Western, Southwest)",
+"Uganda","UGA","Subnat","UGAr101","Central 1 (Central South)",41.7
+"Uganda","UGA","Subnat","UGAr102","Central 2 (Central North)",32.5
+"Uganda","UGA","Subnat","UGAr104","East Central (Busoga)",28.2
+"Uganda","UGA","Subnat","UGAr105","Eastern (Bukedi, Bugishu, Teso)",23.5
+"Uganda","UGA","Subnat","UGAr103","Kampala",55.9
+"Uganda","UGA","Subnat","UGAr106","North (Karamoja, Lango, Acholi)",19.0
+"Uganda","UGA","Subnat","UGAr109","Southwest (Ankole, Kigezi)",26.0
+"Uganda","UGA","Subnat","UGAr107","West Nile",19.4
+"Uganda","UGA","Subnat","UGAr108","Western (Bunyoro, Tooro)",25.6
+"Ukraine","UKR","National","UKRt","Total",81.2
+"Ukraine","UKR","Urb/rur","UKRtu","Urban",84.8
+"Ukraine","UKR","Urb/rur","UKRtr","Rural",71.1
+"Ukraine","UKR","Poverty","UKRp1","Poor",41.9
+"Ukraine","UKR","Poverty","UKRp0","Nonpoor",81.9
+"Ukraine","UKR","Wealth quartiles","UKRw41","Lowest 25%",67.0
+"Ukraine","UKR","Wealth quartiles","UKRw42","Second 25%",82.1
+"Ukraine","UKR","Wealth quartiles","UKRw43","Third 25%",87.6
+"Ukraine","UKR","Wealth quartiles","UKRw44","Highest 25%",88.0
+"Ukraine","UKR","Subnat","UKRr102","Central",77.3
+"Ukraine","UKR","Subnat","UKRr103","East",83.9
+"Ukraine","UKR","Subnat","UKRr101","North",80.2
+"Ukraine","UKR","Subnat","UKRr104","South",83.8
+"Ukraine","UKR","Subnat","UKRr105","West",77.9
+"Uruguay","URY","National","URYt","Total",89.8
+"Uruguay","URY","Urb/rur","URYtu","Urban",90.1
+"Uruguay","URY","Urb/rur","URYtr","Rural",86.7
+"Uruguay","URY","Poverty","URYp1","Poor",37.3
+"Uruguay","URY","Poverty","URYp0","Nonpoor",91.2
+"Uruguay","URY","Wealth quartiles","URYw41","Lowest 25%",82.9
+"Uruguay","URY","Wealth quartiles","URYw42","Second 25%",90.3
+"Uruguay","URY","Wealth quartiles","URYw43","Third 25%",91.3
+"Uruguay","URY","Wealth quartiles","URYw44","Highest 25%",94.5
+"Uruguay","URY","Subnat","URYr105","Centro (Durazno and Tacuarembo)",89.7
+"Uruguay","URY","Subnat","URYr106","Centro Sur (Flores, Florida and Lavalleja)",89.1
+"Uruguay","URY","Subnat","URYr103","Costa Este (Canelones, Maldonado and Rocha)",90.7
+"Uruguay","URY","Subnat","URYr107","Litoral Norte (Paysandu, Salto and Rio Negro)",89.1
+"Uruguay","URY","Subnat","URYr104","Litoral Sur (Soriano, Colonia and San Jose)",88.9
+"Uruguay","URY","Subnat","URYr101","Montevideo and Metropolitan area",90.1
+"Uruguay","URY","Subnat","URYr102","Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)",88.5
+"Uzbekistan","UZB","National","UZBt","Total",
+"Uzbekistan","UZB","Urb/rur","UZBtu","Urban",
+"Uzbekistan","UZB","Urb/rur","UZBtr","Rural",
+"Uzbekistan","UZB","Poverty","UZBp1","Poor",
+"Uzbekistan","UZB","Poverty","UZBp0","Nonpoor",
+"Uzbekistan","UZB","Wealth quartiles","UZBw41","Lowest 25%",
+"Uzbekistan","UZB","Wealth quartiles","UZBw42","Second 25%",
+"Uzbekistan","UZB","Wealth quartiles","UZBw43","Third 25%",
+"Uzbekistan","UZB","Wealth quartiles","UZBw44","Highest 25%",
+"Uzbekistan","UZB","Subnat","UZBr102","Central (Navoi, Bukhara, Samarkand)",
+"Uzbekistan","UZB","Subnat","UZBr104","Central-East (Dzhizak, Syrdarya)",
+"Uzbekistan","UZB","Subnat","UZBr105","East (Namangan, Fergana, Andizhan)",
+"Uzbekistan","UZB","Subnat","UZBr103","South (Kashkadarya, Surkhandarya)",
+"Uzbekistan","UZB","Subnat","UZBr106","Tashkent",
+"Uzbekistan","UZB","Subnat","UZBr101","West (Karakalpakstan, Khorezm)",
+"Vanuatu","VUT","National","VUTt","Total",
+"Vanuatu","VUT","Urb/rur","VUTtu","Urban",
+"Vanuatu","VUT","Urb/rur","VUTtr","Rural",
+"Vanuatu","VUT","Poverty","VUTp1","Poor",
+"Vanuatu","VUT","Poverty","VUTp0","Nonpoor",
+"Vanuatu","VUT","Wealth quartiles","VUTw41","Lowest 25%",
+"Vanuatu","VUT","Wealth quartiles","VUTw42","Second 25%",
+"Vanuatu","VUT","Wealth quartiles","VUTw43","Third 25%",
+"Vanuatu","VUT","Wealth quartiles","VUTw44","Highest 25%",
+"Vanuatu","VUT","Subnat","VUTr108","Luganville",
+"Vanuatu","VUT","Subnat","VUTr103","Malampa",
+"Vanuatu","VUT","Subnat","VUTr104","Penama",
+"Vanuatu","VUT","Subnat","VUTr107","Port Vila",
+"Vanuatu","VUT","Subnat","VUTr105","Sanma",
+"Vanuatu","VUT","Subnat","VUTr102","Shefa",
+"Vanuatu","VUT","Subnat","VUTr101","Tafea",
+"Vanuatu","VUT","Subnat","VUTr106","Torba",
+"Venezuela","VEN","National","VENt","Total",90.0
+"Venezuela","VEN","Urb/rur","VENtu","Urban",90.2
+"Venezuela","VEN","Urb/rur","VENtr","Rural",87.6
+"Venezuela","VEN","Poverty","VENp1","Poor",39.6
+"Venezuela","VEN","Poverty","VENp0","Nonpoor",90.5
+"Venezuela","VEN","Wealth quartiles","VENw41","Lowest 25%",
+"Venezuela","VEN","Wealth quartiles","VENw42","Second 25%",
+"Venezuela","VEN","Wealth quartiles","VENw43","Third 25%",
+"Venezuela","VEN","Wealth quartiles","VENw44","Highest 25%",
+"Venezuela","VEN","Subnat","VENr201"," Region Capital",91.1
+"Venezuela","VEN","Subnat","VENr206"," Region Central",91.2
+"Venezuela","VEN","Subnat","VENr203"," Region Centro-Occidental",86.9
+"Venezuela","VEN","Subnat","VENr207"," Region Guayana",86.2
+"Venezuela","VEN","Subnat","VENr208"," Region Los Andes",91.3
+"Venezuela","VEN","Subnat","VENr205"," Region Los Llanos",90.0
+"Venezuela","VEN","Subnat","VENr204"," Region Oriental",90.1
+"Venezuela","VEN","Subnat","VENr202"," Region Zuliana",89.9
+"Venezuela","VEN","Subnat","VENr110","Amacuros Delta Federal Territory",
+"Venezuela","VEN","Subnat","VENr102","Amazonas Federal Territory",
+"Venezuela","VEN","Subnat","VENr103","Anzoategui",
+"Venezuela","VEN","Subnat","VENr104","Apure",
+"Venezuela","VEN","Subnat","VENr105","Aragua",
+"Venezuela","VEN","Subnat","VENr106","Barinas",
+"Venezuela","VEN","Subnat","VENr107","Bolivar",
+"Venezuela","VEN","Subnat","VENr108","Carabobo",
+"Venezuela","VEN","Subnat","VENr109","Cojedes",
+"Venezuela","VEN","Subnat","VENr111","Falcon",
+"Venezuela","VEN","Subnat","VENr101","Federal District",
+"Venezuela","VEN","Subnat","VENr112","Guarico",
+"Venezuela","VEN","Subnat","VENr113","Lara",
+"Venezuela","VEN","Subnat","VENr114","Merida",
+"Venezuela","VEN","Subnat","VENr115","Miranda",
+"Venezuela","VEN","Subnat","VENr116","Monagas",
+"Venezuela","VEN","Subnat","VENr117","Nueva Esparta",
+"Venezuela","VEN","Subnat","VENr118","Portuguesa",
+"Venezuela","VEN","Subnat","VENr119","Sucre",
+"Venezuela","VEN","Subnat","VENr120","Tachira",
+"Venezuela","VEN","Subnat","VENr121","Trujillo",
+"Venezuela","VEN","Subnat","VENr124","Vargas",
+"Venezuela","VEN","Subnat","VENr122","Yaracuy",
+"Venezuela","VEN","Subnat","VENr123","Zulia",
+"Vietnam","VNM","National","VNMt","Total",73.9
+"Vietnam","VNM","Urb/rur","VNMtu","Urban",84.8
+"Vietnam","VNM","Urb/rur","VNMtr","Rural",68.9
+"Vietnam","VNM","Poverty","VNMp1","Poor",39.3
+"Vietnam","VNM","Poverty","VNMp0","Nonpoor",78.4
+"Vietnam","VNM","Wealth quartiles","VNMw41","Lowest 25%",50.7
+"Vietnam","VNM","Wealth quartiles","VNMw42","Second 25%",70.8
+"Vietnam","VNM","Wealth quartiles","VNMw43","Third 25%",83.1
+"Vietnam","VNM","Wealth quartiles","VNMw44","Highest 25%",90.8
+"Vietnam","VNM","Subnat","VNMr104","Central Highlands",68.1
+"Vietnam","VNM","Subnat","VNMr106","Mekong River Delta",68.9
+"Vietnam","VNM","Subnat","VNMr103","North Central Coast and South Central Coast",71.5
+"Vietnam","VNM","Subnat","VNMr102","North East, North West",66.4
+"Vietnam","VNM","Subnat","VNMr101","Red River Delta",79.4
+"Vietnam","VNM","Subnat","VNMr105","South East",82.6
+"Yemen","YEM","National","YEMt","Total",56.4
+"Yemen","YEM","Urb/rur","YEMtu","Urban",81.5
+"Yemen","YEM","Urb/rur","YEMtr","Rural",45.0
+"Yemen","YEM","Poverty","YEMp1","Poor",26.9
+"Yemen","YEM","Poverty","YEMp0","Nonpoor",75.8
+"Yemen","YEM","Wealth quartiles","YEMw41","Lowest 25%",20.7
+"Yemen","YEM","Wealth quartiles","YEMw42","Second 25%",47.8
+"Yemen","YEM","Wealth quartiles","YEMw43","Third 25%",69.7
+"Yemen","YEM","Wealth quartiles","YEMw44","Highest 25%",87.4
+"Yemen","YEM","Subnat","YEMr102","Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",67.1
+"Yemen","YEM","Subnat","YEMr104","Beida (Al Bayda), Dhamar, Raimah",48.1
+"Yemen","YEM","Subnat","YEMr107","Hajja, Sada, Amran (Omran)",41.2
+"Yemen","YEM","Subnat","YEMr108","Hodeida (Al Hudaydah), Mahweit (Al Mahwit)",45.1
+"Yemen","YEM","Subnat","YEMr101","Ibb",57.0
+"Yemen","YEM","Subnat","YEMr106","Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",72.3
+"Yemen","YEM","Subnat","YEMr103","Sana a (capital; Al Amana), Sana a (governorate)",75.5
+"Yemen","YEM","Subnat","YEMr105","Taiz",54.0
+"Zambia","ZMB","National","ZMBt","Total",36.2
+"Zambia","ZMB","Urb/rur","ZMBtu","Urban",54.7
+"Zambia","ZMB","Urb/rur","ZMBtr","Rural",22.6
+"Zambia","ZMB","Poverty","ZMBp1","Poor",22.5
+"Zambia","ZMB","Poverty","ZMBp0","Nonpoor",70.7
+"Zambia","ZMB","Wealth quartiles","ZMBw41","Lowest 25%",11.7
+"Zambia","ZMB","Wealth quartiles","ZMBw42","Second 25%",21.8
+"Zambia","ZMB","Wealth quartiles","ZMBw43","Third 25%",39.2
+"Zambia","ZMB","Wealth quartiles","ZMBw44","Highest 25%",72.2
+"Zambia","ZMB","Subnat","ZMBr101","Central",33.0
+"Zambia","ZMB","Subnat","ZMBr102","Copperbelt",52.2
+"Zambia","ZMB","Subnat","ZMBr103","Eastern",27.1
+"Zambia","ZMB","Subnat","ZMBr104","Luapula",24.5
+"Zambia","ZMB","Subnat","ZMBr105","Lusaka",56.5
+"Zambia","ZMB","Subnat","ZMBr107","North-Western",29.7
+"Zambia","ZMB","Subnat","ZMBr106","Northern",23.6
+"Zambia","ZMB","Subnat","ZMBr108","Southern",33.1
+"Zambia","ZMB","Subnat","ZMBr109","Western",18.4
+"Zimbabwe","ZWE","National","ZWEt","Total",45.8
+"Zimbabwe","ZWE","Urb/rur","ZWEtu","Urban",66.4
+"Zimbabwe","ZWE","Urb/rur","ZWEtr","Rural",35.2
+"Zimbabwe","ZWE","Poverty","ZWEp1","Poor",31.9
+"Zimbabwe","ZWE","Poverty","ZWEp0","Nonpoor",69.8
+"Zimbabwe","ZWE","Wealth quartiles","ZWEw41","Lowest 25%",21.8
+"Zimbabwe","ZWE","Wealth quartiles","ZWEw42","Second 25%",36.6
+"Zimbabwe","ZWE","Wealth quartiles","ZWEw43","Third 25%",50.5
+"Zimbabwe","ZWE","Wealth quartiles","ZWEw44","Highest 25%",74.5
+"Zimbabwe","ZWE","Subnat","ZWEr110","Bulawayo",73.0
+"Zimbabwe","ZWE","Subnat","ZWEr109","Harare",64.1
+"Zimbabwe","ZWE","Subnat","ZWEr101","Manicaland",40.7
+"Zimbabwe","ZWE","Subnat","ZWEr102","Mashonaland Central",35.8
+"Zimbabwe","ZWE","Subnat","ZWEr103","Mashonaland East",41.6
+"Zimbabwe","ZWE","Subnat","ZWEr104","Mashonaland West",42.3
+"Zimbabwe","ZWE","Subnat","ZWEr108","Masvingo",39.9
+"Zimbabwe","ZWE","Subnat","ZWEr105","Matebeleland North",32.1
+"Zimbabwe","ZWE","Subnat","ZWEr106","Matebeleland South",41.7
+"Zimbabwe","ZWE","Subnat","ZWEr107","Midlands",44.3
