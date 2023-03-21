@@ -1,5 +1,5 @@
 # HDI Downscaling
-Repository for the HDI downscaling collaboration with UNDP.
+Replication code for ["Global High-Resolution Estimates of the United Nations Human Development Index Using Satellite Imagery and Machine Learning"](https://www.nber.org/papers/w31044) which is currently available as an NBER Working Paper.
 
 
 ### Note on replication
