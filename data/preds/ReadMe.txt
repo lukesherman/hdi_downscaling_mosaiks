@@ -48,9 +48,14 @@ raster extent:		[-180,180, -56, 74]
 
 
 ## TABULAR DATA
-Tablular data can be merged with the ADM2 administrative geojson from geoBoundaries 
-available here: 
+Tablular data can be merged with the CGAZ ADM2 administrative geojson from geoBoundaries. 
+
+Specifically, you will need the CGAZ version 3.0.0 data product. The archived data release has a GitHub available here:
+https://github.com/wmgeolab/geoBoundariesArchive_3_0_0/
+ 
+The specific file used in our analysis is also available here: 
 https://www.geoboundaries.org/data/geoBoundariesCGAZ-3_0_0/ADM2/simplifyRatio_100/geoBoundariesCGAZ_ADM2.geojson
+
 
 Columns:
 predicted_adm2_HDI: 		- Predictions generated from the machine learning model 
