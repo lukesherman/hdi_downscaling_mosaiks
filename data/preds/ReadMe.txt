@@ -11,7 +11,7 @@ This `ReadMe` file provides information necessary to understand and interpret th
 raster (.tif) and tabular (.csv) HDI data files.
 
 Note that these data should be used cautiously. These are only estimates and may contain
-noise, systematic bias, compressed variance and other errors. 
+noise, systematic bias, compressed variance, and other errors. 
 
 
 GitHub github.com/lukesherman/hdi_downscaling_mosaiks
@@ -69,7 +69,7 @@ predicted_adm2_HDI: 		- Predictions generated from the machine learning model
 					   		  produced ADM1 HDI estimates.
 					   		  
 					   		- ADM2 estimates for Ireland are not released as the ADM2 units 
-					   		  from geoBoundaries are so small that they are not cannot be
+					   		  from geoBoundaries are so small that they cannot be
 					   		  adequately verified.
 					   		  
 est_total_pop:				- Total population count contained in each ADM2 region. This 
@@ -79,7 +79,7 @@ adm1_HDI_Smits:				- 2019 HDI estimate for the parent Global Data Lab
 							  ADM1 administrative unit. Please cite Smits and Permanyer (2019)
 							  https://www.nature.com/articles/sdata201938 if using these data.
 							  
-percent_overlap_GDL_ADM1 	- Indicates the percent of the ADM2 geoBoundaries ADM2 unit
+percent_overlap_GDL_ADM1 	- Indicates the percent of the geoBoundaries ADM2 unit
 								that overlaps the Global Data Lab ADM1 shapefile (using a 
 								WGS84 projection). Lower overlap implies more uncertainty 
 								in the re-centering.
@@ -94,7 +94,7 @@ shapeGroup					- Standard ISO3 code identifying the parent country
 
 shapeName					- Common name for the ADM2 unit from geoBoundaries
 
-shapeID						- Unique identifier for each ADM1 unit from geoBoundaries
+shapeID						- Unique identifier for each ADM2 unit from geoBoundaries (primary key)
 							
 	
 	
