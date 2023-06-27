@@ -33,11 +33,11 @@ Users aiming to replicate this research will likely need a basic familiarity wit
 
 
 ### MOSAIKS Features
-4. MOSAIKS features at ADM1 and ADM0 (model training) are included in the repo. MOSAIKS features for ADM2 polyons aust be downlaoaded directly at [siml.berkeley.edu/portal/precomputed](https://siml.berkeley.edu/portal/precomputed/). To replicate this analysis, download all of the population weighted python/pickle files and add them to the `/data/features/mosaiks_features/` directory. Note that these aggregated MOSAIKS features can also be used to predict a variety of other tasks at the ADM level of observation.
+4. MOSAIKS features at ADM1 and ADM0 (model training) are included in the repo. MOSAIKS features for ADM2 polyons must be downlaoaded directly at [siml.berkeley.edu/portal/precomputed](https://siml.berkeley.edu/portal/precomputed/). To replicate this analysis, download the ADM2 population weighted python/pickle file and add it to the `/data/features/mosaiks_features/` directory. Note that these aggregated MOSAIKS features can also be used to predict a variety of other tasks at the ADM level of observation.
 
 ### Shapefiles.
 5. Download ADM2 shapefile  from [geoBoundaries (CGAZ 3.0.0)](https://www.geoboundaries.org/data/geoBoundariesCGAZ-3_0_0/ADM2/simplifyRatio_100/geoBoundariesCGAZ_ADM2.geojson). This file should now be named `data/raw/geoBoundaries/geoBoundariesCGAZ_ADM2.geojson`. 
-6. Download ADM1 shapefile V4 from [Global Data Lab](https://globaldatalab.org/mygdl/downloads/shapefiles/). These files should be unzipped and placed in this diretory: `data/raw/GDL_HDI/`.
+6. Download ADM1 shapefile V4 from [Global Data Lab](https://globaldatalab.org/mygdl/downloads/shapefiles/). These files should be unzipped and placed in this directory: `data/raw/GDL_HDI/`.
 7. Mexico's ADM2 shapefile is also required to create the crosswalk with the geoBoundaries ADM2 regions. This is available for download from the [World Bank](https://datacatalog.worldbank.org/search/dataset/0039294). The shapefile should be unzipped and placed in the following directory: `data/undp/raw/Permanyer_MHDI/muni_2012gw/`.
 
 ### NL Data
