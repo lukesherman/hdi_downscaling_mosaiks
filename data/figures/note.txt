@@ -1,3 +1,0 @@
-Exported figures are not saved in the code repository. 
-
-Figures can be viewed in their respective Jupyter Notebooks (see code/analysis/Figs/)
